@@ -12,7 +12,7 @@ path = "/translate"
 constructed_url = endpoint + path
 
 
-def translate(string, from_lang, to_lang_lst):
+def translate(string_lst, from_lang, to_lang_lst):
     params = {
         "api-version": "3.0",
         "from": from_lang,
@@ -28,7 +28,10 @@ def translate(string, from_lang, to_lang_lst):
     }
 
     # You can pass more than one object in body.
-    body = [{"text": string}]
+    # body = [{"text": string}]
+    body = []
+    for s in string_lst:
+        body.append({"text": s})
 
     request = requests.post(constructed_url, params=params, headers=headers, json=body)
     response = request.json()
@@ -45,9 +48,13 @@ def translate(string, from_lang, to_lang_lst):
     )
     """
     result = []
-    for i in range(len(to_lang_lst)):
-        # print(response[0]["translations"][i]["text"])
-        result.append(response[0]["translations"][i]["text"])
+    for i in range(len(string_lst)):
+        word = []
+        for j in range(len(to_lang_lst)):
+            # print(i, j)
+            # print(response[0]["translations"][i]["text"])
+            word.append(response[i]["translations"][j]["text"])
+        result.append(word)
 
     return result
 

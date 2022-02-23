@@ -1,0 +1,1428 @@
+,Group,English,Cantonese
+0,Common phrases,what's up?,點呀
+1,Common phrases,thank you!,唔該/多謝
+2,Common phrases,you're welcome,唔哂（客氣）
+3,Common phrases,how are you?,你好嗎
+4,Common phrases,have you eaten yet?,你食咗飯未呀？
+5,Common phrases,how have you been lately?,最近點呀？
+6,Common phrases,bon appétit!,食飯
+7,Common phrases,bye!,再見!
+8,Common phrases,hello?,喂
+9,Common phrases,I'm from... ,我來自... 
+10,Common phrases,I'm... years old ,我...歲 
+11,Common phrases,see you tomorrow!,聽日見
+12,Common phrases,good morning,早晨
+13,Common phrases,"bill, please",唔該埋單
+14,Common phrases,here you go,拿
+15,Common phrases,I love you,我愛你
+16,Common phrases,how do you say (this) in Cantonese?,你點講（這個）廣東話？
+17,Common phrases,could you speak slower please?,你可唔可以講得更慢啲啊？
+18,Personal pronouns,I,我
+19,Personal pronouns,you,你
+20,Personal pronouns,"he, she, it",佢
+21,Personal pronouns,we,我哋 
+22,Personal pronouns,you (plural),你哋
+23,Personal pronouns,they,佢哋
+24,Numbers,zero,零
+25,Numbers,one,一
+26,Numbers,two,二兩
+27,Numbers,three,三
+28,Numbers,four,四
+29,Numbers,five,五
+30,Numbers,six,六
+31,Numbers,seven,七
+32,Numbers,eight,八
+33,Numbers,nine,九
+34,Numbers,ten,十
+35,Numbers,11,十一
+36,Numbers,12,十二
+37,Numbers,20,二十/廿
+38,Numbers,30,三十
+39,Numbers,100,一百
+40,Numbers,"1,000",一千
+41,Numbers,"10,000 ",一萬 
+42,Numbers,-th,第
+43,Numbers,half,半
+44,Numbers,52 ,五十二 
+45,Numbers,41 ,四十一 
+46,Numbers,38 ,三十八 
+47,Nouns,book,書
+48,Nouns,chair,椅子
+49,Nouns,car,車
+50,Nouns,home,屋企
+51,Nouns,moon,月
+52,Nouns,person,人
+53,Nouns,plant,植物
+54,Nouns,something,嘢
+55,Nouns,star,星
+56,Nouns,sun,太陽
+57,Nouns,table,抬
+58,Nouns,telephone,電話
+59,Nouns,TV,電視
+60,Nouns,tree,樹
+61,Nouns,water,水
+62,Verbs,verb,動詞
+63,Verbs,negation,唔
+64,Verbs,completed,咗
+65,Verbs,-ing,緊
+66,Verbs,"will, would",會
+67,Verbs,be,係
+68,Verbs,NaN,南
+69,Verbs,have,有
+70,Verbs,not have,冇
+71,Verbs,go,去
+72,Verbs,come,來
+73,Verbs,"can, may",可以
+74,Verbs,"want, need",要
+75,Verbs,"want to, would like to",想
+76,Verbs,"do, make",整
+77,Verbs,do,做
+78,Verbs,eat,食
+79,Verbs,drink,飲
+80,Verbs,like,鍾意
+81,Verbs,ask,問
+82,Verbs,buy,買
+83,Verbs,have enough,夠
+84,Verbs,know,知道
+85,Verbs,know how to,識
+86,Verbs,learn,學
+87,Verbs,leave,走
+88,Verbs,listen,聽
+89,Verbs,"live, reside",住
+90,Verbs,look for,搵
+91,Verbs,love,愛
+92,Verbs,"return, back, re-",返
+93,Verbs,come back,翻嚟
+94,Verbs,go back,返去
+95,Verbs,"say, speak",講
+96,Verbs,see,睇
+97,Verbs,translate,翻譯
+98,Verbs,understand,明白
+99,Verbs,understand,識聽
+100,Verbs,wait for,俟
+101,Adjectives,be  you are beautiful ,好
+102,Adjectives,beautiful,靚
+103,Adjectives,big,大
+104,Adjectives,cheap,平
+105,Adjectives,cold,凍
+106,Adjectives,crazy,黐線
+107,Adjectives,cute,得意
+108,Adjectives,difficult,難深
+109,Adjectives,easy,容易
+110,Adjectives,expensive,貴
+111,Adjectives,fast,快
+112,Adjectives,"few, a",幾
+113,Adjectives,good,好
+114,Adjectives,happy,開心
+115,Adjectives,hot,熱
+116,Adjectives,little,小/細
+117,Adjectives,"more, -er",啲
+118,Adjectives,new,新
+119,Adjectives,sad,唔開心
+120,Adjectives,small,小/細
+121,Adjectives,so,所以
+122,Adjectives,so ugly,太醜
+123,Adjectives,tired,癐
+124,Adjectives,"too, excessively   
+                not too",太...喇/唔係太
+125,Adjectives,ugly,核突
+126,Adjectives,very,好
+127,Adjectives,warm,暖
+128,Adverbs,a bit,一啲
+129,Adverbs,a lot,多
+130,Adverbs,again,再
+131,Adverbs,enough,夠
+132,Adverbs,maybe,可能或者
+133,Adverbs,"quite, rather",相當，相當
+134,Adverbs,together,一齊
+135,Adverbs,"too, as well",都
+136,Adverbs,"too, excessively   
+                not too",太...喇/唔係太
+137,Questions,(question word),呀
+138,Questions,who?,邊個呀
+139,Questions,what?,乜嘢呀
+140,Questions,what about ...?,呢
+141,Questions,when?,幾時呀
+142,Questions,where?,邊度呀
+143,Questions,how much?,呀多
+144,Questions,which?,邊　呀
+145,Academics and science,blackboard ,黑板 
+146,Academics and science,chalk,粉筆
+147,Academics and science,class,班
+148,Academics and science,course,堂
+149,Academics and science,desk,"抬
+            書檯
+        "
+150,Academics and science,homework,功課
+151,Academics and science,principal,校長
+152,Academics and science,report card,成績表
+153,Academics and science,term,學期
+154,Academics and science,student,學生
+155,Academics and science,teacher,老師
+156,Academics and science,graduate ,畢業 
+157,Academics and science,study,"讀
+
+            
+"
+158,Academics and science,lukewarm,溫
+159,Academics and science,school,學校
+160,Academics and science,kindergarten,幼稚園
+161,Academics and science,primary school,小學
+162,Academics and science,secondary school,中學
+163,Academics and science,university,大學
+164,Academics and science,degree,學位
+165,Academics and science,diploma,文憑
+166,Academics and science,certificate,證書
+167,Academics and science,high school diploma  ,中學文憑
+168,Academics and science,Bachelor's Degree (BA) ,學士
+169,Academics and science,Master's Degree (MA) ,碩士 
+170,Academics and science,Doctorate (PhD),博士
+171,Academics and science,subject,科
+172,Academics and science,algebra,代數科
+173,Academics and science,anthropology,人類學
+174,Academics and science,biology,生物學
+175,Academics and science,calculus,微積分學
+176,Academics and science,chemistry,化學
+177,Academics and science,commerce,商業
+178,Academics and science,computer science,計算機科學
+179,Academics and science,economics,經濟學
+180,Academics and science,engineering,工程
+181,Academics and science,geography,地理
+182,Academics and science,geology,地質學
+183,Academics and science,history,歷史
+184,Academics and science,linguistics,語言學
+185,Academics and science,math,數學
+186,Academics and science,med student,醫學生
+187,Academics and science,music,音樂 
+188,Academics and science,physics,物理
+189,Academics and science,religious studies,宗教研究
+190,Academics and science,science,科學
+191,Academics and science,sociology,社會學
+192,Academics and science,statistics,統計學
+193,Academics and science,urban planning,城市規劃
+194,Academics and science,lingustics,語言學
+195,Academics and science,linguist,語言學家
+196,Animals,animal,動物
+197,Animals,female,女性
+198,Animals,cat,貓 
+199,Animals,kitty cat,貓仔
+200,Animals,dog  ,狗
+201,Animals,doggy,狗仔
+202,Animals,chicken,雞
+203,Animals,hen,母雞
+204,Animals,rooster,雞公
+205,Animals,horse,馬
+206,Animals,pig,豬
+207,Animals,sheep,綿羊
+208,Animals,mammal,哺乳類動物
+209,Animals,bear,熊
+210,Animals,grizzly bear,大灰熊
+211,Animals,polar bear,北極熊 
+212,Animals,beaver,海貍
+213,Animals,deer,鹿
+214,Animals,elephant,大象  
+215,Animals,elk,麋鹿
+216,Animals,goat,山羊
+217,Animals,hedgehog,刺蝟
+218,Animals,koala,樹熊
+219,Animals,leopard,豹
+220,Animals,lion,獅子
+221,Animals,monkey,馬騮
+222,Animals,moose,麋鹿
+223,Animals,mouse,老鼠
+224,Animals,panda,熊貓
+225,Animals,panther,豹
+226,Animals,porcupine,箭豬
+227,Animals,rabbit,兔
+228,Animals,rat,老鼠
+229,Animals,reindeer,馴鹿
+230,Animals,squirrel,松鼠
+231,Animals,tiger,老虎
+232,Animals,wolf,狼
+233,Animals,bird  ,雀
+234,Animals,bat,蝙蝠  
+235,Animals,crow,烏鴉
+236,Animals,dove,白鴿
+237,Animals,eagle/falcon/hawk,鷹
+238,Animals,owl,貓頭鷹
+239,Animals,parrot,鸚鵡
+240,Animals,pigeon,白鴿
+241,Animals,seagull,海鷗
+242,Animals,fish,魚
+243,Animals,dolphin,海豚
+244,Animals,shark,鯊魚  
+245,Animals,whale,鯨魚
+246,Animals,bug,蟲
+247,Animals,ant,螞蟻  
+248,Animals,bee,蜜蜂
+249,Animals,butterfly,蝴蝶
+250,Animals,cockroach,曱甴
+251,Animals,dragonfly,蜻蜓
+252,Animals,fleas,跳蚤
+253,Animals,fly,烏蠅
+254,Animals,ladybug,瓢蟲
+255,Animals,lice,蝨乸
+256,Animals,mosquito,蚊
+257,Animals,spider,蜘蛛
+258,Animals,spider web,蜘蛛
+259,Animals,wasp,黃蜂
+260,Animals,worm,蠕蟲
+261,Animals,crocodile,鱷魚
+262,Animals,dragon  ,龍
+263,Animals,frog,青蛙
+264,Animals,lizard,蜥蜴
+265,Animals,snake,蛇  
+266,Animals,turtle,龜
+267,Animals,antenna,天線
+268,Animals,beak,喙
+269,Animals,claw,爪
+270,Animals,feather,羽毛
+271,Animals,fur,毛皮
+272,Animals,jaws,下巴
+273,Animals,paw,爪子
+274,Animals,scale,規模
+275,Animals,tail,尾巴
+276,Animals,tentacle,觸手
+277,Animals,wing,翅膀
+278,Animals,bark,樹皮
+279,Animals,bite,咬
+280,Animals,growl,咆哮
+281,Animals,meow,貓叫聲
+282,Animals,purr,咕嚕咕嚕叫
+283,Animals,sting,刺痛
+284,Animals,wag its tail,搖尾巴
+285,Bathroom and toiletries,baby powder,爽身粉
+286,Bathroom and toiletries,bathtub,浴缸
+287,Bathroom and toiletries,brush,刷
+288,Bathroom and toiletries,comb,梳
+289,Bathroom and toiletries,conditioner,護髮素
+290,Bathroom and toiletries,dental floss,牙線
+291,Bathroom and toiletries,deodorant,除臭劑
+292,Bathroom and toiletries,electric razor,電鬚刨
+293,Bathroom and toiletries,gel,髮乳
+294,Bathroom and toiletries,Kleenex,紙巾
+295,Bathroom and toiletries,laxative,瀉藥
+296,Bathroom and toiletries,lipstick,口唇膏
+297,Bathroom and toiletries,make-up,化裝
+298,Bathroom and toiletries,mirror,鏡
+299,Bathroom and toiletries,nail clippers,指甲鉗
+300,Bathroom and toiletries,perfume,香水
+301,Bathroom and toiletries,razor,剃刀
+302,Bathroom and toiletries,sanitary napkins,衛生巾
+303,Bathroom and toiletries,shampoo,洗頭水
+304,Bathroom and toiletries,shaver,剃鬚
+305,Bathroom and toiletries,shaving cream,剃鬚膏
+306,Bathroom and toiletries,shower,花灑/淋浴
+307,Bathroom and toiletries,sink,洗手盤
+308,Bathroom and toiletries,soap,番梘
+309,Bathroom and toiletries,tampon,衛生棉條/棉球
+310,Bathroom and toiletries,toilet,廁所
+311,Bathroom and toiletries,to flush,沖廁
+312,Bathroom and toiletries,toilet paper,廁紙
+313,Bathroom and toiletries,toothbrush,牙刷
+314,Bathroom and toiletries,brush one's teeth,刷牙
+315,Bathroom and toiletries,toothpaste,牙膏
+316,Bathroom and toiletries,vaseline,凡士林
+317,Bedroom,bed,床
+318,Bedroom,book,書
+319,Bedroom,chair,櫈
+320,Bedroom,computer,電腦
+321,Bedroom,condom,（避孕）套
+322,Bedroom,sheets,床單
+323,Bedroom,pillow,枕頭
+324,Bedroom,table,枱
+325,Bedroom,telephone,電話
+326,Bedroom,TV,電視
+327,Body,ankle,踝
+328,Body,arm,手臂
+329,Body,back,返回
+330,Body,beard,鬍鬚
+331,Body,belly,腹
+332,Body,blood,血
+333,Body,body,身體
+334,Body,body part ,身體部份 
+335,Body,bone,骨
+336,Body,brain,腦
+337,Body,breast,胸
+338,Body,chest,胸
+339,Body,ear,耳朵
+340,Body,eye,眼
+341,Body,face,臉
+342,Body,finger,手指
+343,Body,fingernail,指甲
+344,Body,foot,腳
+345,Body,hair,毛
+346,Body,hair,毛
+347,Body,hand,手
+348,Body,head,頭
+349,Body,heart,心
+350,Body,hip,臀部
+351,Body,knee,膝蓋
+352,Body,leg,腿
+353,Body,lip,唇
+354,Body,liver,肝
+355,Body,lungs,肺
+356,Body,mouth,口
+357,Body,muscle,肌肉
+358,Body,nerve,神經
+359,Body,neck,脖子
+360,Body,nose,鼻子
+361,Body,organ,器官
+362,Body,penis,陰莖
+363,Body,rib,肋
+364,Body,sick,生病
+365,Body,shoulder,肩膀
+366,Body,skin,皮膚
+367,Body,stomach,胃
+368,Body,sweat,汗
+369,Body,teeth,牙齒
+370,Body,thumb,拇指
+371,Body,tongue,舌
+372,Body,uterus,子宮
+373,Body,vagina,陰道
+374,Body,vein,靜脈
+375,Body,waist,腰
+376,Body,bathroom,浴室
+377,Body,booger,鼻屎
+378,Body,ear wax,耳垢
+379,Body,period,時期
+380,Body,pee,撒尿
+381,Body,pooh,維尼
+382,Body,snot,鼻涕
+383,Body,spit,吐
+384,Clothing,bathing suit,游泳衣
+385,Clothing,bikini,比堅尼
+386,Clothing,clothes,衣服
+387,Clothing,belt,帶
+388,Clothing,boots,靴子
+389,Clothing,boxers,平角褲
+390,Clothing,briefs,內褲
+391,Clothing,button,按鈕
+392,Clothing,coat,外套
+393,Clothing,dress,衫裙
+394,Clothing,gloves,手套
+395,Clothing,hat,帽子
+396,Clothing,high heels,高跟鞋
+397,Clothing,jacket,夾剋
+398,Clothing,jeans,牛仔褲
+399,Clothing,panties,內褲
+400,Clothing,pants,褲子
+401,Clothing,pantyhose,連褲襪
+402,Clothing,pyjamas,睡衣
+403,Clothing,raincoat,雨衣
+404,Clothing,running shoes,跑鞋
+405,Clothing,sandals,涼鞋
+406,Clothing,scarf,頸巾
+407,Clothing,shirt,恤衫
+408,Clothing,shoes,鞋
+409,Clothing,shorts,短褲
+410,Clothing,skirt,裙子
+411,Clothing,slippers,拖鞋
+412,Clothing,socks,襪子
+413,Clothing,sportswear,運動服
+414,Clothing,stockings,絲襪
+415,Clothing,suit,適合
+416,Clothing,sweater,毛衣
+417,Clothing,sweatshirt,運動衫
+418,Clothing,T-shirt,體恤衣服
+419,Clothing,tie,綁
+420,Clothing,underwear,內衣
+421,Clothing,uniform,均勻
+422,Clothing,zipper,拉鏈
+423,Colours,colour,顏色
+424,Colours,beige,米色
+425,Colours,black,黑色
+426,Colours,blue,藍色
+427,Colours,brown,啡色
+428,Colours,bright,鮮
+429,Colours,bronze,古銅色
+430,Colours,dark,深
+431,Colours,flesh,肉色
+432,Colours,fluorescent,螢光
+433,Colours,gold,金色
+434,Colours,green,綠色
+435,Colours,green-yellow,青色
+436,Colours,grey,灰色
+437,Colours,light,淺
+438,Colours,maroon,棗紅色
+439,Colours,orange,橙色
+440,Colours,pink,粉紅色
+441,Colours,purple,紫色
+442,Colours,red,紅色
+443,Colours,silver,銀色
+444,Colours,transparent,透明
+445,Colours,white,白色
+446,Colours,yellow,黃色
+447,Computers,computer,電腦
+448,Computers,chat,傾偈
+449,Computers,e-mail,電郵
+450,Computers,Internet,互聯網
+451,Computers,keyboard ,鍵盤 
+452,Computers,mouse,滑鼠
+453,Countries and cities,country,國(家)
+454,Countries and cities,inhabitant,居民
+455,Countries and cities,I'm from... ,我來自... 
+456,Countries and cities,Westerner,西方人
+457,Countries and cities,Chinatown ,唐人街 
+458,Countries and cities,Africa ,非洲 
+459,Countries and cities,Egypt,埃及
+460,Countries and cities,South Africa,南非
+461,Countries and cities,North America,北美洲
+462,Countries and cities,South America,南美洲
+463,Countries and cities,Brazil,巴西
+464,Countries and cities,Canada,加拿大
+465,Countries and cities,Montreal,蒙特利爾
+466,Countries and cities,Quebec,魁北克
+467,Countries and cities,Toronto,多倫多
+468,Countries and cities,Vancouver,温哥華
+469,Countries and cities,Cuba,古巴
+470,Countries and cities,Jamaica,牙買加
+471,Countries and cities,Mexico,墨西哥
+472,Countries and cities,United States,美國
+473,Countries and cities,California,加州
+474,Countries and cities,New York,紐約
+475,Countries and cities,San Francisco,舊金山
+476,Countries and cities,Washington,華盛頓 
+477,Countries and cities,Antarctica ,南極 
+478,Countries and cities,Asia,亞洲
+479,Countries and cities,Afghanistan,阿富汗
+480,Countries and cities,Australia,澳洲
+481,Countries and cities,Bangladesh,孟加拉囯
+482,Countries and cities,China,中國
+483,Countries and cities,Beijing,北京
+484,Countries and cities,Guangzhou,廣州
+485,Countries and cities,Hong Kong,香港
+486,Countries and cities,Kowloon,九龍
+487,Countries and cities,Taiwan,台灣
+488,Countries and cities,Tibet,西藏
+489,Countries and cities,Xi'an,西安
+490,Countries and cities,India,印度
+491,Countries and cities,Indonesia,印尼
+492,Countries and cities,Iran,伊朗
+493,Countries and cities,Iraq,伊拉克
+494,Countries and cities,Israel,以色列 
+495,Countries and cities,Japan,日本
+496,Countries and cities,Tokyo,東京
+497,Countries and cities,Korea,韓國
+498,Countries and cities,Seoul,漢城
+499,Countries and cities,Malaysia,馬來西亞
+500,Countries and cities,Middle East,中東
+501,Countries and cities,New Zealand,紐西蘭
+502,Countries and cities,Pakistan,巴基斯坦
+503,Countries and cities,Philippines,非律賓
+504,Countries and cities,Russia,俄羅斯
+505,Countries and cities,Moscow,莫斯科
+506,Countries and cities,Singapore,新加坡
+507,Countries and cities,Thailand,泰國
+508,Countries and cities,Vietnam,越南
+509,Countries and cities,Europe,歐洲
+510,Countries and cities,Austria,奧地利
+511,Countries and cities,Belgium,比利時
+512,Countries and cities,Bosnia,波斯尼亞
+513,Countries and cities,Czech Republic,捷克
+514,Countries and cities,Denmark,丹麥
+515,Countries and cities,England,英國
+516,Countries and cities,Finland,芬蘭
+517,Countries and cities,France,法國
+518,Countries and cities,Paris,巴黎
+519,Countries and cities,Germany,德國
+520,Countries and cities,Berlin,柏林
+521,Countries and cities,Greece,希臘
+522,Countries and cities,Holland,荷蘭
+523,Countries and cities,Hungary,匈牙利
+524,Countries and cities,Ireland,愛爾蘭
+525,Countries and cities,Italy,意大利
+526,Countries and cities,Rome,羅馬
+527,Countries and cities,Netherlands,荷蘭
+528,Countries and cities,Norway,挪威
+529,Countries and cities,Poland,波蘭
+530,Countries and cities,Portugal,葡萄牙
+531,Countries and cities,Spain,西班牙
+532,Countries and cities,Sweden,瑞典
+533,Countries and cities,Switzerland,瑞士
+534,Countries and cities,Turkey,土耳其
+535,Countries and cities,United Kingdom ,英國
+536,Countries and cities,London,倫敦
+537,Countries and cities,Wales,威爾斯
+538,Countries and cities,Scotland,蘇格蘭
+539,Family,brother,哥哥
+540,Family,daughter,女兒
+541,Family,father,老竇
+542,Family,grandmother,嫲嫲
+543,Family,husband,老公
+544,Family,mother,亞媽
+545,Family,relative,相對
+546,Family,sister,姐姐
+547,Family,NaN,南
+548,Family,wife,老婆
+549,Famous people,actor,演員
+550,Famous people,beauty pageant,選美(會)
+551,Famous people,celebrity,名人
+552,Famous people,entertainment,娛樂
+553,Famous people,famous,出名
+554,Famous people,idol,偶像
+555,Famous people,pop megastar (male),天王
+556,Famous people,pop star,歌星
+557,Feelings,feel,覺得
+558,Feelings,complain,抱怨
+559,Feelings,congratulate,祝賀
+560,Feelings,forgive,原諒
+561,Feelings,gossip,八卦
+562,Feelings,love,愛
+563,Feelings,hate,恨
+564,Feelings,worry,擔心
+565,Feelings,hope,希望
+566,Feelings,regret,後悔
+567,Feelings,respect,尊
+568,Feelings,thank,多謝
+569,Feelings,wonder,奇蹟
+570,Feelings,I feel...,我覺得
+571,Feelings,afraid,驚
+572,Feelings,angry,嬲
+573,Feelings,annoyed,煩
+574,Feelings,ashamed,醜
+575,Feelings,bored,悶
+576,Feelings,calm,平靜
+577,Feelings,cold,凍
+578,Feelings,comfortable,舒服
+579,Feelings,content,內容
+580,Feelings,depressed,唔開心
+581,Feelings,desperate,絕望
+582,Feelings,disappointed,失望
+583,Feelings,envious,羡慕
+584,Feelings,excited,興奮
+585,Feelings,frustrated,沮喪
+586,Feelings,glad,開心
+587,Feelings,grateful,感激
+588,Feelings,grumpy,性情乖戾嘅
+589,Feelings,guilty,內疚
+590,Feelings,happy,開心
+591,Feelings,hopeless,絕望嘅
+592,Feelings,horny,角質
+593,Feelings,hot,熱
+594,Feelings,hyper,超
+595,Feelings,in a bad mood,心情唔好
+596,Feelings,indifferent,冷漠
+597,Feelings,jealous,妒忌
+598,Feelings,nervous,緊張
+599,Feelings,proud,驕傲
+600,Feelings,sad,唔開心
+601,Feelings,scared,驚
+602,Feelings,shocked,驚獃
+603,Feelings,sleepy,眼瞓
+604,Feelings,suicidal,有自殺傾向
+605,Feelings,surprised,驚訝
+606,Feelings,thirsty,渴
+607,Feelings,tired,癐
+608,Feelings,uncomfortable,難受
+609,Feelings,worried,擔心
+610,Feelings,I love you,我愛你
+611,Feelings,I just want to kill myself,我死咗去好過
+612,Feelings,plagued with anxiety,廢枕忘餐
+613,Food and drink,bon appétit! ,食飯 
+614,Food and drink,drink,喝
+615,Food and drink,eat,吃
+616,Food and drink,full,飽 
+617,Food and drink,hungry,肚餓 
+618,Food and drink,thirsty ,口渴
+619,Food and drink,burned,焦
+620,Food and drink,cold,凍
+621,Food and drink,cooked,熟
+622,Food and drink,delicious,好食
+623,Food and drink,fresh,生鮮
+624,Food and drink,gone bad,變壞
+625,Food and drink,good,好
+626,Food and drink,hot,熱
+627,Food and drink,"makes me salivate, just seeing it",見到都流口水
+628,Food and drink,raw,生
+629,Food and drink,smells good,香
+630,Food and drink,tasty,好味
+631,Food and drink,warm,温暖
+632,Food and drink,vegetarian,素食/素菜
+633,Food and drink,to be vegetarian,食齋 
+634,Food and drink,alcohol,酒（精）
+635,Food and drink,alcoholic beverage ,酒類 
+636,Food and drink,beer,啤酒
+637,Food and drink,caffeine,咖啡因
+638,Food and drink,coffee,咖啡
+639,Food and drink,hot chocolate,熱巧克力
+640,Food and drink,juice,汁
+641,Food and drink,milk,奶
+642,Food and drink,milkshake,奶昔
+643,Food and drink,soy milk,豆漿
+644,Food and drink,water,水
+645,Food and drink,wine,酒
+646,Food and drink,red wine,紅酒
+647,Food and drink,white wine,醝
+648,Food and drink,tea,茶
+649,Food and drink,black tea,紅茶
+650,Food and drink,Lapsang Souchong,正山小種
+651,Food and drink,Pu'er tea*,普洱茶
+652,Food and drink,Pu'er and camomile*,菊普
+653,Food and drink,camomile tea,洋甘菊茶
+654,Food and drink,fennel tea,茴香茶
+655,Food and drink,ginger tea,薑茶
+656,Food and drink,green tea*,綠茶
+657,Food and drink,dragon well tea*,龍井
+658,Food and drink,herbal tea,涼茶
+659,Food and drink,jasmine tea,茉莉
+660,Food and drink,kava kava tea,卡瓦卡瓦茶
+661,Food and drink,lavender tea,薰衣草茶
+662,Food and drink,lemon tea,檸茶
+663,Food and drink,Oolong tea*,烏龍茶
+664,Food and drink,red tea,紅茶
+665,Food and drink,Tieguanyin tea*,鐵觀音茶
+666,Food and drink,Sau Mei tea*,壽眉
+667,Food and drink,sweet herb tea,甜草本茶
+668,Food and drink,tea with cream/milk ,奶茶
+669,Food and drink,tea leaves,茶葉
+670,Food and drink,pop/soda/soft drink ,汽水
+671,Food and drink,cola/coke,可樂
+672,Food and drink,Coca-Cola,可口可樂 
+673,Food and drink,lemon Coke,檸樂
+674,Food and drink,Pepsi,百事（可樂） 
+675,Food and drink,Fanta,芬達
+676,Food and drink,7 Up,七喜
+677,Food and drink,Sprite,雪碧
+678,Food and drink,breakfast,早餐
+679,Food and drink,dinner/supper,晚餐/晚餐
+680,Food and drink,lunch,午餐
+681,Food and drink,have lunch,吃午飯
+682,Food and drink,dim sum,點心
+683,Food and drink,salad,沙律
+684,Food and drink,soup,湯
+685,Food and drink,sushi,壽司
+686,Food and drink,pizza,比薩餅
+687,Food and drink,fruit,生果
+688,Food and drink,apple,蘋果
+689,Food and drink,apricot,杏
+690,Food and drink,banana,香蕉
+691,Food and drink,blueberry,藍莓
+692,Food and drink,cantaloupe,哈蜜瓜
+693,Food and drink,cherry,車厘子
+694,Food and drink,coconut,椰子
+695,Food and drink,durian,榴蓮
+696,Food and drink,fig,無花果
+697,Food and drink,grapefruit,西柚
+698,Food and drink,grapes,提子
+699,Food and drink,guava,番石榴
+700,Food and drink,honeydew melon,蜜瓜
+701,Food and drink,kiwi,奇異果
+702,Food and drink,lemon,檸檬
+703,Food and drink,lime,青檸
+704,Food and drink,longan,龍眼
+705,Food and drink,lychee,荔枝
+706,Food and drink,mango,杧果
+707,Food and drink,melon,瓜
+708,Food and drink,orange,橙
+709,Food and drink,papaya,木瓜
+710,Food and drink,peach,桃
+711,Food and drink,pear,梨
+712,Food and drink,persimmon,柿子
+713,Food and drink,pineapple,菠蘿
+714,Food and drink,plum,李
+715,Food and drink,raspberry,樹莓
+716,Food and drink,starfruit,楊桃
+717,Food and drink,strawberry,士多啤厘
+718,Food and drink,tangerine,柑
+719,Food and drink,watermelon,西瓜
+720,Food and drink,vegetable,蔬菜
+721,Food and drink,asparagus,蘆筍
+722,Food and drink,beans,豆
+723,Food and drink,bok choy,青菜
+724,Food and drink,broccoli,西蘭花
+725,Food and drink,cabbage,白菜
+726,Food and drink,carrot,胡蘿蔔
+727,Food and drink,cauliflower,椰菜花
+728,Food and drink,celery,芹菜
+729,Food and drink,corn,玉米
+730,Food and drink,cucumber,青瓜
+731,Food and drink,eggplant,茄子
+732,Food and drink,green onion,蔥
+733,Food and drink,lettuce,生菜
+734,Food and drink,mushroom,蘑菇
+735,Food and drink,white button ,白色按鈕 
+736,Food and drink,dried shiitake ,乾冬菇 
+737,Food and drink,black fungus,黑木耳
+738,Food and drink,olive,橄欖
+739,Food and drink,onion,洋蔥
+740,Food and drink,peas,豌豆
+741,Food and drink,potato,土豆
+742,Food and drink,pumpkin,南瓜
+743,Food and drink,seaweed,海藻
+744,Food and drink,snow peas,雪豌豆
+745,Food and drink,spinach,菠菜
+746,Food and drink,sweet potato,番薯
+747,Food and drink,tomato,番茄
+748,Food and drink,turnip,蘿蔔
+749,Food and drink,yam,山藥
+750,Food and drink,zucchini,夏南瓜
+751,Food and drink,rice,米
+752,Food and drink,fried rice,炒飯
+753,Food and drink,bread,麵包
+754,Food and drink,flour,麵粉
+755,Food and drink,noodles,面條
+756,Food and drink,fried noodles,炒麵
+757,Food and drink,instant noodles,即食麵
+758,Food and drink,rice noodles,米粉
+759,Food and drink,steamed bun,饅頭
+760,Food and drink,meat,肉
+761,Food and drink,almonds,杏仁
+762,Food and drink,beef,牛肉
+763,Food and drink,cashews,腰果
+764,Food and drink,chicken,雞
+765,Food and drink,duck,鴨
+766,Food and drink,egg,蛋
+767,Food and drink,nuts,堅菓
+768,Food and drink,peanuts,花生
+769,Food and drink,pork,豬肉
+770,Food and drink,tofu,豆腐
+771,Food and drink,turkey,土耳其
+772,Food and drink,walnuts,核桃
+773,Food and drink,fish,魚
+774,Food and drink,calamari,魷魚
+775,Food and drink,eel,鰻魚
+776,Food and drink,lobster,龍蝦
+777,Food and drink,salmon,三文魚
+778,Food and drink,shrimp,蝦
+779,Food and drink,tentacles,觸角
+780,Food and drink,tuna,吞拿魚
+781,Food and drink,bake,烤
+782,Food and drink,bake by slow fire,慢火煨
+783,Food and drink,barbecue,烤肉
+784,Food and drink,boil,煮
+785,Food and drink,braise,蒸
+786,Food and drink,deep fry,油炸
+787,Food and drink,"fry, sauté ",炒，炒 
+788,Food and drink,grill,燒烤
+789,Food and drink,marinate,醃
+790,Food and drink,microwave,微波
+791,Food and drink,roast,烤
+792,Food and drink,simmer,煨
+793,Food and drink,smoked,熏
+794,Food and drink,steam,蒸汽
+795,Food and drink,stew,燉 
+796,Food and drink,stir fry,炒
+797,Health and illness,health,健康
+798,Health and illness,healthy,健康
+799,Health and illness,sick,生病
+800,Health and illness,acupuncture,針刺
+801,Health and illness,Chinese medicine,中醫
+802,Health and illness,clinic,診所
+803,Health and illness,doctor,醫生
+804,Health and illness,hospital,醫院
+805,Health and illness,injection,注射
+806,Health and illness,massage,按摩
+807,Health and illness,nurse,護士
+808,Health and illness,pharmacy,藥房
+809,Health and illness,vitamin,維生素
+810,Health and illness,yoga,瑜伽
+811,Health and illness,disease,疾病
+812,Health and illness,suffer from,害
+813,Health and illness,abortion,流產
+814,Health and illness,AIDS,愛滋病
+815,Health and illness,allergies,過敏症
+816,Health and illness,anorexia,厭食
+817,Health and illness,anthrax,炭疽
+818,Health and illness,anxiety,焦慮
+819,Health and illness,athlete's foot,腳氣
+820,Health and illness,arthritis,關節炎
+821,Health and illness,asthma,哮喘
+822,Health and illness,bipolar,雙
+823,Health and illness,broken,破碎
+824,Health and illness,bruise,瘀傷
+825,Health and illness,bleed,流血
+826,Health and illness,burt,伯特
+827,Health and illness,bulimia,貪食症
+828,Health and illness,cancer,癌症
+829,Health and illness,chickenpox,水痘
+830,Health and illness,chlamydia,衣原體
+831,Health and illness,"clap, the",拍手，
+832,Health and illness,crabs,螃蟹
+833,Health and illness,cold,冷
+834,Health and illness,constipated,便秘
+835,Health and illness,cramps,抽筋
+836,Health and illness,depression,抑鬱症
+837,Health and illness,antidepressant,抗抑鬱藥
+838,Health and illness,diabetes,糖尿病
+839,Health and illness,diarrhea,腹瀉
+840,Health and illness,dislocated,脫臼
+841,Health and illness,dizzy,頭暈
+842,Health and illness,eating disorder,飲食失調
+843,Health and illness,epilepsy,癲癇
+844,Health and illness,faint,微弱
+845,Health and illness,fever,發燒
+846,Health and illness,flu,流感
+847,Health and illness,genital warts,生殖器疣
+848,Health and illness,gonnorhea,gonnorhea
+849,Health and illness,headache,頭痛
+850,Health and illness,heart attack,心臟病發作
+851,Health and illness,hepatitis,肝炎
+852,Health and illness,herpes,皰疹
+853,Health and illness,hurt,傷害
+854,Health and illness,indigestion,消化不良
+855,Health and illness,insect bite,昆蟲叮咬
+856,Health and illness,insomnia,失眠
+857,Health and illness,lice,蝨乸
+858,Health and illness,lactose intolerant,乳糖不耐症
+859,Health and illness,"loss of appetite, no appetite",食欲不振，無食欲
+860,Health and illness,manic depression,躁狂抑鬱症
+861,Health and illness,migraine,偏頭痛
+862,Health and illness,miscarriage,流產
+863,Health and illness,narcolepsy,發作
+864,Health and illness,pneumonia,肺炎 
+865,Health and illness,SARS,非典形肺炎 
+866,Health and illness,schizophrenia ,精神分裂癥 
+867,Health and illness,seizure,沒收
+868,Health and illness,sleepwalk,夢遊
+869,Health and illness,sore,瘡
+870,Health and illness,sprain,扭傷
+871,Health and illness,STD,性病
+872,Health and illness,stroke,中風
+873,Health and illness,suicide,自殺
+874,Health and illness,commit suicide,自殺
+875,Health and illness,swollen,腫
+876,Health and illness,tuberculosis,結核
+877,Health and illness,West Nile virus,西尼羅河病毒
+878,Health and illness,virus,病毒
+879,Health and illness,yeast infection,酵母菌感染
+880,Holidays and celebrations,Chinese New Year,農曆新年
+881,Holidays and celebrations,Christmas,聖誕節
+882,Holidays and celebrations,Christmas tree,聖誕樹
+883,Holidays and celebrations,Easter,復活節
+884,Holidays and celebrations,Santa Claus,聖誕老人
+885,Interjections and sentence particles,"ew, gross!",哎呀，粗暴！
+886,Interjections and sentence particles,hello!,你好!
+887,Interjections and sentence particles,hey!,嘿！
+888,Interjections and sentence particles,oh!,阿霍
+889,Interjections and sentence particles,ouch!,哎喲！
+890,Interjections and sentence particles,wow!,哇！
+891,Interjections and sentence particles,a,一個
+892,Interjections and sentence particles,a,一個
+893,Interjections and sentence particles,at,係
+894,Interjections and sentence particles,a,一個
+895,Interjections and sentence particles,dzek,泽克
+896,Interjections and sentence particles,ga,加語
+897,Interjections and sentence particles,gm,通用汽車
+898,Interjections and sentence particles,la,洛杉磯
+899,Kitchenware,baggie,巴吉
+900,Kitchenware,bottle,瓶
+901,Kitchenware,bowl,碗
+902,Kitchenware,can,能
+903,Kitchenware,chair,椅子
+904,Kitchenware,chopsticks,筷子
+905,Kitchenware,cookbook,食譜
+906,Kitchenware,cup,杯
+907,Kitchenware,dishes,碗筷
+908,Kitchenware,dishwasher,洗碗機
+909,Kitchenware,fork,叉
+910,Kitchenware,freezer,雪櫃
+911,Kitchenware,frying pan,煎鍋
+912,Kitchenware,glass,玻璃
+913,Kitchenware,knife,刀
+914,Kitchenware,napkin,餐巾
+915,Kitchenware,packet,包
+916,Kitchenware,plate,碟
+917,Kitchenware,pot,罐
+918,Kitchenware,refridgerator,雪櫃
+919,Kitchenware,spoon,勺子
+920,Kitchenware,table,枱
+921,Kitchenware,table cloth,台布
+922,Kitchenware,teapot,茶壺
+923,Kitchenware,telephone,電話
+924,Kitchenware,wok,鑊
+925,Languages,Cantonese,廣東話
+926,Languages,Arabic,阿拉伯文 
+927,Languages,Chinese,中文
+928,Languages,Dutch,荷蘭話
+929,Languages,English,英文
+930,Languages,Esperanto,世界語
+931,Languages,French,法文
+932,Languages,German,德文
+933,Languages,Hakka Chinese,客家話
+934,Languages,Japanese,日文
+935,Languages,Korean,韓文
+936,Languages,Mandarin,國語
+937,Languages,Russian,俄文
+938,Languages,Shanghainese,上海話
+939,Languages,Spanish,西班牙文
+940,Languages,Toki Pona,道本文
+941,Living room,armchair,扶手凳
+942,Living room,book,書
+943,Living room,carpet,地毯
+944,Living room,chair,椅子
+945,Living room,coffee table,咖啡桌
+946,Living room,couch,梳化
+947,Living room,cushion,墊
+948,Living room,remote control,遙控
+949,Living room,rug,地毯
+950,Living room,sofa,梳化
+951,Living room,table,枱
+952,Living room,telephone,電話
+953,Living room,TV,電視
+954,Metals and stones,brass,黃銅
+955,Metals and stones,brick,砖
+956,Metals and stones,bronze,青銅
+957,Metals and stones,cement,水泥
+958,Metals and stones,clay,黏土
+959,Metals and stones,concrete,混凝土
+960,Metals and stones,copper,銅
+961,Metals and stones,diamond,鑽石
+962,Metals and stones,gold,金
+963,Metals and stones,iron,鐵
+964,Metals and stones,marble,大理石
+965,Metals and stones,silver,銀
+966,Metals and stones,zinc,鋅
+967,Money and business,money,錢
+968,Money and business,how much?,幾多?
+969,Money and business,buy,買
+970,Money and business,change,改變
+971,Money and business,cheap,平
+972,Money and business,(have/be) enough,（擁有/成為）足夠
+973,Money and business,expensive,貴
+974,Money and business,owe,欠
+975,Movies,movie,戲
+976,Movies,cinema,戲院
+977,Movies,"subtitles
+                   English subtitles",字幕/英文字幕
+978,Movies,tape,帶
+979,Movies,ticket,飛
+980,Movies,copy,抄
+981,Movies,record,錄
+982,Movies,rent,租
+983,Movies,return,還
+984,Movies,rewind,返帶
+985,Movies,watch,睇
+986,Movies,actor,演員
+987,Movies,fan,影迷
+988,Movies,movie star,明星
+989,Movies,action movie,動作片
+990,Movies,anime,動畫
+991,Movies,Japanime,日本動畫
+992,Movies,cartoon,卡通片
+993,Movies,comedy,笑片
+994,Movies,foreign film,西片
+995,Movies,gangster movie,警匪片
+996,Movies,horror movie,鬼片
+997,Movies,Ashes of Time (1994),東邪西毒
+998,Movies,"Autumn's Tale, An (1987)",秋天的話
+999,Movies,"Better Tomorrow, A (1986)",明天更好（1986）
+1000,Movies,"Chinese Ghost Story, A (1987)",中國鬼故事A （1987）
+1001,Movies,Chungking Express (1995),重慶森林 
+1002,Movies,Days of Being Wild (1990),阿飛正傳
+1003,Movies,Five Deadly Venoms (1978),五毒
+1004,Movies,Fallen Angels (1995),墮落天使
+1005,Movies,Fist of Legend (1994),傳奇之拳（ 1994 ）
+1006,Movies,Happy Together (1997),一起快樂（1997）
+1007,Movies,Hard-Boiled (1992),硬煮（1992）
+1008,Movies,In the Mood for Love (2000),花樣年華
+1009,Movies,Iron Monkey (1993),鉄猴子（ 1993 ）
+1010,Movies,Jackie Chan's Police Force (1985),成龍嘅警察部隊（ 1985 ）
+1011,Movies,"Killer, The (1989)",喋血雙雄
+1012,Movies,Kung-Fu Soccer (2001),少林足球
+1013,Movies,"Legend of Drunken Master, The (2000) ",醉拳II
+1014,Movies,Once Upon a Time in China (1991),黃飛鴻
+1015,Movies,Peking Opera Blues (1990),京劇藍調（ 1990 ）
+1016,Music,music,音樂
+1017,Music,song,歌
+1018,Music,rave,狂熱派對
+1019,Music,ticket,飛
+1020,Music,concert,演唱會
+1021,Music,musical instrument,樂器
+1022,Music,"piano
+                   play piano",鋼琴/彈琴
+1023,Music,"violin
+                   play violin",小提琴拉小提琴
+1024,Music,fan of a singer,歌迷
+1025,Music,idol,偶像
+1026,Music,megastar (male),天王
+1027,Music,pop star,歌星
+1028,Nature,beach,海灘
+1029,Nature,cloud,雲
+1030,Nature,field,田
+1031,Nature,forest,森林
+1032,Nature,jungle,叢林
+1033,Nature,lake,湖
+1034,Nature,moon,月亮
+1035,Nature,plant,植物
+1036,Nature,river,河
+1037,Nature,rock,岩石
+1038,Nature,sea,海 
+1039,Nature,sky,天空
+1040,Nature,star,星
+1041,Nature,sun,太陽
+1042,Nature,swim,游泳
+1043,Nature,tree,樹
+1044,Nature,water,水
+1045,Nature,waterfall,瀑布
+1046,Nature,wave,浪
+1047,Occupations,what do you do for a living?,你靠乜嘢搵食？
+1048,Occupations,where do you work?,你系边度工作？
+1049,Occupations,occupation,職業
+1050,Occupations,actor,演員
+1051,Occupations,businessperson,商人
+1052,Occupations,chef,廚師
+1053,Occupations,civil servant,公務員
+1054,Occupations,dentist,牙醫
+1055,Occupations,doctor,醫生
+1056,Occupations,engineer,工程師
+1057,Occupations,farmer,農民
+1058,Occupations,fisherman,漁夫
+1059,Occupations,homemaker,主婦
+1060,Occupations,journalist,記者
+1061,Occupations,king,王
+1062,Occupations,lawyer,律師
+1063,Occupations,looking for a job,搵工
+1064,Occupations,manager,經理
+1065,Occupations,nurse,護士
+1066,Occupations,office worker,上班族
+1067,Occupations,pharmacist,藥劑師
+1068,Occupations,police officer,警官
+1069,Occupations,politician,政治家
+1070,Occupations,prostitute,
+1071,Occupations,receptionist,接待員
+1072,Occupations,resume,恢復
+1073,Occupations,salesperson,售貨員
+1074,Occupations,"speech-language pathologist, speech therapist",言語語言病理學家、言語治療師
+1075,Occupations,student,學生
+1076,Occupations,surgeon,外科醫生
+1077,Occupations,teacher,老師
+1078,Occupations,translator,在線翻譯
+1079,Occupations,waiter,侍應
+1080,Occupations,waitress,女服務生
+1081,Occupations,writer,作家
+1082,Office and stationery,office,辦公室
+1083,Office and stationery,book,書
+1084,Office and stationery,chair,椅子
+1085,Office and stationery,computer ,電腦 
+1086,Office and stationery,desk,抬
+1087,Office and stationery,dictionary,字典
+1088,Office and stationery,letter,信
+1089,Office and stationery,paper,紙
+1090,Office and stationery,stapler,訂書機
+1091,Office and stationery,stamp,郵票
+1092,Office and stationery,table,桌子
+1093,Office and stationery,telephone,電話
+1094,Office and stationery,fax,傳真
+1095,Personality traits,absent-minded,心不在焉
+1096,Personality traits,affectionate,親切
+1097,Personality traits,ambitious,有野心
+1098,Personality traits,arrogant,自大
+1099,Personality traits,blunt,直
+1100,Personality traits,brave,勇
+1101,Personality traits,catty,斤
+1102,Personality traits,cold,冷淡
+1103,Personality traits,conceited,自大
+1104,Personality traits,confident,自信
+1105,Personality traits,conservative,保守
+1106,Personality traits,controlling,控制
+1107,Personality traits,crazy,黐線
+1108,Personality traits,crazy,癲
+1109,Personality traits,cruel,殘忍
+1110,Personality traits,curious,好奇
+1111,Personality traits,deceitful,呃人
+1112,Personality traits,easy-going,隨和
+1113,Personality traits,educated,有學識
+1114,Personality traits,emotional,感情嘅
+1115,Personality traits,energetic,精力充沛
+1116,Personality traits,enthusiastic,熱情
+1117,Personality traits,extraverted,外向
+1118,Personality traits,friendly,友善
+1119,Personality traits,funny,狡笑
+1120,Personality traits,generous,大方
+1121,Personality traits,greedy,貪心
+1122,Personality traits,hard-working,勤力
+1123,Personality traits,honest,誠實
+1124,Personality traits,ignorant,無知
+1125,Personality traits,impatient,冇耐性
+1126,Personality traits,impolite,唔禮貌
+1127,Personality traits,intelligent,聰
+1128,Personality traits,awake,醒
+1129,Personality traits,It was great,叻
+1130,Personality traits,intense,激烈
+1131,Personality traits,introverted,內向
+1132,Personality traits,kind,善良
+1133,Personality traits,lazy,懶
+1134,Personality traits,logical,邏輯
+1135,Personality traits,loud,嘈
+1136,Personality traits,mean,賤格
+1137,Personality traits,modest,謙虛
+1138,Personality traits,nosy,八卦
+1139,Personality traits,obnoxious,討厭
+1140,Personality traits,obsessed,癡迷
+1141,Personality traits,odd,怪
+1142,Personality traits,open-minded,冇偏見
+1143,Personality traits,patient,有耐性
+1144,Personality traits,polite,冇禮貌
+1145,Personality traits,psycho,心理
+1146,Personality traits,reliable,靠得住
+1147,Personality traits,resourceful,足智多謀
+1148,Personality traits,responsible,有責任感
+1149,Personality traits,selfish,自私
+1150,Personality traits,sensitive,敏感
+1151,Personality traits,sensual,肉感
+1152,Personality traits,shy,怕醜
+1153,Personality traits,silly,儍
+1154,Personality traits,smart,聰
+1155,Personality traits,awake,醒
+1156,Personality traits,It was great,叻
+1157,Personality traits,spiteful,刻毒
+1158,Personality traits,straightforward,直
+1159,Personality traits,strange,怪
+1160,Personality traits,stubborn,固執
+1161,Personality traits,stupid,蠢
+1162,Personality traits,superstitious,迷信
+1163,Personality traits,unreliable,靠唔住
+1164,Personality traits,vain,自大
+1165,Personality traits,weird,怪
+1166,Personality traits,wise,聰明
+1167,Personality traits,witty,詼諧
+1168,Physical traits,bald,禿
+1169,Physical traits,beautiful,靚
+1170,Physical traits,curvy,曲線美
+1171,Physical traits,cute,得意
+1172,Physical traits,dark,黑暗
+1173,Physical traits,fat,肥
+1174,Physical traits,fit,適合
+1175,Physical traits,hairy,毛
+1176,Physical traits,handsome,英俊
+1177,Physical traits,lean,瘦
+1178,Physical traits,muscular,肌肉
+1179,Physical traits,old,老
+1180,Physical traits,pale,蒼白
+1181,Physical traits,pregnant,懷孕
+1182,Physical traits,sexy,性感
+1183,Physical traits,short,矮
+1184,Physical traits,skinny,皮包骨
+1185,Physical traits,slim,苗條
+1186,Physical traits,strong,强壯
+1187,Physical traits,stout,粗壯
+1188,Physical traits,tall,高
+1189,Physical traits,thin,瘦
+1190,Physical traits,ugly,核突/醜樣
+1191,Physical traits,young,年輕
+1192,Physical traits,I'm... years old ,我...歲 
+1193,Plants,plant,植物
+1194,Plants,bamboo,竹
+1195,Plants,birch,樺樹
+1196,Plants,bonsai,盆景
+1197,Plants,bush,灌木
+1198,Plants,cactus,仙人掌
+1199,Plants,Christmas tree,聖誕樹
+1200,Plants,chrysanthemum,菊花
+1201,Plants,dandelion,蒲公英
+1202,Plants,fir,冷杉
+1203,Plants,flower,花
+1204,Plants,forest,森林
+1205,Plants,grass,草
+1206,Plants,Hong Kong orchid,香港蘭花
+1207,Plants,jasmin,茉莉
+1208,Plants,leaf,葉
+1209,Plants,lily,百合
+1210,Plants,lotus,蓮花
+1211,Plants,maple,鄥
+1212,Plants,oak,橡木
+1213,Plants,orchid,蘭花
+1214,Plants,palm tree,棕櫚
+1215,Plants,petal,花瓣
+1216,Plants,root,根
+1217,Plants,rose,玫
+1218,Plants,sunflower,向日葵
+1219,Plants,tree,樹
+1220,Quantity,half,半
+1221,Quantity,enough,足夠
+1222,Quantity,how many?,幾個？
+1223,Quantity,how much?,幾多?
+1224,Quantity,"few, a",幾
+1225,Quantity,part ,部份 
+1226,Quantity,whole,整個
+1227,Religion,religion,宗教
+1228,Religion,god,神
+1229,Religion,Bible,聖經
+1230,Religion,Catholic,天主教徒
+1231,Religion,Christian,基督徒
+1232,Religion,Christianity,基督教
+1233,Religion,church,教堂
+1234,Religion,Devil,魔鬼
+1235,Religion,God,天主
+1236,Religion,"Oh, God",上帝
+1237,Religion,Jewish person ,猶太教徒
+1238,Religion,Judaism,猶太教
+1239,Religion,ancestor worship,祭祖
+1240,Religion,Buddha,佛
+1241,Religion,Buddhism,佛教
+1242,Religion,Buddhist,佛教徒
+1243,Religion,Chinese god worship,中國神崇拜
+1244,Religion,I Ching,易經
+1245,Religion,Guan Di,關帝
+1246,Religion,Guan Yin,觀音
+1247,Religion,Tao Te Ching,道德經
+1248,Religion,Taoism,道教
+1249,Religion,Taoist,道教徒
+1250,Religion,temple,寺廟
+1251,Religion,Tian Hou,天后
+1252,Religion,Islam,伊斯蘭教
+1253,Religion,Muslim,穆斯林
+1254,Religion,mosque,清真寺
+1255,Religion,Cthulhu,鬼歹老海
+1256,Religion,Wicca ,巫術
+1257,Religion,witch,巫婆
+1258,Restaurant,restaurant,餐廳
+1259,Restaurant,ashtray,煙灰缸
+1260,Restaurant,bill,法案
+1261,Restaurant,chef,廚師
+1262,Restaurant,guest,客人
+1263,Restaurant,menu,餐牌
+1264,Restaurant,tip,貼士
+1265,Restaurant,waiter,侍應
+1266,Restaurant,waitress,女服務生
+1267,Restaurant,washroom,迨洗室
+1268,Restaurant,I want to go eat dim sum,我想去食點心
+1269,Restaurant,how many people?,有幾多人？
+1270,Restaurant,"a table for (two), please",一張枱（兩張），請
+1271,Restaurant,can you recommend any dishes?,你可唔可以推薦任何菜餚啊？
+1272,Restaurant,I'd like to order ... and ...,我想訂購... 和。。。
+1273,Restaurant,can you please bring me (a fork)?,你可唔可以畀我（叉）嗎？
+1274,Restaurant,waiter!,侍應！
+1275,Restaurant,waitress!,女服務生！
+1276,Restaurant,"bill, please! ",多謝埋單 
+1277,Sex,asshole,屎眼
+1278,Sex,bisexual,男女都鍾意 
+1279,Sex,blow job,吹簫
+1280,Sex,boobs,波
+1281,Sex,breasts,胸
+1282,Sex,butch,男人婆
+1283,Sex,carpet muncher,磨豆腐
+1284,Sex,come,射嘢/射精
+1285,Sex,condom,（避孕）套
+1286,Sex,crossdresser,異裝好者
+1287,Sex,crossdress,反串
+1288,Sex,cum,精液
+1289,Sex,cunt,婊子
+1290,Sex,dick,迪克
+1291,Sex,"dirty-minded
+               horny bastard ",鹹濕鹹濕佬
+1292,Sex,drag king,扮裝皇帝
+1293,Sex,drag queen,扮裝皇后
+1294,Sex,dyke,基婆
+1295,Sex,fag,死基佬
+1296,Sex,flat-chested chick ,飛機場
+1297,Sex,fuck,扑嘢
+1298,Sex,gay,基
+1299,Sex,gay guy,基佬/同志
+1300,Sex,to be gay,搞基
+1301,Sex,go down on,食佢條
+1302,Sex,grope,搞
+1303,Sex,hard on,扯旗
+1304,Sex,hickey,咖哩雞
+1305,Sex,hooker,雞
+1306,Sex,jerk off,打飛機 
+1307,Sex,lesbian,基婆
+1308,Sex,lick,舔
+1309,Sex,make love,做愛
+1310,Sex,nibble,咬
+1311,Sex,orgasm,高潮
+1312,Sex,porn,色情
+1313,Sex,porno mag,鹹書
+1314,Sex,porno movie,鹹片
+1315,Sex,to surf for porn,睇鹹網
+1316,Sex,"prostitute, female",雞
+1317,Sex,"prostitute, male ",鴨
+1318,Sex,pussy,貓咪
+1319,Sex,sex,性
+1320,Sex,have sex with (her),同（佢）做
+1321,Sex,sex fiend,變態
+1322,Sex,she-male entertainer,人妖
+1323,Sex,sissy,乸型
+1324,Sex,sleep together,上床
+1325,Sex,straight,直
+1326,Sex,testicles,睪丸
+1327,Sex,tits,波
+1328,Sex,transgendered,跨性
+1329,Sex,transsexual,變性人
+1330,Sex,virgin,處女處男
+1331,Spatial terms,where?,边度？
+1332,Spatial terms,here,呢度
+1333,Spatial terms,there,嗰度
+1334,Spatial terms,somewhere,地方
+1335,Spatial terms,nowhere,無處
+1336,Spatial terms,near,近
+1337,Spatial terms,far,遠
+1338,Spatial terms,direction,方向
+1339,Spatial terms,left,左
+1340,Spatial terms,right,右 
+1341,Spatial terms,up,向上
+1342,Spatial terms,down,下
+1343,Spatial terms,inside,里面
+1344,Spatial terms,outside,外面
+1345,Spatial terms,north,北
+1346,Spatial terms,south,南
+1347,Spatial terms,east,東
+1348,Spatial terms,west,西
+1349,Spatial terms,be (somewhere),是（某處）
+1350,Spatial terms,go,去
+1351,Spatial terms,come,來
+1352,Transportation,airport,機場
+1353,Transportation,bike,單車
+1354,Transportation,bus,巴士
+1355,Transportation,bus stop,巴士站
+1356,Transportation,bus terminal,巴士中站
+1357,Transportation,boat,艇仔
+1358,Transportation,car,車
+1359,Transportation,kilometer,公里
+1360,Transportation,motorcycle,電單車
+1361,Transportation,plane,飛機
+1362,Transportation,streetcar,電車
+1363,Transportation,subway,地鐵
+1364,Transportation,subway station,地鐵站
+1365,Transportation,ticket,飛
+1366,Transportation,   plane ticket,機票
+1367,Transportation,train,火車
+1368,Transportation,traffic lights,青?
+1369,Transportation,tram,電車
+1370,Transportation,walk,行
+1371,TV and radio,TV,電視
+1372,TV and radio,radio,收音機
+1373,TV and radio,channel,台
+1374,TV and radio,episode,片集
+1375,TV and radio,host,主持
+1376,TV and radio,radio station,電台
+1377,TV and radio,series,電視劇
+1378,TV and radio,"show, program",節目
+1379,Verbs of motion,bounce,彈跳
+1380,Verbs of motion,climb,爬
+1381,Verbs of motion,collapse,崩潰
+1382,Verbs of motion,come,來
+1383,Verbs of motion,crawl,爬
+1384,Verbs of motion,drag,拉
+1385,Verbs of motion,escape,逃
+1386,Verbs of motion,fall,秋天
+1387,Verbs of motion,go,去
+1388,Verbs of motion,jump,跳
+1389,Verbs of motion,kneel,跪
+1390,Verbs of motion,pull,拉
+1391,Verbs of motion,push,推
+1392,Verbs of motion,roll,輗
+1393,Verbs of motion,NaN,南
+1394,Verbs of motion,shake,搖
+1395,Verbs of motion,NaN,南
+1396,Verbs of motion,spin,紡
+1397,Verbs of motion,vibrate,振動
+1398,Verbs of motion,walk,行
+1399,Verbs of motion,wobble,游移不定
+1400,Verbs of perception,examine,檢查
+1401,Verbs of perception,feel,感覺
+1402,Verbs of perception,find,搵到
+1403,Verbs of perception,glance,一目了然
+1404,Verbs of perception,hear,聽見
+1405,Verbs of perception,ignore,忽視
+1406,Verbs of perception,listen to,收聽
+1407,Verbs of perception,look at,看
+1408,Verbs of perception,look for,搵嘢
+1409,Verbs of perception,notice,通知
+1410,Verbs of perception,see,看
+1411,Verbs of perception,squint,斜視
+1412,Verbs of perception,stare at,望住
+1413,Verbs of perception,taste,味道
+1414,Verbs of perception,watch,看
+1415,Weather,cloud,雲
