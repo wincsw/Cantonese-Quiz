@@ -1,1063 +1,1023 @@
-Group,English,Cantonese,Simplified Chinese
-Common phrases,what's up?,點呀,怎么样啊
-Common phrases,thank you!,"唔該, 多謝",谢谢
-Common phrases,you're welcome,唔使客氣,不用客气
-Common phrases,how are you?,你好嗎,你好吗
-Common phrases,have you eaten yet?,你食咗飯未？,你吃饭了没？
-Common phrases,how have you been lately?,你最近點啊？,你最近怎么样？
-Common phrases,bon appétit!,食飯,吃饭
-Common phrases,bye!,再見!,再见！
-Common phrases,hello?,喂?,喂?
-Common phrases,I'm from... ,我來自... ,我来自...
-Common phrases,I'm... years old ,我...歲 ,我...岁
-Common phrases,see you tomorrow!,聽日見,明天见
-Common phrases,good morning,早晨,早上好
-Common phrases,"bill, please",唔該埋單,麻烦结账
-Common phrases,here you go,拿,拿
-Common phrases,I love you,我愛你,我爱你
-Common phrases,how do you say...in Cantonese?,你點用廣東話講...？,你怎么用广东话说...？
-Common phrases,could you speak slower please?,你可唔可以講得更慢啲啊？,你能说得更慢点吗？
-Personal pronouns,I,我,我
-Personal pronouns,you,你,你
-Personal pronouns,"he, she, it",佢,他
-Personal pronouns,we,我哋 ,我们
-Personal pronouns,you (plural),你哋,你们
-Personal pronouns,they,佢哋,他们
-Numbers,zero,零,零
-Numbers,one,一,一
-Numbers,two,"二, 兩","二, 两"
-Numbers,three,三,三
-Numbers,four,四,四
-Numbers,five,五,五
-Numbers,six,六,六
-Numbers,seven,七,七
-Numbers,eight,八,八
-Numbers,nine,九,九
-Numbers,ten,十,十
-Numbers,eleven,十一,十一
-Numbers,twelve,十二,十二
-Numbers,twenty,二十/廿,二十/廿
-Numbers,thirty,三十,三十
-Numbers,hundred,一百,一百
-Numbers,thousand,一千,一千
-Numbers,ten thousand,一萬 ,一万
-Numbers,-th,第,第
-Numbers,half,"半, 一半","半, 一半"
-Numbers,fifty two,五十二 ,五十二
-Numbers,forty one,四十一 ,四十一
-Numbers,thirty eight,三十八 ,三十八
-Nouns,book,書,书
-Nouns,chair,櫈,椅子
-Nouns,car,車,车
-Nouns,home,屋企,家
-Nouns,moon,月,月
-Nouns,person,人,人
-Nouns,plant,植物,植物
-Nouns,something,嘢,东西
-Nouns,star,星,星
-Nouns,sun,太陽,太阳
-Nouns,table,抬,桌子
-Nouns,telephone,電話,电话
-Nouns,TV,電視,电视
-Nouns,tree,樹,树
-Nouns,water,水,水
-Verbs,verb,動詞,动词
-Verbs,negation (e.g. not),唔,不
-Verbs,"will, would",會,会
-Verbs,be,係,是 
-Verbs,have,有,有
-Verbs,not have,冇,没有
-Verbs,go,去,去
-Verbs,come,嚟,来
-Verbs,"can, may",可以,可以
-Verbs,"want, need",要,要
-Verbs,"want to, would like to",想,想
-Verbs,make,整,做
-Verbs,do,做,做
-Verbs,eat,食,吃
-Verbs,drink,飲,喝
-Verbs,like,鍾意,喜欢
-Verbs,ask,問,问
-Verbs,buy,買,买
-Verbs,have enough,夠,够
-Verbs,know,知道,知道
-Verbs,know how to,識,认识
-Verbs,learn,學,学
-Verbs,leave,走,离开
-Verbs,listen,聽,听
-Verbs,"live, reside",住,住
-Verbs,look for,搵,找
-Verbs,love,愛,爱
-Verbs,"return, back, re-",返,回
-Verbs,come back,翻嚟,回来
-Verbs,go back,返去,回去
-Verbs,"say, speak",講,说
-Verbs,see,睇,看
-Verbs,translate,翻譯,翻译
-Verbs,understand (a concept),明白,明白
-Verbs,understand (a language),識聽,听得懂
-Verbs,wait for,等陣,等一会儿
-Adjectives,good,好,好
-Adjectives,beautiful,靚,漂亮
-Adjectives,big,大,大
-Adjectives,cheap,平,便宜
-Adjectives,cold,凍,冷
-Adjectives,crazy,黐線,神经病
-Adjectives,cute,得意,可爱
-Adjectives,difficult,難,难
-Adjectives,easy,容易,容易
-Adjectives,expensive,貴,贵
-Adjectives,fast,快,快
-Adjectives,"few, a",幾,几
-Adjectives,happy,開心,开心
-Adjectives,hot,熱,热
-Adjectives,a little,少,少
-Adjectives,more,多啲,多一点
-Adjectives,new,新,新
-Adjectives,sad,唔開心,不开心
-Adjectives,small,小/細,小
-Adjectives,so,所以,所以
-Adjectives,so ugly,好醜,太丑
-Adjectives,tired,攰,累了
-Adjectives,too... / not too...,"太..., 唔係太...","太..., 不是太..."
-Adjectives,disgusting,核突,恶心
-Adjectives,very,"好, 非常","好, 非常"
-Adjectives,warm,暖,暖
-Adverbs,a bit,一啲,一些
-Adverbs,a lot,好多,很多
-Adverbs,again,再,再
-Adverbs,enough,夠,够
-Adverbs,maybe,"可能, 或者","可能, 或者"
-Adverbs,together,一齊,一起
-Adverbs,"too, as well",都,都
-Questions,who?,邊個?,谁呀?
-Questions,what?,乜嘢?,什么?
-Questions,when?,幾時?,什么时候?
-Questions,where?,邊度?,哪里?
-Questions,how much?,幾多?,多少?
-Questions,which one?,邊個?,哪个?
-Questions,which type?,邊種?,哪种?
-Academics and science,whiteboard ,白板 ,白板
-Academics and science,chalk,粉筆,粉笔
-Academics and science,class,班,班
-Academics and science,course,堂,堂
-Academics and science,desk,"檯, 書檯","桌子, 书桌"
-Academics and science,homework,功課,功课
-Academics and science,principal,校長,校长
-Academics and science,report card,成績表,成绩表
-Academics and science,term,學期,学期
-Academics and science,student,學生,学生
-Academics and science,teacher,老師,老师
-Academics and science,graduate ,畢業 ,毕业
-Academics and science,study,讀書,读书
-Academics and science,revise,溫習,温习
-Academics and science,school,學校,学校
-Academics and science,kindergarten,幼稚園,幼儿园
-Academics and science,primary school,小學,小学
-Academics and science,secondary school,中學,中学
-Academics and science,university,大學,大学
-Academics and science,degree,學位,学位
-Academics and science,diploma,文憑,文凭
-Academics and science,certificate,證書,证书
-Academics and science,high school diploma  ,中學文憑,中学文凭
-Academics and science,Bachelor's Degree (BA) ,學士,学士
-Academics and science,Master's Degree (MA) ,碩士 ,硕士
-Academics and science,Doctorate (PhD),博士,博士
-Academics and science,subject,科,科
-Academics and science,algebra,代數,代数
-Academics and science,anthropology,人類學,人类学
-Academics and science,biology,生物學,生物学
-Academics and science,calculus,微積分,微积分
-Academics and science,chemistry,化學,化学
-Academics and science,commerce,商業,商业
-Academics and science,computer science,電腦科學,计算机科学
-Academics and science,economics,經濟學,经济学
-Academics and science,engineering,工程,工程
-Academics and science,geography,地理,地理
-Academics and science,history,歷史,历史
-Academics and science,linguistics,語言學,语言学
-Academics and science,math,數學,数学
-Academics and science,med student,醫學生,医学生
-Academics and science,music,音樂 ,音乐
-Academics and science,physics,物理,物理
-Academics and science,science,科學,科学
-Academics and science,sociology,社會學,社会学
-Academics and science,statistics,統計學,统计学
-Academics and science,urban planning,城市規劃,城市规划
-Academics and science,lingustics,語言學,语言学
-Academics and science,linguist,語言學家,语言学家
-Animals,animal,動物,动物
-Animals,female,"女性, 雌性","女性, 雌性"
-Animals,cat,貓 ,猫
-Animals,kitty cat,貓仔,小猫
-Animals,dog  ,狗,狗
-Animals,doggy,狗仔,小狗
-Animals,chicken,雞,鸡
-Animals,hen,母雞,母鸡
-Animals,rooster,公雞,公鸡
-Animals,horse,馬,马
-Animals,pig,豬,猪
-Animals,sheep,綿羊,绵羊
-Animals,mammal,哺乳類動物,哺乳类动物
-Animals,bear,熊,熊
-Animals,grizzly bear,大灰熊,大灰熊
-Animals,polar bear,北極熊 ,北极熊
-Animals,deer,鹿,鹿
-Animals,elephant,大象  ,大象
-Animals,goat,山羊,山羊
-Animals,hedgehog,刺蝟,刺猬
-Animals,koala,樹熊,树熊
-Animals,leopard,豹,豹
-Animals,lion,獅子,狮子
-Animals,monkey,馬騮,猴子
-Animals,moose,麋鹿,麋鹿
-Animals,"mouse, rat",老鼠,老鼠
-Animals,panda,熊貓,熊猫
-Animals,panther,豹,豹
-Animals,porcupine,箭豬,豪猪
-Animals,rabbit,兔,兔
-Animals,reindeer,馴鹿,驯鹿
-Animals,squirrel,松鼠,松鼠
-Animals,tiger,老虎,老虎
-Animals,wolf,狼,狼
-Animals,bird  ,雀,鸟
-Animals,bat,蝙蝠  ,蝙蝠
-Animals,crow,烏鴉,乌鸦
-Animals,dove,白鴿,白鸽
-Animals,"eagle, falcon, hawk",鷹,鹰
-Animals,owl,貓頭鷹,猫头鹰
-Animals,parrot,鸚鵡,鹦鹉
-Animals,pigeon,白鴿,白鸽
-Animals,seagull,海鷗,海鸥
-Animals,fish,魚,鱼
-Animals,dolphin,海豚,海豚
-Animals,shark,鯊魚  ,鲨鱼
-Animals,whale,鯨魚,鲸鱼
-Animals,bug,蟲,虫
-Animals,ant,螞蟻  ,蚂蚁
-Animals,bee,蜜蜂,蜜蜂
-Animals,butterfly,蝴蝶,蝴蝶
-Animals,cockroach,曱甴,蟑螂
-Animals,dragonfly,蜻蜓,蜻蜓
-Animals,fleas,跳蚤,跳蚤
-Animals,fly,烏蠅,苍蝇
-Animals,ladybug,金龜,瓢虫
-Animals,lice,蝨乸,虱子
-Animals,mosquito,蚊,蚊子
-Animals,spider,蜘蛛,蜘蛛
-Animals,spider web,蜘蛛網,蜘蛛网
-Animals,wasp,大黃蜂,黄蜂
-Animals,crocodile,鱷魚,鳄鱼
-Animals,dragon  ,龍,龙
-Animals,frog,青蛙,青蛙
-Animals,lizard,蜥蜴,蜥蜴
-Animals,snake,蛇  ,蛇
-Animals,turtle,龜,龟
-Animals,claw,爪,爪
-Animals,feather,羽毛,羽毛
-Animals,jaws,下巴,下巴
-Animals,tail,尾巴,尾巴
-Animals,tentacle,觸手,触手
-Animals,wing,翼,翅膀
-Animals,bark,樹皮,树皮
-Animals,bite,咬,咬
-Animals,wag its tail,搖尾巴,摇尾巴
-Bathroom and toiletries,bathtub,浴缸,浴缸
-Bathroom and toiletries,brush,刷,刷子
-Bathroom and toiletries,comb,梳,梳子
-Bathroom and toiletries,conditioner,護髮素,护发素
-Bathroom and toiletries,dental floss,牙線,牙线
-Bathroom and toiletries,deodorant,止汗劑,止汗剂
-Bathroom and toiletries,electric razor,電鬚刨,电剃须刀
-Bathroom and toiletries,"razor, shaver",鬚刨,剃须刀
-Bathroom and toiletries,Kleenex,紙巾,纸巾
-Bathroom and toiletries,laxative,瀉藥,泻药
-Bathroom and toiletries,lipstick,唇膏,口红
-Bathroom and toiletries,make-up,化妝,化妆
-Bathroom and toiletries,mirror,鏡,镜
-Bathroom and toiletries,nail clippers,指甲鉗,指甲刀
-Bathroom and toiletries,perfume,香水,香水
-Bathroom and toiletries,menstrual pad,M巾,卫生巾
-Bathroom and toiletries,shampoo,洗頭水,洗发水
-Bathroom and toiletries,shaving cream,剃鬚膏,剃须膏 
-Bathroom and toiletries,shower,沖涼,洗澡
-Bathroom and toiletries,sink,洗手盤,洗手盘
-Bathroom and toiletries,bar soap,番梘,肥皂
-Bathroom and toiletries,liquid soap,梘液,液体肥皂
-Bathroom and toiletries,bodywash,"沖涼液, 沐浴露",沐浴露
-Bathroom and toiletries,tampon,棉條,棉条 
-Bathroom and toiletries,toilet,廁所,厕所
-Bathroom and toiletries,to flush,沖廁,冲厕所
-Bathroom and toiletries,toilet paper,廁紙,卫生纸
-Bathroom and toiletries,toothbrush,牙刷,牙刷
-Bathroom and toiletries,brush one's teeth,刷牙,刷牙
-Bathroom and toiletries,toothpaste,牙膏,牙膏
-Bathroom and toiletries,vaseline,凡士林,凡士林
-Bedroom,bed,床,床
-Bedroom,book,書,书
-Bedroom,chair,櫈,椅子
-Bedroom,computer,電腦,电脑
-Bedroom,condom,避孕套,避孕套
-Bedroom,sheets,床單,床单
-Bedroom,pillow,枕頭,枕头
-Bedroom,table,枱,桌子
-Bedroom,telephone,電話,电话
-Bedroom,TV,電視,电视
-Body,arm,手臂,手臂
-Body,back,背脊,背部(身体)
-Body,beard,鬍鬚,胡子
-Body,belly,肚,肚子
-Body,blood,血,血
-Body,body,身體,身体
-Body,bone,骨,骨
-Body,brain,腦,脑
-Body,"breast, chest",胸,胸
-Body,ear,耳朵,耳朵
-Body,eye,眼,眼睛
-Body,face,臉,脸
-Body,finger,手指,手指
-Body,fingernail,指甲,指甲
-Body,foot,腳,脚
-Body,hair (on head),頭髮,头发
-Body,hair (not on head),毛,毛
-Body,hand,手,手
-Body,head,頭,头
-Body,heart,心,心
-Body,knee,膝頭哥,膝盖
-Body,leg,腿,腿
-Body,lip,唇,唇
-Body,liver,肝,肝
-Body,lungs,肺,肺
-Body,mouth,"嘴, 口","嘴, 口"
-Body,muscle,肌肉,肌肉
-Body,nerve,神經,神经
-Body,neck,頸,脖子
-Body,nose,鼻,鼻子
-Body,organ,器官,器官
-Body,sick,病咗,生病
-Body,shoulder,膊頭,肩膀
-Body,skin,皮膚,皮肤
-Body,stomach,胃,胃
-Body,sweat,汗,汗
-Body,teeth,牙齒,牙齿
-Body,thumb,手指公,拇指
-Body,tongue,舌,舌
-Body,waist,腰,腰
-Body,bathroom,廁所,浴室
-Body,period,嚟M,大姨妈到
-Body,snot,鼻涕,鼻涕
-Body,spit,嘔,吐
-Clothing,bathing suit,泳衣,泳衣
-Clothing,bikini,比堅尼,比基尼
-Clothing,clothes,衫,衣服
-Clothing,belt,皮帶,皮帶
-Clothing,boots,靴,靴子
-Clothing,boxer shorts,孖煙通,平角裤
-Clothing,"briefs, panties",底褲,内裤
-Clothing,button,鈕,钮扣
-Clothing,coat,大褸,大衣
-Clothing,dress,長裙,连衣裙
-Clothing,gloves,手套,手套
-Clothing,hat,帽,帽子
-Clothing,high heels,高踭鞋,高跟鞋
-Clothing,jacket,"褸, 外套",外套
-Clothing,jeans,牛仔褲,牛仔裤
-Clothing,pants,褲,裤子
-Clothing,pyjamas,睡衣,睡衣
-Clothing,raincoat,雨褸,雨衣
-Clothing,running shoes,跑鞋,跑鞋
-Clothing,sandals,涼鞋,凉鞋
-Clothing,scarf,頸巾,围巾
-Clothing,shirt,恤衫,衬衫
-Clothing,shoes,鞋,鞋
-Clothing,shorts,短褲,短裤
-Clothing,skirt,短裙,裙子
-Clothing,slippers,拖鞋,拖鞋
-Clothing,socks,襪,袜子
-Clothing,stockings,絲襪,丝袜
-Clothing,suit,西裝,西装
-Clothing,sweater,冷衫,毛衣
-Clothing,necktie,領呔,领带
-Clothing,underwear,內衣,内衣
-Clothing,uniform,制服,制服
-Clothing,zipper,拉鏈,拉链
-Colours,color,顏色,颜色
-Colours,beige,米色,米色
-Colours,black,黑色,黑色
-Colours,blue,藍色,蓝色
-Colours,brown,啡色,棕色
-Colours,dark color,深色,深色
-Colours,fluorescent,螢光,萤光
-Colours,gold,金色,金色
-Colours,green,綠色,绿色
-Colours,green-yellow,青色,青色
-Colours,grey,灰色,灰色
-Colours,light color,淺色,浅色
-Colours,maroon,棗紅色,枣红色
-Colours,orange,橙色,橙色
-Colours,pink,粉紅色,粉红色
-Colours,purple,紫色,紫色
-Colours,red,紅色,红色
-Colours,silver,銀色,银色
-Colours,transparent,透明,透明
-Colours,white,白色,白色
-Colours,yellow,黃色,黄色
-Computers,computer,電腦,电脑
-Computers,chat,傾偈,聊天
-Computers,keyboard ,鍵盤 ,键盘
-Computers,mouse,滑鼠,滑鼠
-Family,brother,哥哥,哥哥
-Family,daughter,阿女,女儿
-Family,father,老竇,爸爸
-Family,grandmother,嫲嫲,奶奶
-Family,husband,老公,老公
-Family,mother,阿媽,妈妈
-Family,family relative,親戚,亲戚
-Family,sister,家姐,姐姐
-Family,wife,老婆,老婆
-Famous people,actor,演員,演员
-Famous people,celebrity,明星,明星
-Famous people,entertainment,娛樂,娱乐
-Famous people,famous,出名,有名
-Famous people,idol,偶像,偶像
-Famous people,pop megastar (male),天王,天王
-Famous people,pop star,歌手,歌手
-Feelings,feel (verb),覺得,觉得
-Feelings,feel (noun),感覺,感觉
-Feelings,complain,抱怨,抱怨
-Feelings,congrats,恭喜,恭喜
-Feelings,forgive,原諒,原谅
-Feelings,gossip,八卦,八卦
-Feelings,love,愛,爱
-Feelings,hate,恨,恨
-Feelings,worry,擔心,担心
-Feelings,hope,希望,希望
-Feelings,regret,後悔,后悔
-Feelings,thank,多謝,谢谢
-Feelings,I feel...,我覺得...,我感觉...
-Feelings,"afraid, scared",驚,怕
-Feelings,angry,嬲,生气
-Feelings,annoyed,煩,烦
-Feelings,bored,悶,闷
-Feelings,calm,平靜,平静
-Feelings,cold,凍,冷
-Feelings,comfortable,舒服,舒服
-Feelings,disappointed,失望,失望
-Feelings,envious,羡慕,羡慕
-Feelings,excited,興奮,兴奋
-Feelings,frustrated,沮喪,沮丧
-Feelings,glad,開心,高兴
-Feelings,grateful,感激,感激
-Feelings,guilty,內疚,内疚
-Feelings,happy,開心,高兴
-Feelings,hopeless,絕望,绝望
-Feelings,hot,熱,热
-Feelings,in a bad mood,心情唔好,心情不好
-Feelings,indifferent,冷漠,冷漠
-Feelings,jealous,妒忌,妒忌
-Feelings,nervous,緊張,紧张
-Feelings,proud,驕傲,骄傲
-Feelings,sad,傷心,伤心
-Feelings,shocked,震驚,惊呆
-Feelings,sleepy,眼瞓,困了
-Feelings,surprised,驚訝,惊讶
-Feelings,thirsty,口渴,渴了
-Feelings,tired,攰,累
-Feelings,uncomfortable,難受,难受
-Feelings,worried,擔心,担心
-Feelings,I love you,我愛你,我爱你
-Food and drink,drink,飲,喝
-Food and drink,eat,吃,吃
-Food and drink,full,飽 ,饱
-Food and drink,hungry,肚餓 ,饿
-Food and drink,thirsty ,口渴,口渴
-Food and drink,burned,燶,烧焦
-Food and drink,cold,凍,冷
-Food and drink,cooked,熟,熟
-Food and drink,delicious,好食,好吃
-Food and drink,fresh,新鮮,新鲜
-Food and drink,gone bad,變壞,变坏
-Food and drink,good,好,好的
-Food and drink,hot,熱,热
-Food and drink,mouthwatering,見到都流口水,看到都流口水
-Food and drink,raw,生,生
-Food and drink,smells good,香,香
-Food and drink,tasty,好味,味道好
-Food and drink,warm,温暖,温暖
-Food and drink,vegetarian,素,素
-Food and drink,to be vegetarian,食齋 ,吃素
-Food and drink,alcohol,"酒, 酒精","酒, 酒精"
-Food and drink,alcoholic beverage ,酒類飲品,酒类饮料
-Food and drink,beer,啤酒,啤酒
-Food and drink,caffeine,咖啡因,咖啡因
-Food and drink,coffee,咖啡,咖啡
-Food and drink,hot chocolate,熱巧克力,热巧克力
-Food and drink,juice,汁,汁
-Food and drink,milk,奶,奶
-Food and drink,milkshake,奶昔,奶昔
-Food and drink,soy milk,豆漿,豆浆
-Food and drink,water,水,水
-Food and drink,wine,酒,酒
-Food and drink,red wine,紅酒,红酒
-Food and drink,white wine,白酒,白酒
-Food and drink,tea,茶,茶
-Food and drink,black tea,紅茶,红茶
-Food and drink,Pu'er tea,普洱茶,普洱茶
-Food and drink,green tea,綠茶,绿茶
-Food and drink,dragon well tea,龍井,龙井
-Food and drink,herbal tea,涼茶,凉茶
-Food and drink,jasmine tea,茉莉,茉莉
-Food and drink,Oolong tea,烏龍茶,乌龙茶
-Food and drink,Tieguanyin tea,鐵觀音茶,铁观音茶
-Food and drink,Sau Mei tea,壽眉,寿眉
-Food and drink,milk tea,奶茶,奶茶
-Food and drink,"boba tea, bubble milk tea",珍珠奶茶,珍珠奶茶
-Food and drink,"pop, soda, soft drink ",汽水,汽水
-Food and drink,coke,可樂,可乐
-Food and drink,Coca-Cola,可口可樂 ,可口可乐
-Food and drink,lemon Coke,檸樂,柠乐
-Food and drink,Pepsi,百事,百事
-Food and drink,Fanta,芬達,芬达
-Food and drink,7 Up,七喜,七喜
-Food and drink,Sprite,雪碧,雪碧
-Food and drink,breakfast,早餐,早饭
-Food and drink,dinner， supper,晚餐,晚饭
-Food and drink,lunch,午餐,午饭
-Food and drink,have lunch,食午餐,吃午饭
-Food and drink,dim sum,點心,点心
-Food and drink,salad,沙律,沙拉
-Food and drink,soup,湯,汤
-Food and drink,sushi,壽司,寿司
-Food and drink,fruit,生果,水果
-Food and drink,apple,蘋果,苹果
-Food and drink,banana,香蕉,香蕉
-Food and drink,blueberry,藍莓,蓝莓
-Food and drink,cantaloupe,哈蜜瓜,哈蜜瓜
-Food and drink,cherry,車厘子,樱桃
-Food and drink,coconut,椰子,椰子
-Food and drink,durian,榴蓮,榴莲
-Food and drink,fig,無花果,无花果
-Food and drink,grapefruit,西柚,西柚
-Food and drink,grapes,提子,葡萄
-Food and drink,guava,番石榴,石榴
-Food and drink,honeydew melon,蜜瓜,蜜瓜
-Food and drink,kiwi,奇異果,奇异果
-Food and drink,lemon,檸檬,柠檬
-Food and drink,lime,青檸,青柠
-Food and drink,longan,龍眼,龙眼
-Food and drink,lychee,荔枝,荔枝
-Food and drink,mango,芒果,芒果
-Food and drink,melon,哈密瓜,哈密瓜
-Food and drink,orange,橙,橙子
-Food and drink,papaya,木瓜,木瓜
-Food and drink,peach,桃,桃
-Food and drink,pear,梨,梨
-Food and drink,persimmon,柿,柿子
-Food and drink,pineapple,菠蘿,菠萝
-Food and drink,plum,李,李
-Food and drink,raspberry,紅莓,覆盆子
-Food and drink,starfruit,楊桃,杨桃
-Food and drink,strawberry,士多啤厘,草莓
-Food and drink,tangerine,柑,柑
-Food and drink,watermelon,西瓜,西瓜
-Food and drink,vegetable,蔬菜,蔬菜
-Food and drink,asparagus,蘆筍,芦笋
-Food and drink,beans,豆,豆
-Food and drink,bok choy,白菜,白菜
-Food and drink,broccoli,西蘭花,西兰花
-Food and drink,cabbage,椰菜,捲心菜
-Food and drink,carrot,紅蘿蔔,胡萝卜
-Food and drink,cauliflower,椰菜花,花椰菜
-Food and drink,celery,西芹,芹菜
-Food and drink,corn,粟米,玉米
-Food and drink,cucumber,青瓜,黄瓜
-Food and drink,eggplant,茄子,茄子
-Food and drink,green onion,蔥,葱
-Food and drink,lettuce,生菜,生菜
-Food and drink,mushroom,蘑菇,蘑菇
-Food and drink,olive,橄欖,橄榄
-Food and drink,onion,洋蔥,洋葱
-Food and drink,potato,薯仔,土豆
-Food and drink,pumpkin,南瓜,南瓜
-Food and drink,seaweed,紫菜,紫菜
-Food and drink,spinach,菠菜,菠菜
-Food and drink,sweet potato,番薯,红薯
-Food and drink,tomato,番茄,西红柿
-Food and drink,turnip,白蘿蔔,萝卜
-Food and drink,yam,淮山,山药
-Food and drink,rice (raw),米,米
-Food and drink,rice (cooked),米,米
-Food and drink,fried rice,炒飯,炒饭
-Food and drink,bread,麵包,面包
-Food and drink,flour,麵粉,面粉
-Food and drink,noodles,面,面条
-Food and drink,fried noodles,炒麵,炒面
-Food and drink,instant noodles,公仔麵,方便面
-Food and drink,rice noodles,米粉,米粉
-Food and drink,steamed bun,饅頭,馒头
-Food and drink,meat,肉,肉
-Food and drink,almonds,杏仁,杏仁
-Food and drink,beef,牛肉,牛肉
-Food and drink,cashews,腰果,腰果
-Food and drink,chicken,雞,鸡
-Food and drink,duck,鴨,鸭
-Food and drink,egg,蛋,蛋
-Food and drink,nuts,果仁,坚果
-Food and drink,peanuts,花生,花生
-Food and drink,pork,豬肉,猪肉
-Food and drink,tofu,豆腐,豆腐
-Food and drink,turkey,火雞,火鸡
-Food and drink,walnuts,核桃,核桃
-Food and drink,fish,魚,鱼
-Food and drink,"squid, calamari",魷魚,鱿鱼
-Food and drink,eel,鰻魚,鳗鱼
-Food and drink,lobster,龍蝦,龙虾
-Food and drink,salmon,三文魚,鲑鱼
-Food and drink,shrimp,蝦,虾
-Food and drink,tuna,吞拿魚,吞拿鱼
-Food and drink,baking,烘焙,烘焙
-Food and drink,barbecue,燒烤,烤肉
-Food and drink,boil,水煮,水煮
-Food and drink,"braise, steam",蒸,蒸
-Food and drink,deep fry,油炸,油炸
-Food and drink,"fry, sauté ",炒,炒
-Food and drink,grill,燒烤,烧烤
-Food and drink,marinate,醃,腌
-Food and drink,microwave,微波,微波
-Food and drink,roast,焗,烤
-Food and drink,simmer,煨,煨
-Food and drink,smoked,熏,熏
-Food and drink,stew,燉 ,炖
-Food and drink,stir fry,炒,炒
-Health and illness,health,健康,健康
-Health and illness,healthy,健康,健康
-Health and illness,sick,生病,生病
-Health and illness,acupuncture,針灸,針灸
-Health and illness,Chinese medicine,中醫,中医
-Health and illness,clinic,診所,诊所
-Health and illness,doctor,醫生,医生
-Health and illness,hospital,醫院,医院
-Health and illness,injection,打針,打針
-Health and illness,massage,按摩,按摩
-Health and illness,nurse,護士,护士
-Health and illness,pharmacy,藥房,药房
-Health and illness,vitamin,維他命,维生素
-Health and illness,yoga,瑜伽,瑜伽
-Health and illness,disease,疾病,疾病
-Health and illness,abortion,人工流產,人流
-Health and illness,AIDS,愛滋病,艾滋病
-Health and illness,allergies,過敏,过敏
-Health and illness,anorexia,厭食症,厌食症
-Health and illness,anxiety,焦慮,焦虑
-Health and illness,athlete's foot,香港腳,脚气
-Health and illness,arthritis,關節炎,关节炎
-Health and illness,asthma,哮喘,哮喘
-Health and illness,broken bone,骨折,骨折
-Health and illness,bruise,瘀傷,瘀伤
-Health and illness,bleed,流血,流血
-Health and illness,cancer,癌症,癌症
-Health and illness,chickenpox,水痘,水痘
-Health and illness,cold,感冒,感冒
-Health and illness,constipated,便秘,便秘
-Health and illness,cramps,抽筋,抽筋
-Health and illness,depression,抑鬱症,抑郁症
-Health and illness,antidepressant,抗抑鬱藥,抗抑郁药
-Health and illness,diabetes,糖尿病,糖尿病
-Health and illness,diarrhea,肚痾,腹泻
-Health and illness,dislocated,甩骹,脱臼
-Health and illness,dizzy,頭暈,头晕
-Health and illness,epilepsy,發羊吊,癫痫
-Health and illness,fever,發燒,发烧
-Health and illness,flu,流感,流感
-Health and illness,gonnorhea,淋病,淋病
-Health and illness,headache,頭痛,头痛
-Health and illness,heart attack,心臟病發作,心脏病发作
-Health and illness,hepatitis,肝炎,肝炎
-Health and illness,indigestion,消化不良,消化不良
-Health and illness,insomnia,失眠,失眠
-Health and illness,lactose intolerant,乳糖不耐症,乳糖不耐症
-Health and illness,migraine,偏頭痛,偏头痛
-Health and illness,miscarriage,流產,流产
-Health and illness,narcolepsy,發作,发作
-Health and illness,pneumonia,肺炎 ,肺炎
-Health and illness,SARS,"非典, 非典形肺炎 ",非典形肺炎
-Health and illness,schizophrenia ,精神分裂癥 ,精神分裂症
-Health and illness,sleepwalk,夢遊,梦游
-Health and illness,sore,瘡,疮
-Health and illness,sprain,扭親,扭伤
-Health and illness,STD,性病,性病
-Health and illness,stroke,中風,中风
-Health and illness,"suicide, commit suicide",自殺,自杀
-Health and illness,swollen,腫,肿
-Health and illness,tuberculosis,結核,结核
-Health and illness,virus,病毒,病毒
-Holidays and celebrations,Lunar New Year,農曆新年,农历新年
-Holidays and celebrations,Christmas,聖誕節,圣诞节
-Holidays and celebrations,Christmas tree,聖誕樹,圣诞树
-Holidays and celebrations,Easter,復活節,复活节
-Holidays and celebrations,Santa Claus,聖誕老人,圣诞老人
-Interjections and sentence particles,hello!,你好!,你好！
-Interjections and sentence particles,hey!,喂！,嘿！
-Interjections and sentence particles,wow!,哇！,哇！
-Interjections and sentence particles,at,係,哦 对
-Kitchenware,bottle,樽,瓶子
-Kitchenware,bowl,碗,碗
-Kitchenware,can,罐,罐
-Kitchenware,chopsticks,筷子,筷子
-Kitchenware,cookbook,食譜,食谱
-Kitchenware,cup,杯,杯子
-Kitchenware,dishes,碟,盘子
-Kitchenware,dishwasher,洗碗機,洗碗机
-Kitchenware,fork,叉,叉子
-Kitchenware,freezer,冰格,冷凍室
-Kitchenware,frying pan,煎pan,煎锅
-Kitchenware,glass,玻璃,玻璃
-Kitchenware,knife,刀,刀
-Kitchenware,napkin,餐巾,餐巾
-Kitchenware,plate,碟,盘子
-Kitchenware,refridgerator,雪櫃,冰箱
-Kitchenware,spoon,匙羹,勺子
-Kitchenware,table,枱,桌子
-Kitchenware,table cloth,枱布,台布
-Kitchenware,teapot,茶壺,茶壶
-Kitchenware,telephone,電話,电话
-Kitchenware,wok,鑊,锅
-Languages,Cantonese,廣東話,广东话
-Languages,Chinese,中文,中文
-Languages,English,英文,英语
-Living room,book,書,书
-Living room,"carpet, rug",地毯,地毯
-Living room,coffee table,茶几,茶几
-Living room,"couch, sofa",梳化,沙发
-Living room,cushion,咕𠱸,垫
-Living room,remote control,遙控,遥控器
-Living room,table,枱,桌子
-Living room,telephone,電話,电话
-Living room,TV,電視,电视
-Metals and stones,brick,砖,砖
-Metals and stones,bronze,青銅,青铜
-Metals and stones,cement,水泥,水泥
-Metals and stones,concrete,混凝土,混凝土
-Metals and stones,copper,銅,铜
-Metals and stones,diamond,鑽石,钻石
-Metals and stones,gold,金,金
-Metals and stones,iron,鐵,铁
-Metals and stones,marble,大理石,大理石
-Metals and stones,silver,銀,银
-Metals and stones,zinc,鋅,锌
-Money and business,money,錢,钱
-Money and business,how much it cost?,幾錢?,多少钱？
-Money and business,buy,買,买
-Money and business,change,散紙,零钱
-Money and business,cheap,平,便宜
-Money and business,expensive,貴,贵
-Money and business,owe,爭人錢,欠
-Movies,movie,電影,电影
-Movies,cinema,戲院,电影院
-Movies,subtitles,字幕,字幕
-Movies,ticket,飛,票
-Movies,copy,抄,抄
-Movies,record,錄,录
-Movies,rent,租,租
-Movies,return,還,还
-Movies,rewind,返帶,回带
-Movies,watch,睇,看
-Movies,actor,演員,演员
-Movies,fan,影迷,影迷
-Movies,movie star,電影明星,电影明星
-Movies,action movie,動作片,动作片
-Movies,anime,動畫,动画
-Movies,cartoon,卡通片,卡通片
-Movies,comedy,笑片,笑片
-Movies,foreign film,西片,外国电影
-Movies,gangster movie,警匪片,警匪片
-Movies,horror movie,鬼片,鬼片
-Music,music,音樂,音乐
-Music,song,歌,歌
-Music,ticket,飛,票
-Music,concert,演唱會,演唱会
-Music,musical instrument,樂器,乐器
-Music,piano,鋼琴,钢琴
-Music,play piano,彈琴,弹琴
-Music,violin,小提琴,小提琴
-Music,play violin,拉小提琴,拉小提琴
-Music,fan of a singer,歌迷,歌迷
-Music,idol,偶像,偶像
-Music,megastar (male),天王,天王
-Music,pop star,歌星,歌星
-Nature,beach,海灘,海滩
-Nature,cloud,雲,云
-Nature,forest,森林,森林
-Nature,jungle,叢林,丛林
-Nature,lake,湖,湖
-Nature,moon,月亮,月亮
-Nature,plant,植物,植物
-Nature,river,河,河
-Nature,rock,岩石,岩石
-Nature,sea,海 ,海
-Nature,sky,天空,天空
-Nature,star,星,星
-Nature,sun,太陽,太阳
-Nature,swim,游水,游泳
-Nature,tree,樹,树
-Nature,water,水,水
-Nature,waterfall,瀑布,瀑布
-Nature,wave,浪,浪
-Occupations,what do you do for a living?,你靠乜嘢搵食？,你靠什麼謀生？
-Occupations,where do you work?,你係邊度做嘢？,你在哪里工作？
-Occupations,occupation,職業,职业
-Occupations,actor,演員,演员
-Occupations,businessperson,商人,商人
-Occupations,chef,廚師,厨师
-Occupations,civil servant,公務員,公务员
-Occupations,dentist,牙醫,牙医
-Occupations,doctor,醫生,医生
-Occupations,engineer,工程師,工程师
-Occupations,farmer,農民,农民
-Occupations,fisherman,漁夫,渔夫
-Occupations,homemaker,家庭主婦,家庭主妇
-Occupations,journalist,記者,记者
-Occupations,lawyer,律師,律师
-Occupations,looking for a job,搵工,找工作
-Occupations,manager,經理,经理
-Occupations,nurse,護士,护士
-Occupations,office worker,打工仔,上班族
-Occupations,pharmacist,藥劑師,药剂师
-Occupations,police officer,差人,警察
-Occupations,politician,政客,政客
-Occupations,receptionist,前台,接待员
-Occupations,speech therapist,言語治療師,言语治疗师
-Occupations,student,學生,学生
-Occupations,surgeon,外科醫生,外科医生
-Occupations,teacher,老師,老师
-Occupations,translator,翻譯,翻译
-Occupations,"waiter, waitress",侍應,服务员
-Occupations,writer,作家,作家
-Office and stationery,office,辦公室,办公室
-Office and stationery,book,書,书
-Office and stationery,chair,櫈,椅子
-Office and stationery,computer ,電腦 ,电脑
-Office and stationery,"desk, table",抬,桌子
-Office and stationery,dictionary,字典,字典
-Office and stationery,letter,信,信
-Office and stationery,paper,紙,纸
-Office and stationery,stapler,訂書機,订书机
-Office and stationery,stamp,郵票,邮票
-Office and stationery,telephone,電話,电话
-Personality traits,absent-minded,心不在焉,心不在焉
-Personality traits,affectionate,親切,亲切
-Personality traits,ambitious,有野心,有野心
-Personality traits,arrogant,自大,自大
-Personality traits,brave,勇敢,勇敢
-Personality traits,cold,冷淡,冷淡
-Personality traits,conceited,自負,自負
-Personality traits,confident,自信,自信
-Personality traits,conservative,保守,保守
-Personality traits,control freak,控制狂,控制狂
-Personality traits,"insane, crazy",黐線,神经病
-Personality traits,crazy,癲,疯狂
-Personality traits,cruel,殘忍,残忍
-Personality traits,curious,好奇,好奇
-Personality traits,deceitful,呃人,骗人
-Personality traits,easy-going,隨和,随和
-Personality traits,educated,有學識,有学识
-Personality traits,energetic,精力充沛,精力充沛
-Personality traits,enthusiastic,熱情,热情
-Personality traits,extraverted,外向,外向
-Personality traits,friendly,友善,友善
-Personality traits,funny,搞笑,好笑
-Personality traits,generous,大方,大方
-Personality traits,greedy,貪心,贪心
-Personality traits,hard-working,勤力,勤奋
-Personality traits,honest,誠實,诚实
-Personality traits,ignorant,無知,无知
-Personality traits,impatient,冇耐性,没耐性
-Personality traits,impolite,唔禮貌,不礼貌
-Personality traits,intelligent,聰明,聪明
-Personality traits,smart,"醒, 聰明",聪明
-Personality traits,good at ,叻,很棒
-Personality traits,intense,激烈,激烈
-Personality traits,introverted,內向,内向
-Personality traits,kind,善良,善良
-Personality traits,lazy,懶,懒
-Personality traits,loud,嘈,吵
-Personality traits,modest,謙虛,谦虚
-Personality traits,nosy,八卦,八卦
-Personality traits,obnoxious,討厭,讨厌
-Personality traits,obsessed,癡迷,痴迷
-Personality traits,odd,怪,怪
-Personality traits,open-minded,冇偏見,没有偏见
-Personality traits,patient,有耐性,有耐性
-Personality traits,polite,有禮貌,有礼貌
-Personality traits,reliable,靠得住,能依靠的
-Personality traits,resourceful,足智多謀,足智多谋
-Personality traits,responsible,有責任感,有责任感
-Personality traits,selfish,自私,自私
-Personality traits,sensitive,敏感,敏感
-Personality traits,shy,怕醜,害羞
-Personality traits,silly,儍,儍
-Personality traits,strange,怪,怪
-Personality traits,stubborn,固執,固执
-Personality traits,stupid,蠢,蠢
-Personality traits,superstitious,迷信,迷信
-Personality traits,unreliable,靠唔住,靠不住
-Personality traits,weird,怪,怪
-Personality traits,wise,聰明,聪明
-Physical traits,bald,禿頭,秃
-Physical traits,beautiful,靚,漂亮
-Physical traits,cute,得意,可爱
-Physical traits,dark,黑暗,黑暗
-Physical traits,fat,肥,胖
-Physical traits,fit,適合,适合
-Physical traits,handsome,靚仔,英俊
-Physical traits,lean,瘦,瘦
-Physical traits,old,老,老
-Physical traits,pale,蒼白,苍白
-Physical traits,pregnant,懷孕,怀孕
-Physical traits,sexy,性感,性感
-Physical traits,short,矮,矮
-Physical traits,skinny,皮包骨,皮包骨
-Physical traits,slim,苗條,苗条
-Physical traits,strong,强壯,强壮
-Physical traits,stout,粗壯,粗壮
-Physical traits,tall,高,高
-Physical traits,thin,瘦,瘦
-Physical traits,ugly,"醜樣, 核突",丑
-Physical traits,young,年輕,年轻
-Plants,plant,植物,植物
-Plants,bamboo,竹,竹子
-Plants,bonsai,盆景,盆景
-Plants,bush,灌木,灌木
-Plants,cactus,仙人掌,仙人掌
-Plants,Christmas tree,聖誕樹,圣诞树
-Plants,dandelion,蒲公英,蒲公英
-Plants,flower,花,花
-Plants,forest,森林,森林
-Plants,grass,草,草
-Plants,jasmin,茉莉,茉莉
-Plants,leaf,葉,叶
-Plants,lily,百合,百合
-Plants,lotus,蓮花,莲花
-Plants,oak,橡木,橡木
-Plants,orchid,蘭花,兰花
-Plants,palm tree,棕櫚,棕榈
-Plants,petal,花瓣,花瓣
-Plants,root,根,根
-Plants,rose,玫瑰,玫瑰
-Plants,sunflower,向日葵,向日葵
-Plants,tree,樹,树
-Quantity,half,一半,一半
-Quantity,enough,足夠,足够
-Quantity,how many?,幾多個？,多少个？
-Quantity,"few, a few",幾,几
-Quantity,part ,部份 ,部份
-Quantity,whole,整個,整个
-Religion,religion,宗教,宗教
-Religion,god,神,神
-Religion,Bible,聖經,圣经
-Religion,Catholic,天主教徒,天主教徒
-Religion,Christian,基督徒,基督徒
-Religion,Christianity,基督教,基督教
-Religion,church,教堂,教堂
-Religion,Devil,魔鬼,魔鬼
-Religion,God,天主,天主
-Religion,Jewish person ,猶太教徒,犹太教徒
-Religion,Judaism,猶太教,犹太教
-Religion,ancestor worship,祭祖,祭祖
-Religion,Buddha,佛,佛
-Religion,Buddhism,佛教,佛教
-Religion,Buddhist,佛教徒,佛教徒
-Religion,I Ching,易經,易经
-Religion,Guan Di,關帝,关帝
-Religion,Guan Yin,觀音,观音
-Religion,Tao Te Ching,道德經,道德经
-Religion,Taoism,道教,道教
-Religion,Taoist,道教徒,道教徒
-Religion,temple,寺廟,寺庙
-Religion,Tian Hou,天后,天后
-Religion,Islam,伊斯蘭教,伊斯兰教
-Religion,Muslim,穆斯林,穆斯林
-Religion,mosque,清真寺,清真寺
-Religion,witch,巫婆,巫婆
-Restaurant,restaurant,餐廳,餐厅
-Restaurant,ashtray,煙灰缸,烟灰缸
-Restaurant,"receipt, bill",收據,發票
-Restaurant,chef,廚師,厨师
-Restaurant,guest,客人,客人
-Restaurant,menu,餐牌,菜单
-Restaurant,tip,貼士,小費
-Restaurant,"waiter, waitress",侍應,服务员
-Restaurant,washroom,洗手間,卫生间
-Restaurant,"bill, please! ",唔該埋單 ,麻烦结账
-Spatial terms,where?,邊度？,哪里？
-Spatial terms,here,呢度,这里
-Spatial terms,there,嗰度,那里
-Spatial terms,near,近,近
-Spatial terms,far,遠,远
-Spatial terms,direction,方向,方向
-Spatial terms,left,左,左
-Spatial terms,right,右 ,右
-Spatial terms,up,上,上
-Spatial terms,down,下,下
-Spatial terms,inside,裏面,里面
-Spatial terms,outside,出面,外面
-Spatial terms,north,北,北
-Spatial terms,south,南,南
-Spatial terms,east,東,东
-Spatial terms,west,西,西
-Spatial terms,be (somewhere),係,在
-Spatial terms,go,去,去
-Spatial terms,come,嚟,来
-Transportation,airport,機場,机场
-Transportation,bike,單車,自行车
-Transportation,bus,巴士,公交车
-Transportation,bus stop,巴士站,公交车车站
-Transportation,bus terminal,巴士總站,公交总站
-Transportation,boat,艇仔,小船
-Transportation,car,車,车
-Transportation,kilometer,公里,公里
-Transportation,motorcycle,電單車,摩托车
-Transportation,plane,飛機,飞机
-Transportation,subway,地鐵,地铁
-Transportation,subway station,地鐵站,地铁站
-Transportation,ticket,飛,票
-Transportation,plane ticket,機票,机票
-Transportation,train,火車,火车
-Transportation,traffic lights,紅綠燈,交通燈
-Transportation,tram,電車,电车
-Transportation,walk,行,行走
-TV and radio,TV,電視,电视
-TV and radio,radio,收音機,收音机
-TV and radio,channel,台,台
-TV and radio,episode,集,集
-TV and radio,host,主持,主持
-TV and radio,radio station,電台,电台
-TV and radio,series,電視劇,电视剧
-TV and radio,"show, program",節目,节目
-Verbs of motion,bounce,跳,跳
-Verbs of motion,climb,爬,爬
-Verbs of motion,crawl,爬,爬
-Verbs of motion,drag,拉,拉
-Verbs of motion,escape,逃,逃
-Verbs of motion,fall,跌,掉
-Verbs of motion,go,去,去
-Verbs of motion,jump,跳,跳
-Verbs of motion,kneel,跪,跪
-Verbs of motion,pull,拉,拉
-Verbs of motion,push,推,推
-Verbs of motion,shake,搖,摇
-Verbs of motion,spin,轉,转
-Verbs of motion,vibrate,振,振动
-Verbs of motion,walk,行,行
-Verbs of perception,feel,感覺,感觉
-Verbs of perception,find,搵,找
-Verbs of perception,hear,聽見,听见
-Verbs of perception,ignore,無視,忽视
-Verbs of perception,listen to,收聽,收听
-Verbs of perception,look at,看,看
-Verbs of perception,look for,搵,查找
-Verbs of perception,notice,通知,通知
-Verbs of perception,see,見,看見
-Verbs of perception,stare at,望住,盯着
-Verbs of perception,watch,睇,看
-Weather,cloud,雲,云
+,Cantonese,English,Simplified Chinese
+0,點呀,cloud,云
+1,唔該,ask,问
+2,多謝,buy,买
+3,唔使客氣,have enough,够
+4,你好嗎,boat,船
+5,你食咗飯未,know how to,认识
+6,你最近點啊,learn,学
+7,食飯,car,车
+8,再見,root,根
+9,喂,live / reside,住
+10,聽日見,look for,找
+11,早晨,love,爱
+12,唔該埋單,return / back / re-,回
+13,拿,orange,橙子
+14,我愛你,say / speak,说
+15,你可唔可以講得更慢啲,do,做
+16,我,see,看
+17,你,drink,喝
+18,佢,go,去
+19,我哋 ,walk,行
+20,你哋,here you go,拿
+21,佢哋,spin,转
+22,零,two (for counting),二
+23,一,I,我
+24,二,you,你
+25,兩,leave,离开
+26,三,he / she / it,他
+27,四,push,推
+28,五,pull,拉
+29,六,zero,零
+30,七,one,一
+31,八,chair,椅子
+32,九,moon,月
+33,十,shake,摇
+34,十一,come,来
+35,十二,eat,吃
+36,二十/廿,make,做
+37,三十,want to / would like to,想
+38,一百,listen,听
+39,一千,water,水
+40,一萬 ,shrimp,虾
+41,第,leaf,叶
+42,一半,leg,腿
+43,五十二 ,want / need,要
+44,四十一 ,lip,唇
+45,三十八 ,lungs,肺
+46,書,mouth,嘴
+47,櫈,mouth,口
+48,車,bottle,瓶子
+49,屋企,hate,恨
+50,月,neck,脖子
+51,人,liver,肝
+52,植物,pear,梨
+53,嘢,come,来
+54,星,go,去
+55,太陽,person,人
+56,抬,negation,不
+57,電話,walk,行走
+58,電視,something,东西
+59,樹,star,星
+60,水,table,桌子
+61,小朋友,plum,李
+62,動詞,tree,树
+63,唔,water,水
+64,會,ticket,票
+65,係,will / would,会
+66,有,peach,桃
+67,冇,be (verb to be),是 
+68,去,have,有
+69,嚟,not have,没有
+70,可以,find,找
+71,要,hello? (on phone),喂
+72,想,beans,豆
+73,想要,look at,看
+74,整,god,神
+75,做,watch,看
+76,食,few / a few,几
+77,飲,fish,鱼
+78,鍾意,tree,树
+79,問,enough,够
+80,買,soup,汤
+81,夠,near,近
+82,知道,small,細
+83,識,north,北
+84,學,hot,热
+85,走,a little,少
+86,聽,rice (raw),米
+87,住,new,新
+88,搵,few / a few,几
+89,愛,again,再
+90,返,Buddha,佛
+91,翻嚟,class,班
+92,返去,cold,冷
+93,講,cheap,便宜
+94,睇,west,西
+95,翻譯,difficult,难
+96,明白,expensive,贵
+97,識聽,south,南
+98,等陣,east,东
+99,好,warm,暖
+100,靚,fast,快
+101,大,course,堂
+102,平,noodles,面条
+103,凍,meat,肉
+104,黐線,chicken,鸡
+105,得意,duck,鸭
+106,難,egg,蛋
+107,容易,rice (cooked),米
+108,貴,nose,鼻子
+109,快,small,小
+110,幾,down,下
+111,開心,escape,逃
+112,熱,drag,拉
+113,少,crawl,爬
+114,多啲,-th,第
+115,新,climb,爬
+116,唔開心,bounce,跳
+117,細,three,三
+118,小,tangerine,橘子
+119,好小,four,四
+120,攰,two (for the number of object),两
+121,太多,car,车
+122,唔係太多,vibrate,振动
+123,核突,green onion,葱
+124,非常,look for,查找
+125,好,book,书
+126,暖,fall,掉
+127,一啲,jump,跳
+128,好多,kneel,跪
+129,再,tired,累了
+130,夠,up,上
+131,可能,left,左
+132,或者,very,好
+133,一齊,good,好
+134,邊個,beautiful,漂亮
+135,乜嘢,table,桌子
+136,幾時,be (somewhere),在
+137,邊度?,go,去
+138,幾多,five,五
+139,邊個,six,六
+140,邊種,seven,七
+141,白板 ,eight,八
+142,粉筆,nine,九
+143,班,ten,十
+144,堂,far,远
+145,書檯,star,星
+146,功課,big,大
+147,校長,sea,海
+148,成績表,bamboo,竹子
+149,學期,marinate,腌
+150,學生,thin,瘦
+151,老師,chicken,鸡
+152,畢業 ,tall,高
+153,讀書,simmer,煨
+154,溫習,stir fry / sauté,炒
+155,學校,smoked,熏
+156,幼稚園,tea,茶
+157,小學,pan-fried,煎
+158,中學,dog,狗
+159,大學,wolf,狼
+160,學位,eagle / falcon / hawk,鹰
+161,文憑,swollen,肿
+162,證書,short,矮
+163,中學文憑,flower,花
+164,學士,grass,草
+165,碩士 ,braise / steam,蒸
+166,博士,beautiful,漂亮
+167,科,leopard,豹
+168,生物學,lean,瘦
+169,微積分,juice,汁
+170,化學,weird,怪
+171,經濟學,stupid,蠢
+172,工程,panther,豹
+173,地理,rabbit,兔
+174,歷史,strange,怪
+175,數學,silly,儍
+176,音樂 ,horse,马
+177,物理,old,老
+178,科學,odd,怪
+179,社會學,roast,烤
+180,統計學,subject,科
+181,城市規劃,letter,信
+182,語言學,deer,鹿
+183,動物,bite,咬
+184,貓 ,comb,梳子
+185,貓仔,loud,吵
+186,狗,lazy,懒
+187,狗仔,bug,虫
+188,雞,smells good,香
+189,母雞,capable / smart / brilliant  ,很棒
+190,公雞,hot,热
+191,馬,fish,鱼
+192,豬,claw,爪
+193,綿羊,mosquito,蚊子
+194,哺乳類動物,dragon,龙
+195,熊,cooked,熟
+196,北極熊 ,burned,烧焦
+197,鹿,turtle,龟
+198,大笨象,love,爱
+199,山羊,good,好的
+200,刺蝟,vegetarian,素
+201,樹熊,raw,生
+202,豹,alcohol (beverage),酒
+203,獅子,crazy,疯狂
+204,馬騮,tired,累
+205,老鼠,mirror,镜
+206,熊貓,paper,纸
+207,豹,table,桌子
+208,箭豬,wing,翅膀
+209,兔,chair,椅子
+210,馴鹿,book,书
+211,松鼠,hot,热
+212,老虎,sore,疮
+213,狼,bed,床
+214,雀仔,book,书
+215,蝙蝠,chair,椅子
+216,烏鴉,drink,喝
+217,白鴿,eat,吃
+218,鷹,brush,刷子
+219,貓頭鷹,fat,胖
+220,鸚鵡,cold,冷
+221,海鷗,brick,砖
+222,魚,wave,浪
+223,海豚,wow,哇
+224,鯊魚,foot,脚
+225,鯨魚,water,水
+226,蟲,hair (not on head),毛
+227,螞蟻,can,罐
+228,蜜蜂,face,脸
+229,蝴蝶,tongue,舌
+230,曱甴,expensive,贵
+231,蜻蜓,wok,锅
+232,烏蠅,return,还
+233,金龜,rent,租
+234,蚊,record,录
+235,蜘蛛,copy,抄
+236,大黃蜂,waist,腰
+237,鱷魚,ticket,票
+238,龍,eye,眼睛
+239,青蛙,hey,嘿
+240,蜥蜴,bear,熊
+241,蛇 ,stomach,胃
+242,龜,river,河
+243,爪,tree,树
+244,羽毛,heart,心
+245,下巴,head,头
+246,尾巴,hand,手
+247,觸手,breast / chest,胸
+248,翼,angry,生气
+249,樹皮,afraid / scared,怕
+250,咬,belly,肚子
+251,浴缸,blood,血
+252,刷,bone,骨
+253,梳,brain,脑
+254,護髮素,annoyed,烦
+255,牙線,book,书
+256,止汗劑,sweat,汗
+257,電鬚刨,socks,袜子
+258,鬚刨,table,桌子
+259,紙巾,hat,帽子
+260,瀉藥,knife,刀
+261,唇膏,jacket,外套
+262,化妝,pants,裤子
+263,鏡,ticket,票
+264,指甲鉗,song,歌
+265,香水,plate,盘子
+266,M巾,bored,闷
+267,洗頭水,table,桌子
+268,剃鬚膏,cold,冷
+269,沖涼,milk,奶
+270,洗手盤,pig,猪
+271,番梘,cheap,便宜
+272,梘液,wine,酒
+273,沖涼液,fork,叉子
+274,棉條,song,歌
+275,廁所,bowl,碗
+276,沖廁,boots,靴子
+277,廁紙,dishes,盘子
+278,牙刷,money,钱
+279,刷牙,zinc,锌
+280,牙膏,silver,银
+281,凡士林,iron,铁
+282,床,gold,金
+283,書,copper,铜
+284,櫈,buy,买
+285,電腦,shoes,鞋
+286,避孕套,lake,湖
+287,床單,button,钮扣
+288,枕頭,spit,吐
+289,枱,clothes,衣服
+290,電話,cup,杯子
+291,電視,cloud,云
+292,手臂,watch,看
+293,背脊,hedgehog,刺猬
+294,鬍鬚,koala,树熊
+295,肚,doggy,小狗
+296,血,whale,鲸鱼
+297,身體,ant,蚂蚁
+298,骨,laxative,泻药
+299,腦,razor,剃须刀
+300,胸,Kleenex,纸巾
+301,耳朵,lipstick,口红
+302,眼,study,读书
+303,臉,make-up,化妆
+304,手指,teacher,老师
+305,指甲,bee,蜜蜂
+306,腳,goat,山羊
+307,頭髮,rooster,公鸡
+308,毛,sheep,绵羊
+309,手,dolphin,海豚
+310,頭,diploma,文凭
+311,心,shark,鲨鱼
+312,膝頭哥,mouse / rat,老鼠
+313,腿,lion,狮子
+314,唇,math,数学
+315,肝,engineering,工程
+316,肺,physics,物理
+317,嘴,science,科学
+318,口,chemistry,化学
+319,肌肉,revise,温习
+320,神經,cat,猫
+321,頸,monkey,猴子
+322,鼻,kitty cat,小猫
+323,器官,hen,母鸡
+324,病咗,Doctorate (PhD),博士
+325,膊頭,animal,动物
+326,皮膚,tampon,棉条 
+327,胃,student,学生
+328,汗,snake,蛇
+329,牙齒,feather,羽毛
+330,手指公,jaws,下巴
+331,舌,tail,尾巴
+332,腰,tentacle,触手
+333,廁所,bark,树皮
+334,嚟M,lizard,蜥蜴
+335,鼻涕,orange,橙色
+336,嘔,dark color,深色
+337,泳衣,purple,紫色
+338,衫,white wine,白酒
+339,皮帶,seagull,海鸥
+340,靴,black tea,红茶
+341,孖煙通,green tea,绿茶
+342,底褲,so small,太小
+343,鈕,frog,青蛙
+344,大褸,crocodile,鳄鱼
+345,長裙,spider,蜘蛛
+346,手套,shower,洗澡
+347,帽,term / semester,学期
+348,高踭鞋,bar soap,肥皂
+349,褸,liquid soap,液体肥皂
+350,牛仔褲,principal,校长
+351,褲,menstrual pad,卫生巾
+352,睡衣,dental floss,牙线
+353,雨褸,school,学校
+354,跑鞋,bathtub,浴缸
+355,涼鞋,butterfly,蝴蝶
+356,頸巾,cockroach,蟑螂
+357,恤衫,dragonfly,蜻蜓
+358,鞋,fly,苍蝇
+359,短褲,secondary school,中学
+360,短裙,ladybug,瓢虫
+361,拖鞋,perfume,香水
+362,襪,primary school,小学
+363,絲襪,suit,西装
+364,西裝,dove / pigeon,白鸽
+365,冷衫,zipper,拉链
+366,領呔,color,颜色
+367,內衣,beige,米色
+368,制服,black,黑色
+369,拉鏈,blue,蓝色
+370,顏色,brown,棕色
+371,米色,uniform,制服
+372,黑色,underwear,内衣
+373,藍色,gold,金色
+374,啡色,green,绿色
+375,深色,green-yellow,青色
+376,螢光,grey,灰色
+377,金色,disgusting,恶心
+378,綠色,light color,浅色
+379,青色,history,历史
+380,灰色,too many / too much,太多
+381,淺色,gloves,手套
+382,棗紅色,desk,书桌
+383,橙色,toothpaste,牙膏
+384,粉紅色,herbal tea,凉茶
+385,紫色,computer,电脑
+386,紅色,sheets,床单
+387,銀色,finger,手指
+388,透明,which type?,哪种?
+389,白色,what?,什么?
+390,黃色,celery,芹菜
+391,電腦,arm,手臂
+392,傾偈,which one?,哪个?
+393,鍵盤 ,back,背部(身体)
+394,滑鼠,beard,胡子
+395,哥哥,body,身体
+396,阿女,pillow,枕头
+397,阿仔,TV,电视
+398,老竇,parrot,鹦鹉
+399,嫲嫲,fluorescent,萤光
+400,老公,necktie,领带
+401,阿媽,homework,功课
+402,親戚,toilet,厕所
+403,家姐,porcupine,豪猪
+404,阿哥,reindeer,驯鹿
+405,老婆,squirrel,松鼠
+406,演員,tiger,老虎
+407,明星,to flush,冲厕所
+408,娛樂,bird,鸟
+409,出名,Bachelor's Degree (BA) ,学士
+410,偶像,panda,熊猫
+411,歌手,certificate,证书
+412,歌,degree,学位
+413,覺得,university,大学
+414,感覺,crow,乌鸦
+415,抱怨,bat,蝙蝠
+416,恭喜,who?,谁呀?
+417,原諒,shirt,衬衫
+418,八卦,slippers,拖鞋
+419,愛,together,一起
+420,恨,or,或者
+421,擔心,pyjamas,睡衣
+422,希望,raincoat,雨衣
+423,後悔,running shoes,跑鞋
+424,多謝,sandals,凉鞋
+425,驚,stockings,丝袜
+426,嬲,maybe,可能
+427,煩,scarf,围巾
+428,悶,a lot,很多
+429,平靜,shorts,短裤
+430,凍,a bit,一些
+431,舒服,very,非常
+432,失望,skirt,短裙
+433,羡慕,sweater,毛衣
+434,興奮,thousand,一千
+435,沮喪,surprised,惊讶
+436,開心,milk tea,奶茶
+437,感激,wife,老婆
+438,內疚,sister,哥哥
+439,開心,red,红色
+440,絕望,silver,银色
+441,熱,transparent,透明
+442,心情唔好,white,白色
+443,冷漠,actor,演员
+444,妒忌,yellow,黄色
+445,緊張,chat,聊天
+446,驕傲,more,多一点
+447,傷心,mouse,滑鼠
+448,震驚,brother,哥哥
+449,眼瞓,daughter,女儿
+450,驚訝,son,儿子
+451,口渴,computer,电脑
+452,攰,father,爸爸
+453,難受,congrats,恭喜
+454,擔心,wait for,等一会儿
+455,我愛你,easy,容易
+456,飲,idol,偶像
+457,吃,singer,歌手
+458,飽 ,cute,可爱
+459,肚餓 ,feel (verb),觉得
+460,口渴,feel (noun),感觉
+461,燶,understand (a language),听得懂
+462,凍,celebrity,明星
+463,熟,forgive,原谅
+464,好食,gossip,八卦
+465,新鮮,worry,担心
+466,變壞,hope,希望
+467,好,thank,谢谢
+468,熱,crazy,神经病
+469,見到都流口水,complain,抱怨
+470,生,famous,有名
+471,香,happy,开心
+472,好味,husband,老公
+473,温暖,know,知道
+474,素,hopeless,绝望
+475,食齋 ,come back,回来
+476,酒,want to have,想要
+477,酒精,happy,高兴
+478,酒類飲品,guilty,内疚
+479,啤酒,like,喜欢
+480,咖啡因,excited,兴奋
+481,咖啡,frustrated,沮丧
+482,熱巧克力,envious,羡慕
+483,汁,grateful,感激
+484,奶,disappointed,失望
+485,奶昔,glad,高兴
+486,豆漿,chalk,粉笔
+487,水,go back,回去
+488,酒,grandmother,奶奶
+489,紅酒,calm,平静
+490,白酒,jealous,妒忌
+491,茶,mother,妈妈
+492,紅茶,family relative,亲戚
+493,綠茶,sister,姐姐
+494,涼茶,understand (a concept),明白
+495,烏龍茶,translate,翻译
+496,壽眉,regret,后悔
+497,奶茶,indifferent,冷漠
+498,珍珠奶茶,comfortable,舒服
+499,汽水,verb,动词
+500,可樂,can / may,可以
+501,可口可樂 ,shocked,惊呆
+502,檸樂,sad,伤心
+503,百事,proud,骄傲
+504,芬達,nervous,紧张
+505,七喜,sleepy,困了
+506,雪碧,Sau Mei tea,寿眉
+507,早餐,entertainment,娱乐
+508,晚餐,thirsty,渴了
+509,午餐,fresh,新鲜
+510,食午餐,7 Up,七喜
+511,點心,sun,太阳
+512,沙律,plant,植物
+513,湯,home,家
+514,壽司,tasty,味道好
+515,生果,delicious,好吃
+516,蘋果,warm,温暖
+517,香蕉,beer,啤酒
+518,藍莓,half,一半
+519,哈蜜瓜,gone bad,变坏
+520,車厘子,uncomfortable,难受
+521,椰子,eleven,十一
+522,榴蓮,breakfast,早饭
+523,無花果,alcohol (chemical substance),酒精
+524,西柚,lychee,荔枝
+525,提子,telephone,电话
+526,番石榴,thirsty ,口渴
+527,蜜瓜,hundred,一百
+528,奇異果,pop / soda / soft drink,汽水
+529,檸檬,coke,可乐
+530,青檸,thirty,三十
+531,龍眼,lemon Coke,柠乐
+532,荔枝,Pepsi,百事
+533,芒果,TV,电视
+534,哈密瓜,Fanta,芬达
+535,橙,red wine,红酒
+536,木瓜,soy milk,豆浆
+537,桃,milkshake,奶昔
+538,梨,coffee,咖啡
+539,菠蘿,worried,担心
+540,李,full,饱
+541,紅莓,twelve,十二
+542,楊桃,geography,地理
+543,士多啤厘,mango,芒果
+544,柑,bon appétit!,吃饭
+545,西瓜,salad,沙拉
+546,蔬菜,sushi,寿司
+547,蘆筍,fruit,水果
+548,豆,apple,苹果
+549,白菜,Sprite,雪碧
+550,西蘭花,banana,香蕉
+551,椰菜,dim sum,点心
+552,紅蘿蔔,they,他们
+553,椰菜花,coconut,椰子
+554,西芹,durian,榴莲
+555,粟米,grapefruit,西柚
+556,青瓜,grapes,葡萄
+557,茄子,good morning,早上好
+558,蔥,blueberry,蓝莓
+559,生菜,you (plural),你们
+560,蘑菇,bye,再见
+561,橄欖,lunch,午饭
+562,洋蔥,honeydew melon,蜜瓜
+563,薯仔,papaya,木瓜
+564,南瓜,pineapple,菠萝
+565,紫菜,raspberry,覆盆子
+566,菠菜,starfruit,杨桃
+567,番薯,watermelon,西瓜
+568,番茄,vegetable,蔬菜
+569,白蘿蔔,dinner / supper,晚饭
+570,淮山,asparagus,芦笋
+571,米,thank you!,谢谢
+572,米,cabbage,捲心菜
+573,炒飯,thank you!,谢谢
+574,麵包,longan,龙眼
+575,麵粉,lime,青柠
+576,面,lemon,柠檬
+577,炒麵,bok choy,白菜
+578,公仔麵,brush one's teeth,刷牙
+579,米粉,musical instrument,乐器
+580,饅頭,toilet paper,卫生纸
+581,肉,Chinese medicine,中医
+582,杏仁,seaweed,紫菜
+583,牛肉,bread,面包
+584,腰果,spinach,菠菜
+585,雞,diarrhea,腹泻
+586,鴨,lobster,龙虾
+587,蛋,flu,流感
+588,果仁,receptionist,接待员
+589,花生,ugly,丑
+590,豬肉,young,年轻
+591,豆腐,plant,植物
+592,火雞,bonsai,盆景
+593,核桃,bush,灌木
+594,魚,forest,森林
+595,魷魚,TV,电视
+596,鰻魚,jasmin,茉莉
+597,龍蝦,acupuncture,針灸
+598,三文魚,tomato,西红柿
+599,蝦,fried rice,炒饭
+600,吞拿魚,beef,牛肉
+601,烘焙,cookbook,食谱
+602,燒烤,dislocated,脱臼
+603,水煮,chopsticks,筷子
+604,蒸,steamed bun,馒头
+605,油炸,pumpkin,南瓜
+606,炒,rice noodles,米粉
+607,燒烤,healthy,健康
+608,醃,sick,生病
+609,微波,potato,土豆
+610,焗,flour,面粉
+611,煨,dizzy,头晕
+612,熏,fever,发烧
+613,燉 ,fried noodles,炒面
+614,煎,clinic,诊所
+615,健康,stout,粗壮
+616,健康,oak,橡木
+617,生病,superstitious,迷信
+618,針灸,wise,聪明
+619,中醫,bald,秃
+620,診所,cute,可爱
+621,醫生,dark,黑暗
+622,醫院,fit,适合
+623,打針,stubborn,固执
+624,按摩,handsome,英俊
+625,護士,pregnant,怀孕
+626,藥房,religion,宗教
+627,維他命,Bible,圣经
+628,瑜伽,church,教堂
+629,疾病,Devil,魔鬼
+630,愛滋病,bus,公交车
+631,過敏,pale,苍白
+632,厭食症,lily,百合
+633,焦慮,shy,害羞
+634,香港腳,selfish,自私
+635,關節炎,orchid,兰花
+636,哮喘,petal,花瓣
+637,骨折,rose,玫瑰
+638,瘀傷,half,一半
+639,流血,enough,足够
+640,癌症,whole,整个
+641,水痘,sensitive,敏感
+642,感冒,lotus,莲花
+643,便秘,slim,苗条
+644,抽筋,sexy,性感
+645,抑鬱症,modest,谦虚
+646,糖尿病,nosy,八卦
+647,肚痾,obnoxious,讨厌
+648,甩骹,obsessed,痴迷
+649,頭暈,strong,强壮
+650,發羊吊,kilometer,公里
+651,發燒,sweet potato,红薯
+652,流感,tuberculosis,结核
+653,頭痛,tofu,豆腐
+654,心臟病發作,asthma,哮喘
+655,肝炎,stroke,中风
+656,消化不良,grill,烧烤
+657,失眠,remote control,遥控器
+658,乳糖不耐症,cushion,垫
+659,偏頭痛,constipated,便秘
+660,流產,eggplant,茄子
+661,發作,eel,鳗鱼
+662,肺炎 ,lettuce,生菜
+663,夢遊,baking,烘焙
+664,瘡,barbecue,烤肉
+665,扭親,mushroom,蘑菇
+666,性病,coffee table,茶几
+667,中風,couch / sofa,沙发
+668,腫,boil,水煮
+669,結核,cold,感冒
+670,病毒,glass,玻璃
+671,農曆新年,teapot,茶壶
+672,聖誕節,table cloth,台布
+673,聖誕樹,turkey,火鸡
+674,復活節,microwave,微波
+675,聖誕老人,spoon,勺子
+676,你好,refridgerator,冰箱
+677,喂,freezer,冷凍室
+678,哇,cancer,癌症
+679,樽,pork,猪肉
+680,碗,telephone,电话
+681,罐,napkin,餐巾
+682,筷子,chickenpox,水痘
+683,食譜,stew,炖
+684,杯,nuts,坚果
+685,碟,peanuts,花生
+686,洗碗機,sleepwalk,梦游
+687,叉,carpet / rug,地毯
+688,冰格,bruise,瘀伤
+689,煎pan,massage,按摩
+690,玻璃,insomnia,失眠
+691,刀,miscarriage,流产
+692,餐巾,narcolepsy,发作
+693,碟,doctor,医生
+694,雪櫃,hello,你好
+695,匙羹,anxiety,焦虑
+696,枱,nurse,护士
+697,枱布,pharmacy,药房
+698,茶壺,sprain,扭伤
+699,電話,toothbrush,牙刷
+700,鑊,virus,病毒
+701,廣東話,disease,疾病
+702,中文,yoga,瑜伽
+703,英文,allergies,过敏
+704,書,olive,橄榄
+705,地毯,hepatitis,肝炎
+706,茶几,headache,头痛
+707,梳化,squid / calamari,鱿鱼
+708,咕𠱸,English,英语
+709,遙控,Chinese,中文
+710,枱,onion,洋葱
+711,電話,bleed,流血
+712,電視,broken bone,骨折
+713,砖,injection,打針
+714,青銅,deep fry,油炸
+715,水泥,walnuts,核桃
+716,混凝土,health,健康
+717,銅,cramps,抽筋
+718,鑽石,almonds,杏仁
+719,金,cashews,腰果
+720,鐵,hospital,医院
+721,大理石,yam,山药
+722,銀,plane,飞机
+723,鋅,STD,性病
+724,錢,plane ticket,机票
+725,幾錢,politician,政客
+726,買,police officer,警察
+727,散紙,nurse,护士
+728,平,manager,经理
+729,貴,looking for a job,找工作
+730,電影,lawyer,律师
+731,戲院,conceited,自負
+732,字幕,intense,激烈
+733,飛,confident,自信
+734,抄,smart,聪明
+735,錄,intelligent,聪明
+736,租,ignorant,无知
+737,還,honest,诚实
+738,返帶,hard-working,勤奋
+739,睇,greedy,贪心
+740,演員,generous,大方
+741,影迷,funny,好笑
+742,電影明星,music,音乐
+743,動作片,doctor,医生
+744,動畫,farmer,农民
+745,卡通片,fisherman,渔夫
+746,笑片,journalist,记者
+747,西片,conservative,保守
+748,警匪片,cucumber,黄瓜
+749,鬼片,insane / crazy,神经病
+750,音樂,curious,好奇
+751,歌,deceitful,骗人
+752,飛,easy-going,随和
+753,演唱會,enthusiastic,热情
+754,樂器,extraverted,外向
+755,鋼琴,friendly,友善
+756,彈琴,cruel,残忍
+757,小提琴,student,学生
+758,拉小提琴,teacher,老师
+759,歌迷,translator,翻译
+760,偶像,hair (on head),头发
+761,歌星,teeth,牙齿
+762,海灘,period,大姨妈到
+763,雲,snot,鼻涕
+764,森林,bathing suit,泳衣
+765,叢林,belt,皮帶
+766,湖,skin,皮肤
+767,月亮,when?,什么时候?
+768,植物,coat,大衣
+769,河,bathroom,浴室
+770,岩石,dress,连衣裙
+771,海,fingernail,指甲
+772,天空,ear,耳朵
+773,星,subway,地铁
+774,太陽,briefs / panties,内裤
+775,游水,horror movie,鬼片
+776,樹,shoulder,肩膀
+777,水,organ,器官
+778,瀑布,waiter / waitress,服务员
+779,浪,writer,作家
+780,職業,dictionary,字典
+781,演員,stamp,邮票
+782,商人,telephone,电话
+783,廚師,affectionate,亲切
+784,公務員,sick,生病
+785,牙醫,arrogant,自大
+786,醫生,corn,玉米
+787,工程師,what's up,怎么样啊
+788,農民,telephone,电话
+789,漁夫,how much?,多少?
+790,家庭主婦,muscle,肌肉
+791,記者,nerve,神经
+792,律師,cold,冷淡
+793,搵工,foreign film,外国电影
+794,經理,brave,勇敢
+795,護士,anime,动画
+796,打工仔,Tian Hou,天后
+797,藥劑師,witch,巫婆
+798,差人,restaurant,餐厅
+799,政客,receipt / bill,發票
+800,前台,chef,厨师
+801,言語治療師,guest,客人
+802,學生,temple,寺庙
+803,外科醫生,menu,菜单
+804,老師,waiter / waitress,服务员
+805,翻譯,where?,哪里？
+806,侍應,here,这里
+807,作家,there,那里
+808,辦公室,direction,方向
+809,書,right,右
+810,櫈,tip,小費
+811,電腦 ,ancestor worship,祭祖
+812,抬,God,天主
+813,字典,inside,里面
+814,信,train,火车
+815,紙,tram,电车
+816,訂書機,TV,电视
+817,郵票,host,主持
+818,電話,radio station,电台
+819,心不在焉,feel,感觉
+820,親切,hear,听见
+821,有野心,comedy,笑片
+822,自大,listen to,收听
+823,勇敢,notice,通知
+824,冷淡,see,看見
+825,自負,stare at,盯着
+826,自信,bike,自行车
+827,保守,kind,善良
+828,黐線,airport,机场
+829,癲,outside,外面
+830,殘忍,telephone,电话
+831,好奇,ignore,忽视
+832,呃人,smart,聪明
+833,隨和,fan of a singer,歌迷
+834,精力充沛,play piano,弹琴
+835,熱情,piano,钢琴
+836,外向,bronze,青铜
+837,友善,cement,水泥
+838,搞笑,diamond,钻石
+839,大方,sun,太阳
+840,貪心,how much it cost,多少钱
+841,勤力,movie,电影
+842,誠實,cinema,电影院
+843,無知,subtitles,字幕
+844,冇耐性,actor,演员
+845,唔禮貌,fan,影迷
+846,聰明,introverted,内向
+847,醒目,change,零钱
+848,聰明,dentist,牙医
+849,叻,rewind,回带
+850,激烈,businessperson,商人
+851,內向,beach,海滩
+852,善良,chef,厨师
+853,懶,forest,森林
+854,嘈,jungle,丛林
+855,謙虛,moon,月亮
+856,八卦,plant,植物
+857,討厭,pop star,歌星
+858,癡迷,idol,偶像
+859,怪,sky,天空
+860,有耐性,swim,游泳
+861,有禮貌,waterfall,瀑布
+862,靠得住,actor,演员
+863,足智多謀,occupation,职业
+864,有責任感,rock,岩石
+865,自私,to be vegetarian,吃素
+866,敏感,vitamin,维生素
+867,怕醜,AIDS,艾滋病
+868,儍,anorexia,厌食症
+869,怪,salmon,鲑鱼
+870,固執,arthritis,关节炎
+871,蠢,boxer shorts,平角裤
+872,迷信,maroon,枣红色
+873,靠唔住,caffeine,咖啡因
+874,怪,stapler,订书机
+875,聰明,nail clippers,指甲刀
+876,禿頭,athlete's foot,脚气
+877,靚,knee,膝盖
+878,得意,cherry,樱桃
+879,黑暗,tuna,吞拿鱼
+880,肥,cantaloupe,哈蜜瓜
+881,適合,violin,小提琴
+882,靚仔,fig,无花果
+883,瘦,guava,石榴
+884,老,instant noodles,方便面
+885,蒼白,kiwi,奇异果
+886,懷孕,melon,哈密瓜
+887,性感,turnip,萝卜
+888,矮,broccoli,西兰花
+889,皮包骨,ambitious,有野心
+890,苗條,carrot,胡萝卜
+891,强壯,Oolong tea,乌龙茶
+892,粗壯,electric razor,电剃须刀
+893,高,shaving cream,剃须膏 
+894,瘦,conditioner,护发素
+895,醜樣,hungry,饿
+896,年輕,civil servant,公务员
+897,植物,sink,洗手盘
+898,竹,computer ,电脑
+899,盆景,office,办公室
+900,灌木,engineer,工程师
+901,仙人掌,office worker,上班族
+902,聖誕樹,bodywash,沐浴露
+903,蒲公英,condom,避孕套
+904,花,pharmacist,药剂师
+905,森林,vaseline,凡士林
+906,草,have lunch,吃午饭
+907,茉莉,thumb,拇指
+908,葉,deodorant,止汗剂
+909,百合,statistics,统计学
+910,蓮花,lingustics,语言学
+911,橡木,skinny,皮包骨
+912,蘭花,elephant,大象
+913,花瓣,unreliable,靠不住
+914,根,reliable,能依靠的
+915,玫瑰,polite,有礼貌
+916,向日葵,patient,有耐性
+917,樹,impolite,不礼貌
+918,一半,shampoo,洗发水
+919,足夠,impatient,没耐性
+920,幾多個,wasp,黄蜂
+921,幾,owl,猫头鹰
+922,部份 ,I love you,我爱你
+923,整個,Christmas tree,圣诞树
+924,宗教,diabetes,糖尿病
+925,神,Christian,基督徒
+926,聖經,biology,生物学
+927,天主教徒,we,我们
+928,基督徒,radio,收音机
+929,基督教,graduate ,毕业
+930,教堂,TV series,电视剧
+931,魔鬼,bus stop,公交车车站
+932,天主,part ,部份
+933,猶太教徒,sunflower,向日葵
+934,猶太教,where?,哪里?
+935,祭祖,motorcycle,摩托车
+936,佛,calculus,微积分
+937,寺廟,traffic lights,交通燈
+938,天后,Muslim,穆斯林
+939,伊斯蘭教,whiteboard ,白板
+940,穆斯林,kindergarten,幼儿园
+941,清真寺,subway station,地铁站
+942,巫婆,depression,抑郁症
+943,餐廳,dandelion,蒲公英
+944,煙灰缸,economics,经济学
+945,收據,kid / child,小朋友
+946,廚師,how are you,你好吗
+947,客人,ashtray,烟灰缸
+948,餐牌,how many?,多少个?
+949,貼士,ten thousand,一万
+950,侍應,Christianity,基督教
+951,洗手間,see you tomorrow!,明天见
+952,唔該埋單,cactus,仙人掌
+953,邊度,washroom,卫生间
+954,呢度,Master's Degree (MA) ,硕士
+955,嗰度,high heels,高跟鞋
+956,近,jeans,牛仔裤
+957,遠,concert,演唱会
+958,方向,gangster movie,警匪片
+959,左,cartoon,卡通片
+960,右 ,marble,大理石
+961,上,music,音乐
+962,下,pink,粉红色
+963,裏面,concrete,混凝土
+964,出面,keyboard ,键盘
+965,北,Cantonese,广东话
+966,南,dishwasher,洗碗机
+967,東,action movie,动作片
+968,西,Christmas tree,圣诞树
+969,係,Easter,复活节
+970,去,report card,成绩表
+971,嚟,sad,不开心
+972,機場,Judaism,犹太教
+973,單車,cauliflower,花椰菜
+974,巴士,I love you,我爱你
+975,巴士站,sociology,社会学
+976,巴士總站,epilepsy,癫痫
+977,船,migraine,偏头痛
+978,車,pneumonia,肺炎
+979,公里,Christmas,圣诞节
+980,電單車,mosque,清真寺
+981,飛機,Jewish person ,犹太教徒
+982,地鐵,bus terminal,公交总站
+983,地鐵站,indigestion,消化不良
+984,飛,in a bad mood,心情不好
+985,機票,alcoholic beverage,酒类饮料
+986,火車,absent-minded,心不在焉
+987,紅綠燈,Catholic,天主教徒
+988,電車,thirty eight,三十八
+989,行,not too many / not too much, 不太多
+990,電視,movie star,电影明星
+991,收音機,Islam,伊斯兰教
+992,主持,surgeon,外科医生
+993,電台,fifty two,五十二
+994,電視劇,frying pan,煎锅
+995,跳,energetic,精力充沛
+996,爬,Lunar New Year,农历新年
+997,爬,responsible,有责任感
+998,拉,Santa Claus,圣诞老人
+999,逃,hot chocolate,热巧克力
+1000,跌,boba tea / bubble milk tea,珍珠奶茶
+1001,去,forty one,四十一
+1002,跳,play violin,拉小提琴
+1003,跪,urban planning,城市规划
+1004,拉,polar bear,北极熊
+1005,推,twenty,二十/廿
+1006,搖,strawberry,草莓
+1007,轉,homemaker,家庭主妇
+1008,振,"bill, please!",麻烦结账
+1009,行,"bill, please",麻烦结账
+1010,感覺,high school diploma,中学文凭
+1011,搵,resourceful,足智多谋
+1012,聽見,you're welcome,不用客气
+1013,無視,speech therapist,言语治疗师
+1014,收聽,heart attack,心脏病发作
+1015,看,mammal,哺乳类动物
+1016,搵,Coca-Cola,可口可乐
+1017,通知,how have you been lately?,你最近怎么样
+1018,見到,have you eaten yet?,你吃饭了没
+1019,望住,lactose intolerant,乳糖不耐症
+1020,睇,mouthwatering,看到都流口水
+1021,雲,could you speak slower?,你能说得更慢点吗
