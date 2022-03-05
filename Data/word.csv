@@ -1,0 +1,699 @@
+,Cantonese,Part of Speech,Group,English,Pronunciation
+0,班,Noun,Academics,class,baan1
+1,堂,Noun,Academics,lesson,tong4
+2,書檯,Noun,Academics,desk,syu1toi2
+3,功課,Noun,Academics,"homework, assignment",gung1fo3
+4,校長,Noun,Academics,principal,haau6zoeng2
+5,成績表,Noun,Academics,"transcript, report card",sing4zik1biu2
+6,學期,Noun,Academics,"term, semester",hok6kei4
+7,畢業 ,Verb,Academics,to graduate ,bat1jip6
+8,讀書,Verb,Academics,to study,duk6syu1
+9,溫習,Verb,Academics,to revise,wan1zaap6
+10,學校,Noun,Academics,school,hok6haau6
+11,幼稚園,Noun,Academics,kindergarten,jau3zi6jyun2
+12,小學,Noun,Academics,primary school,siu2hok6
+13,中學,Noun,Academics,"secondary school, middle school, high school",zung1hok6
+14,大學,Noun,Academics,"university, college",daai6hok6
+15,學位,Noun,Academics,degree,hok6wai2
+16,文憑,Noun,Academics,diploma,man4pang4
+17,證書,Noun,Academics,certificate,zing3syu1
+18,中學文憑,Noun,Academics,high school diploma,zung1hok6
+19,學士,Noun,Academics,Bachelor's Degree ,hok6si6
+20,碩士 ,Noun,Academics,Master's Degree ,sek6si6
+21,博士,Noun,Academics,Doctorate (PhD),bok3si6
+22,科,Noun,Academics,"subject, course",fo1
+23,生物學,Noun,Academics,biology,sang1mat6hok6
+24,微積分,Noun,Academics,calculus,mei4zik1fan1
+25,化學,Noun,Academics,chemistry,faa3hok6
+26,經濟學,Noun,Academics,economics,ging1zai3hok6
+27,工程,Noun,Academics,engineering,gung1cing4
+28,地理,Noun,Academics,geography,dei6lei5
+29,歷史,Noun,Academics,history,lik6si2
+30,數學,Noun,Academics,math,sou3hok6
+31,音樂 ,Noun,Academics,music,jam1ngok6
+32,物理,Noun,Academics,physics,mat6lei5
+33,科學,Noun,Academics,science,fo1hok6
+34,社會學,Noun,Academics,sociology,se5wui2hok6
+35,統計學,Noun,Academics,statistics,tung2gai3hok6
+36,城市規劃,Noun,Academics,urban planning,sing4si5kwai1waak6
+37,語言學,Noun,Academics,lingustics,jyu5jin4hok6
+38,字典,Noun,Academics,dictionary,zi6din2
+39,嘅,Affix,Affix,"for indicating possession (i.e. mine,yours, his, her's, its, someone's)",ge3
+40,動物,Noun,Animals,animal,dung6mat6
+41,貓 ,Noun,Animals,cat,maau1
+42,貓仔,Noun,Animals,"kitty, small cat",maau1zai2
+43,狗,Noun,Animals,dog,gau2
+44,狗仔,Noun,Animals,doggy. Small dog,gau2zai2
+45,馬,Noun,Animals,horse,maa5
+46,豬,Noun,Animals,pig,zyu1
+47,羊,Noun,Animals,"sheep, goat",joeng4
+48,熊,Noun,Animals,bear,hung4
+49,大笨象,Noun,Animals,elephant,daai6ban6zoeng6
+50,獅子,Noun,Animals,lion,si1zi2
+51,馬騮,Noun,Animals,monkey,maa5lau1
+52,老鼠,Noun,Animals,"mouse, rat",lou5syu2
+53,熊貓,Noun,Animals,panda,hung4maau1
+54,兔,Noun,Animals,rabbit,tou3
+55,雀仔,Noun,Animals,bird,zoek3zai2
+56,烏鴉,Noun,Animals,crow,wu1aa1
+57,蟲,Noun,Animals,bug,cung4
+58,螞蟻,Noun,Animals,ant,maa5ngai5
+59,蜜蜂,Noun,Animals,bee,mat6fung1
+60,蝴蝶,Noun,Animals,butterfly,wu4dip2
+61,曱甴,Noun,Animals,cockroach,gaat6zaat2
+62,蜻蜓,Noun,Animals,dragonfly,cing1ting4
+63,烏蠅,Noun,Animals,fly,wu1jing1
+64,蚊,Noun,Animals,mosquito,man1
+65,蜘蛛,Noun,Animals,spider,zi1zyu1
+66,青蛙,Noun,Animals,frog,ceng1waa1
+67,蛇 ,Noun,Animals,snake,ji4
+68,龜,Noun,Animals,turtle,gwai1
+69,尾巴,Noun,Animals,tail,mei5baa1
+70,翼,Noun,Animals,wing,jik6
+71,一個,Article,Article,"a, an, the, one,",jat1go3
+72,到,Grammatical Particle,Aspectual Particle,for indicating completion or potential,dou2
+73,咗,Grammatical Particle,Aspectual Particle,a perfective particle (finish/have done sth),zo2
+74,浴缸,Noun,Bathroom and toiletries,bathtub,juk6gong1
+75,刷,Noun,Bathroom and toiletries,brush,caat3
+76,梳,Noun,Bathroom and toiletries,comb,so1
+77,護髮素,Noun,Bathroom and toiletries,conditioner,wu6faat3sou3
+78,牙線,Noun,Bathroom and toiletries,dental floss,ngaa4sin3
+79,止汗劑,Noun,Bathroom and toiletries,deodorant,zi2hon6zai1
+80,鬚刨,Noun,Bathroom and toiletries,razor,sou1paau2
+81,紙巾,Noun,Bathroom and toiletries,tissue,zi2gan1
+82,瀉藥,Noun,Bathroom and toiletries,laxative,se3joek6
+83,唇膏,Noun,Bathroom and toiletries,lipstick,seon4gou1
+84,化妝,Noun,Bathroom and toiletries,make-up,faa3zong1
+85,鏡,Noun,Bathroom and toiletries,mirror,geng3
+86,指甲鉗,Noun,Bathroom and toiletries,nail clippers,zi2gaap3kim2
+87,香水,Noun,Bathroom and toiletries,perfume,hoeng1seoi2
+88,M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
+89,洗頭水,Noun,Bathroom and toiletries,shampoo,sai2tau4seoi2
+90,剃鬚膏,Noun,Bathroom and toiletries,shaving cream,tai3sou1gou1
+91,沖涼,Noun,Bathroom and toiletries,shower,cung1loeng4
+92,洗手盤,Noun,Bathroom and toiletries,sink,sai2sau2pun4
+93,番梘,Noun,Bathroom and toiletries,bar soap,faan1gaan2
+94,梘液,Noun,Bathroom and toiletries,liquid soap,gaan2jik6
+95,沖涼液,Noun,Bathroom and toiletries,bodywash,cung1loeng4
+96,棉條,Noun,Bathroom and toiletries,tampon,min4tiu2
+97,廁所,Noun,Bathroom and toiletries,"toilet, bathroom, washroom",ci3so2
+98,沖廁,Verb,Bathroom and toiletries,to flush,cung1ci3
+99,廁紙,Noun,Bathroom and toiletries,toilet paper,ci3zi2
+100,牙刷,Noun,Bathroom and toiletries,toothbrush,ngaa4caat2
+101,刷牙,Verb,Bathroom and toiletries,to brush one's teeth,caat3ngaa4
+102,牙膏,Noun,Bathroom and toiletries,toothpaste,ngaa4gou1
+103,凡士林,Noun,Bathroom and toiletries,vaseline,faan4si6lam4
+104,床,Noun,Bedroom,bed,cong4
+105,床單,Noun,Bedroom,sheets,cong4
+106,枕頭,Noun,Bedroom,pillow,zam2tau4
+107,手臂,Noun,Body,arm,sau2bei3
+108,背脊,Noun,Body,back,bui3zek3
+109,鬍鬚,Noun,Body,beard,wu4sou1
+110,肚,Noun,Body,belly,tou5
+111,血,Noun,Body,blood,hyut3
+112,身體,Noun,Body,body,san1tai2
+113,骨,Noun,Body,bone,gwat1
+114,腦,Noun,Body,brain,nou5
+115,胸,Noun,Body,"breast, chest",hung1
+116,耳仔,Noun,Body,ear,ji5zai2
+117,眼,Noun,Body,eye,ngaan5
+118,臉,Noun,Body,face,lim5
+119,手指,Noun,Body,finger,sau2zi2
+120,指甲,Noun,Body,fingernail,zi2gaap3
+121,腳,Noun,Body,foot,goek3
+122,頭髮,Noun,Body,hair (on head),tau4faat3
+123,毛,Noun,Body,hair (not on head),mou4
+124,手,Noun,Body,hand,sau2
+125,頭,Noun,Body,head,tau4
+126,心,Noun,Body,heart,sam1
+127,膝頭哥,Noun,Body,knee,sat1tau4go1
+128,腿,Noun,Body,leg,teoi2
+129,嘴唇,Noun,Body,lip,zeoi2seon4
+130,肝,Noun,Body,liver,gon1
+131,肺,Noun,Body,lungs,fai3
+132,嘴,Noun,Body,mouth,zeoi2
+133,口,Noun,Body,mouth,hau2
+134,肌肉,Noun,Body,muscle,gei1juk6
+135,神經,Noun,Body,nerve,san4ging1
+136,頸,Noun,Body,neck,geng2
+137,鼻,Noun,Body,nose,bei6
+138,器官,Noun,Body,organ,hei3gun1
+139,病咗,Adjective,Body,sick,beng6
+140,膊頭,Noun,Body,shoulder,bok3tau4
+141,皮膚,Noun,Body,skin,pei4fu1
+142,胃,Noun,Body,stomach,wai6
+143,汗,Noun,Body,sweat,hon4
+144,牙齒,Noun,Body,teeth,ngaa4ci2
+145,手指公,Noun,Body,thumb,sau2zi2gung1
+146,舌,Noun,Body,tongue,sit3
+147,腰,Noun,Body,waist,jiu1
+148,嚟M,Noun,Body,period,lai4em1
+149,鼻涕,Noun,Body,snot,bei6tai3
+150,泳衣,Noun,Clothing,bathing suit,wing6ji1
+151,衫,Noun,Clothing,clothes,saam1
+152,皮帶,Noun,Clothing,belt,pei4daai2
+153,靴,Noun,Clothing,boots,hoe4
+154,孖煙通,Noun,Clothing,boxer shorts,maa1jin1tung1
+155,底褲,Noun,Clothing,"briefs, panties",dai2fu3
+156,鈕,Noun,Clothing,button,nau2
+157,扣鈕,Verb,Clothing,to button up,kau3nau2
+158,大褸,Noun,Clothing,coat,daai6lau1
+159,裙,Noun,Clothing,"dress, skirt",kwan4
+160,手套,Noun,Clothing,gloves,sau2tou3
+161,帽,Noun,Clothing,hat,mou2
+162,高踭鞋,Noun,Clothing,high heels,gou1zaang1haai4
+163,褸,Noun,Clothing,jacket,lau1
+164,牛仔褲,Noun,Clothing,jeans,ngau4zai2fu3
+165,褲,Noun,Clothing,pants,fu3
+166,睡衣,Noun,Clothing,pyjamas,seoi6ji1
+167,雨褸,Noun,Clothing,raincoat,jyu5lau1
+168,頸巾,Noun,Clothing,scarf,geng2gan1
+169,恤衫,Noun,Clothing,shirt,seot1saam1
+170,鞋,Noun,Clothing,shoes,haai4
+171,短褲,Noun,Clothing,shorts,dyun2fu3
+172,拖鞋,Noun,Clothing,slippers,to1haai2
+173,襪,Noun,Clothing,socks,mat6
+174,西裝,Noun,Clothing,suit,sai1zong1
+175,冷衫,Noun,Clothing,sweater,laang1saam1
+176,呔,Noun,Clothing,necktie,taai1
+177,底衫,Noun,Clothing,underwear,dai2saam1
+178,制服,Noun,Clothing,uniform,zai3fuk6
+179,拉拉鏈,Verb,Clothing,to zip zipper,laai1laai1
+180,拉鏈,Noun,Clothing,zipper,laai1lin2
+181,顏色,Noun,Color,color,ngaan4sik1
+182,米色,Noun,Color,beige,mai5sik1
+183,黑色,Noun,Color,black,haak1sik1
+184,藍色,Noun,Color,blue,laam4sik1
+185,啡色,Noun,Color,brown,fe1sik1
+186,螢光,Adjective,Color,fluorescent,jing4gwong1
+187,金色,Noun,Color,gold,gam1sik1
+188,綠色,Noun,Color,green,luk6sik1
+189,青色,Noun,Color,green-yellow,ceng1sik1
+190,灰色,Noun,Color,grey,fui1sik1
+191,橙色,Noun,Color,orange,caang2sik1
+192,粉紅色,Noun,Color,pink,fan2hung4sik1
+193,紫色,Noun,Color,purple,zi2sik1
+194,紅色,Noun,Color,red,hung4sik1
+195,銀色,Noun,Color,silver,ngan4sik1
+196,透明,Adjective,Color,transparent,tau3ming4
+197,白色,Noun,Color,white,baak6sik1
+198,黃色,Noun,Color,yellow,wong4sik1
+199,唔使客氣,Phrase,Common phrases,you're welcome,m4sai2
+200,你好嗎,Phrase,Common phrases,how are you,nei5
+201,你食咗飯未,Phrase,Common phrases,have you eaten yet?,nei5
+202,你最近點啊,Phrase,Common phrases,how have you been lately?,nei5
+203,食飯,Phrase,Common phrases,bon appétit!,sik6faan6
+204,聽日見,Phrase,Common phrases,see you tomorrow!,ting1jat6
+205,早晨,Phrase,Common phrases,good morning,zou2san4
+206,你好,Phrase,Common phrases,hello,nei5
+207,傾偈,Verb,Daily Activity,chat,keng1gai2
+208,電腦,Noun,Daily Objects,computer,din6nou5
+209,鍵盤 ,Noun,Daily Objects,keyboard ,gin6pun2
+210,啲,Grammatical Particle,Degree Particle,"""adj-er"" in an english context, more",di1
+211,喂,Grammatical Particle,Exclamation,hey,wai3
+212,哇,Grammatical Particle,Exclamation,wow,waa1
+213,哥哥,Noun,Relationship,brother,go1go1
+214,阿女,Noun,Relationship,daughter,aa3neoi2
+215,阿仔,Noun,Relationship,son,aa3zai2
+216,老竇,Noun,Relationship,father,lou5dau6
+217,嫲嫲,Noun,Relationship,grandmother,maa4maa4
+218,老公,Noun,Relationship,husband,lou5gung1
+219,阿媽,Noun,Relationship,mother,aa3maa1
+220,親戚,Noun,Relationship,family relative,can1cik1
+221,家姐,Noun,Relationship,sister,gaa1ze1
+222,阿哥,Noun,Relationship,sister,aa3go1
+223,老婆,Noun,Relationship,wife,lou5po4
+224,覺得,Verb,Feelings,to feel,gok3dak1
+225,感覺,Noun,Feelings,feelings,gam2gok3
+226,抱怨,Verb,Feelings,to complain,pou5jyun3
+227,恭喜,Verb,Feelings,to congratulate ,gung1hei2
+228,原諒,Verb,Feelings,to forgive,jyun4loeng6
+229,八卦,Verb,Feelings,to gossip,baat3gwaa3
+230,愛,Verb,Feelings,to love,oi3
+231,恨,Verb,Feelings,to hate,han6
+232,希望,Verb,Feelings,to hope,hei1mong6
+233,後悔,Verb,Feelings,to regret,hau6fui3
+234,多謝,Verb,Feelings,to thank,do1ze6
+235,驚,Verb,Feelings,"to be afraid, to be scared",geng1
+236,嬲,Verb,Feelings,to be angry,nau1
+237,煩,Verb,Feelings,to be annoyed,faan4
+238,悶,Verb,Feelings,to be bored,mun6
+239,平靜,Adjective,Feelings,calm,ping4zing6
+240,舒服,Adjective,Feelings,comfortable,syu1fuk6
+241,失望,Adjective,Feelings,dissapointed,sat1mong6
+242,羡慕,Verb,Feelings,"to admire, to envy ",sin6mou6
+243,興奮,Adjective,Feelings,excited,hing1fan5
+244,沮喪,Adjective,Feelings,frustrated,zeoi2song3
+245,感激,Adjective,Feelings,grateful,gam2gik1
+246,內疚,Adjective,Feelings,guilty,noi6gau3
+247,絕望,Adjective,Feelings,hopeless,zyut6mong6
+248,心情唔好,Adjective,Feelings,in a bad mood,sam1cing4
+249,冷漠,Adjective,Feelings,indifferent,laang5mok6
+250,妒忌,Verb,Feelings,to jealous,dou3gei6
+251,緊張,Adjective,Feelings,nervous,gan2zoeng1
+252,驕傲,Adjective,Feelings,proud,giu1ngou6
+253,傷心,Adjective,Feelings,sad,soeng1sam1
+254,震驚,Adjective,Feelings,shocked,zan3ging1
+255,眼瞓,Adjective,Feelings,sleepy,ngaan5fan3
+256,驚訝,Adjective,Feelings,surprised,ging1ngaa6
+257,攰,Adjective,Feelings,tired,gui6
+258,難受,Adjective,Feelings,uncomfortable,naan4sau6
+259,我愛你,Phrase,Feelings,I love you,ngo5
+260,嘅,Grammatical Particle,Final Particle,asserting doubt,ge2
+261,啦,Grammatical Particle,Final Particle,for request or reluctant acceptance,laa1
+262,喇,Grammatical Particle,Final Particle,"now, already (for changing situation)",laa3
+263,飲,Verb,Food and drink,drink,jam2
+264,食,Verb,Food and drink,eat,sik6
+265,飽 ,Adjective,Food and drink,full,baau2
+266,肚餓 ,Adjective,Food and drink,hungry,tou5ngo6
+267,口渴,Adjective,Food and drink,thirsty ,hau2hot3
+268,燶,Adjective,Food and drink,burned,nung6
+269,好食,Adjective,Food and drink,"tasty, delicious, yummy",hou2sik6
+270,新鮮,Adjective,Food and drink,fresh,san1sin1
+271,變壞,Adjective,Food and drink,"rotten, have gone bad",bin3waai6
+272,好,Adjective,Food and drink,good,hou2
+273,見到都流口水,Phrase,Food and drink,mouthwatering,gin3dou2
+274,生,Adjective,Food and drink,raw,saang1
+275,香,Adjective,Food and drink,smells good,hoeng1
+276,好味,Adjective,Food and drink,"tasty, delicious, yummy",hou2mei6
+277,素,Adjective,Food and drink,vegetarian,sou3
+278,食齋 ,Verb,Food and drink,"to be vegetarian, to eat vegetarian food",sik6zaai1
+279,酒,Noun,Food and drink,alcohol (beverage),zau2
+280,啤酒,Noun,Food and drink,beer,be1zau2
+281,咖啡因,Noun,Food and drink,caffeine,gaa3fe1jan1
+282,咖啡,Noun,Food and drink,coffee,gaa3fe1
+283,熱巧克力,Noun,Food and drink,hot chocolate,jit6haau2hak1lik6
+284,汁,Noun,Food and drink,juice,zap1
+285,奶,Noun,Food and drink,milk,naai5
+286,奶昔,Noun,Food and drink,milkshake,naai5sik1
+287,豆漿,Noun,Food and drink,soy milk,dau6zoeng1
+288,紅酒,Noun,Food and drink,red wine,hung4zau2
+289,白酒,Noun,Food and drink,white wine,baak6zau2
+290,茶,Noun,Food and drink,tea,caa4
+291,紅茶,Noun,Food and drink,black tea,hung4caa4
+292,綠茶,Noun,Food and drink,green tea,luk6caa4
+293,涼茶,Noun,Food and drink,herbal tea,loeng4caa4
+294,烏龍茶,Noun,Food and drink,Oolong tea,wu1lung2caa4
+295,奶茶,Noun,Food and drink,milk tea,naai5caa4
+296,珍珠奶茶,Noun,Food and drink,"boba tea, bubble milk tea",zan1zyu1naai5caa4
+297,汽水,Noun,Food and drink,"soda, soft drink, pop",hei3seoi2
+298,可樂,Noun,Food and drink,coke,ho2lok6
+299,可口可樂 ,Noun,Food and drink,Coca-Cola,ho2hau2ho2lok6
+300,檸樂,Noun,Food and drink,lemon Coke,ning2lok6
+301,百事,Noun,Food and drink,Pepsi,baak3si6
+302,芬達,Noun,Food and drink,Fanta,fan1daat6
+303,七喜,Noun,Food and drink,7 Up,cat1hei2
+304,雪碧,Noun,Food and drink,Sprite,syut3bik1
+305,早餐,Noun,Food and drink,breakfast,zou2caan1
+306,晚餐,Noun,Food and drink,"dinner, supper",maan5caan1
+307,宵夜,Noun,Food and drink,"late night meal, bedtime snacks",siu1je2
+308,午餐,Noun,Food and drink,lunch,ng5caan1
+309,食午餐,Verb,Food and drink,to have lunch,sik6
+310,點心,Noun,Food and drink,dim sum,dim2sam1
+311,沙律,Noun,Food and drink,salad,saa1leot2
+312,湯,Noun,Food and drink,soup,soeng1
+313,壽司,Noun,Food and drink,sushi,sau6si1
+314,生果,Noun,Food and drink,fruit,saang1gwo2
+315,蘋果,Noun,Food and drink,apple,ping4gwo2
+316,香蕉,Noun,Food and drink,banana,hoeng1ziu1
+317,藍莓,Noun,Food and drink,blueberry,laam4mui2
+318,哈蜜瓜,Noun,Food and drink,cantaloupe,haa1mat6gwaa1
+319,車厘子,Noun,Food and drink,cherry,ce1lei4zi2
+320,榴蓮,Noun,Food and drink,durian,lau4lin4
+321,提子,Noun,Food and drink,grapes,tai4zi2
+322,蜜瓜,Noun,Food and drink,honeydew melon,mat6gwaa1
+323,奇異果,Noun,Food and drink,kiwi,kei4ji6gwo2
+324,檸檬,Noun,Food and drink,lemon,ning4mung1
+325,青檸,Noun,Food and drink,lime,ceng1ning2
+326,龍眼,Noun,Food and drink,longan,lung4ngaan2
+327,荔枝,Noun,Food and drink,lychee,lai6zi1
+328,芒果,Noun,Food and drink,mango,mong1gwo2
+329,密瓜,Noun,Food and drink,melon,mak6gwaa1
+330,橙,Noun,Food and drink,orange,caang2
+331,木瓜,Noun,Food and drink,papaya,muk6gwaa1
+332,桃,Noun,Food and drink,peach,tou4
+333,梨,Noun,Food and drink,pear,lei2
+334,菠蘿,Noun,Food and drink,pineapple,bo1lo4
+335,士多啤厘,Noun,Food and drink,strawberry,si6do1
+336,西瓜,Noun,Food and drink,watermelon,sai1gwaa1
+337,菜,Noun,Food and drink,vegetable,coi3
+338,蘆筍,Noun,Food and drink,asparagus,lou4seon2
+339,豆,Noun,Food and drink,beans,dau6
+340,白菜,Noun,Food and drink,bok choy,baak6coi3
+341,西蘭花,Noun,Food and drink,broccoli,sai1laan4faa1
+342,椰菜,Noun,Food and drink,cabbage,je4coi3
+343,紅蘿蔔,Noun,Food and drink,carrot,hung4lo4baak6
+344,椰菜花,Noun,Food and drink,cauliflower,je4coi3faa1
+345,西芹,Noun,Food and drink,celery,sai1kan2
+346,粟米,Noun,Food and drink,corn,suk1mai5
+347,青瓜,Noun,Food and drink,cucumber,ceng1gwaa1
+348,茄子,Noun,Food and drink,eggplant,ke2zi2
+349,蔥,Noun,Food and drink,green onion,cung1
+350,生菜,Noun,Food and drink,lettuce,saang1coi3
+351,蘑菇,Noun,Food and drink,mushroom,mo4gu1
+352,橄欖油,Noun,Food and drink,olive oil,gaam3laam5jau4
+353,洋蔥,Noun,Food and drink,onion,joeng4cung1
+354,薯仔,Noun,Food and drink,potato,syu4zai2
+355,南瓜,Noun,Food and drink,pumpkin,naam4gwaa1
+356,紫菜,Noun,Food and drink,seaweed (as food),zi2coi3
+357,菠菜,Noun,Food and drink,spinach,bo1coi3
+358,番薯,Noun,Food and drink,sweet potato,faan1syu2
+359,番茄,Noun,Food and drink,tomato,faan1ke2
+360,白蘿蔔,Noun,Food and drink,turnip,baak6lo4baak6
+361,淮山,Noun,Food and drink,yam,waai4saan1
+362,米,Noun,Food and drink,rice (raw),mai5
+363,飯,Noun,Food and drink,rice (cooked),faan6
+364,炒飯,Noun,Food and drink,fried rice,caau2faan6
+365,麵包,Noun,Food and drink,bread,min6baau1
+366,麵粉,Noun,Food and drink,flour,min6
+367,麵,Noun,Food and drink,noodles,min6
+368,炒麵,Noun,Food and drink,fried noodles,caau2
+369,公仔麵,Noun,Food and drink,instant noodles,gung1zai2min6
+370,米粉,Noun,Food and drink,rice noodles,mai5fan2
+371,饅頭,Noun,Food and drink,steamed bun,maan4tau4
+372,肉,Noun,Food and drink,meat,juk6
+373,杏仁,Noun,Food and drink,almonds,hang6jan4
+374,牛肉,Noun,Food and drink,beef,ngau4juk6
+375,腰果,Noun,Food and drink,cashews,jiu1gwo2
+376,鴨,Noun,Food and drink,duck,aap2
+377,蛋,Noun,Food and drink,egg,daan2
+378,果仁,Noun,Food and drink,nuts,gwo2jan4
+379,花生,Noun,Food and drink,peanuts,faa1sang1
+380,豬肉,Noun,Food and drink,pork,zyu1juk6
+381,豆腐,Noun,Food and drink,tofu,dau6fu6
+382,火雞,Noun,Food and drink,turkey,fo2gai1
+383,核桃,Noun,Food and drink,walnuts,hat6tou4
+384,魷魚,Noun,Food and drink,squid， calamari,jau4jyu2
+385,鰻魚,Noun,Food and drink,eel,maan4jyu2
+386,龍蝦,Noun,Food and drink,lobster,lung4haa1
+387,三文魚,Noun,Food and drink,salmon,saam1man4jyu2
+388,蝦,Noun,Food and drink,shrimp,haa1
+389,吞拿魚,Noun,Food and drink,tuna,tan1naa4jyu2
+390,烘焙,Noun,Food and drink,baking,hung1bui6
+391,燒烤,Noun,Food and drink,barbecue,siu1haau1
+392,水煮,Verb,Food and drink,to poach,seoi2zyu2
+393,蒸,Verb,Food and drink,to steam cook,zing1
+394,油炸,Verb,Food and drink,to deep fry,jau4zaa3
+395,炒,Verb,Food and drink,"to stir fry, to sauté",caau2
+396,燒,Verb,Food and drink,to grill,siu1
+397,醃,Verb,Food and drink,to marinate,jip3
+398,微波,Verb,Food and drink,to microwave,mei4bo1
+399,焗,Verb,Food and drink,"to roast, to bake",guk6
+400,煨,Verb,Food and drink,to simmer,wui1
+401,煙薰,Verb,Food and drink,to smoke (cooking),jin1
+402,燉 ,Verb,Food and drink,to stew,dan6
+403,煎,Verb,Food and drink,to pan-fry,zin1
+404,健康,Noun,Health and illness,health,gin6hong1
+405,健康,Adjective,Health and illness,healthy,gin6hong1
+406,病咗,Verb,Health and illness,to get sick,beng6
+407,中醫,Noun,Health and illness,Chinese medicine,zung1ji1
+408,診所,Noun,Health and illness,clinic,can2so2
+409,醫院,Noun,Health and illness,hospital,ji1jyun2
+410,打針,Verb,Health and illness,to inject (medication),daa2zam1
+411,按摩,Verb,Health and illness,to massage,on3mo1
+412,藥房,Noun,Health and illness,pharmacy,joek6fong4
+413,維他命,Noun,Health and illness,vitamin,wai4taa1ming6
+414,瑜伽,Noun,Health and illness,yoga,jyu4gaa1
+415,疾病,Noun,Health and illness,disease,zat6beng6
+416,過敏,Noun,Health and illness,allergies,gwo3man5
+417,焦慮,Noun,Health and illness,anxiety,ziu1leoi6
+418,哮喘,Noun,Health and illness,asthma,haau1cyun2
+419,骨折,Noun,Health and illness,broken bone,gwat1zit3
+420,瘀咗,Noun,Health and illness,bruise,jyu2
+421,流血,Verb,Health and illness,to bleed,lau4hyut3
+422,癌症,Noun,Health and illness,cancer,ngaam4zing3
+423,感冒,Noun,Health and illness,cold,gam2mou6
+424,便秘,Adjective,Health and illness,constipated,bin6
+425,抽筋,Noun,Health and illness,cramps,cau1gan1
+426,抑鬱症,Noun,Health and illness,depression,jik1wat1zing3
+427,糖尿病,Noun,Health and illness,diabetes,tong4niu6beng6
+428,肚痾,Verb,Health and illness,to have a diarrhea,tou5o1
+429,甩骹,Verb,Health and illness,to have a dislocated join,lat1gaau3
+430,頭暈,Adjective,Health and illness,dizzy,tau4wan4
+431,發羊吊,Noun,Health and illness,epilepsy,faat3joeng4diu3
+432,發燒,Noun,Health and illness,fever,faat3siu1
+433,流感,Noun,Health and illness,flu,lau4gam2
+434,頭痛,Noun,Health and illness,headache,tau4tung3
+435,心臟病發作,Verb,Health and illness,to have a heart attack,sam1zong6beng6faat3
+436,消化不良,Adjective,Health and illness,indigestion,siu1faa3bat1loeng4
+437,失眠,Noun,Health and illness,insomnia,sat1min4
+438,乳糖不耐症,Noun,Health and illness,lactose intolerant,jyu5tong4bat1noi6zing3
+439,扭親,Verb,Health and illness,sprain,nau2
+440,性病,Noun,Health and illness,STD,sing3beng6
+441,中風,Verb,Health and illness,to have a stroke,zung3fung1
+442,腫,Adjective,Health and illness,swollen,zung2
+443,病毒,Noun,Health and illness,virus,beng6duk6
+444,嘔,Verb,Health and illness,to vomit,au2
+445,農曆新年,Noun,Holidays and celebrations,Lunar New Year,nung4lik6san1nin4
+446,聖誕節,Noun,Holidays and celebrations,Christmas,sing3daan3zit3
+447,聖誕樹,Noun,Holidays and celebrations,Christmas tree,sing3daan3syu6
+448,復活節,Noun,Holidays and celebrations,Easter,fuk6wut6zit3
+449,聖誕老人,Noun,Holidays and celebrations,Santa Claus,sing3daan3lou5jan4
+450,樽,Noun,Kitchenware,bottle,zeon1
+451,碗,Noun,Kitchenware,bowl,wun2
+452,罐,Noun,Kitchenware,can,gun3
+453,筷子,Noun,Kitchenware,chopsticks,faai3zi2
+454,食譜,Noun,Kitchenware,cookbook,sik6pou2
+455,杯,Noun,Kitchenware,cup,bui1
+456,洗碗機,Noun,Kitchenware,dishwasher,sai2wun2gei1
+457,叉,Noun,Kitchenware,fork,caa1
+458,冰格,Noun,Kitchenware,freezer,bing1gaak3
+459,煎pan,Noun,Kitchenware,frying pan,zin1pen1
+460,玻璃杯,Noun,Kitchenware,glass (cup),bo1lei1bui1
+461,刀,Noun,Kitchenware,knife,dou1
+462,餐巾,Noun,Kitchenware,napkin,caan1gan1
+463,雪櫃,Noun,Kitchenware,refridgerator,syut3gwai6
+464,匙羹,Noun,Kitchenware,spoon,ci4gang1
+465,枱布,Noun,Kitchenware,table cloth,toi2
+466,茶壺,Noun,Kitchenware,teapot,caa4wu2
+467,鑊,Noun,Kitchenware,wok,wok6
+468,廣東話,Noun,Languages,Cantonese,gwong2dung1waa2
+469,中文,Noun,Languages,Chinese,zung1man2
+470,英文,Noun,Languages,English,jing1man2
+471,地毯,Noun,Living room,"carpet, rug",dei6taam2
+472,茶几,Noun,Living room,coffee table,caa4gei1
+473,梳化,Noun,Living room,"couch, sofa",so1faa2
+474,咕𠱸,Noun,Living room,cushion,gu1seon2
+475,遙控,Noun,Living room,remote control,jiu4hung3
+476,可以,Modal Verb,Modal Verb,"can, may, be allowed to",ho2ji5
+477,會,Modal Verb,Modal Verb,will (do something),wui5
+478,錢,Noun,Money,money,cin2
+479,幾錢,Question,Money,how much it cost,gei2
+480,買,Verb,Money,to buy,maai5
+481,散紙,Noun,Money,change (money),saan2zi2
+482,平,Adjective,Money,cheap,peng4
+483,貴,Adjective,Money,expensive,gwai3
+484,電影,Noun,"Movies, TV, and Radio",movie,din6jing2
+485,戲院,Noun,"Movies, TV, and Radio",cinema,hei3jyun2
+486,字幕,Noun,"Movies, TV, and Radio",subtitles,zi6mok6
+487,動作片,Noun,"Movies, TV, and Radio",action movie,dung6zok3pin2
+488,動畫,Noun,"Movies, TV, and Radio",anime,dung6waa2
+489,卡通片,Noun,"Movies, TV, and Radio",cartoon,kaa1tung1pin2
+490,笑片,Noun,"Movies, TV, and Radio",comedy,siu3pin2
+491,西片,Noun,"Movies, TV, and Radio",western film,sai1pin2
+492,鬼片,Noun,"Movies, TV, and Radio",horror movie,gwai2pin2
+493,收音機,Noun,"Movies, TV, and Radio",radio,sau1jam1gei1
+494,主持,Noun,"Movies, TV, and Radio",host,zyu2ci4
+495,電台,Noun,"Movies, TV, and Radio",radio station,din6toi4
+496,電視劇,Noun,"Movies, TV, and Radio",TV series,din6si6kek6
+497,歌,Noun,Music,song,go1
+498,音樂,Noun,Music,music,jam1ngok6
+499,演唱會,Noun,Music,concert,jin2coeng3wui2
+500,樂器,Noun,Music,musical instrument,ngok6hei3
+501,鋼琴,Noun,Music,piano,gong3kam4
+502,彈琴,Verb,Music,to play piano,taan4kam4
+503,小提琴,Noun,Music,violin,siu2tai4kam4
+504,拉小提琴,Verb,Music,to play violin,laai1
+505,歌迷,Noun,Music,fan of a singer,go1mai4
+506,海灘,Noun,Nature,beach,hoi2taan1
+507,叢林,Noun,Nature,jungle,cung4lam4
+508,湖,Noun,Nature,lake,wu4
+509,河,Noun,Nature,river,ho4
+510,岩石,Noun,Nature,rock,ngaam4sek6
+511,海,Noun,Nature,sea,hoi2
+512,星,Noun,Nature,star,sing1
+513,瀑布,Noun,Nature,waterfall,buk6bou3
+514,浪,Noun,Nature,wave,long4
+515,竹,Noun,Nature,bamboo,zuk1
+516,仙人掌,Noun,Nature,cactus,sin1jan4zoeng2
+517,蒲公英,Noun,Nature,dandelion,pou4gung1jing1
+518,花,Noun,Nature,flower,faa1
+519,草,Noun,Nature,grass,cou2
+520,茉莉,Noun,Nature,jasmin,mut6lei2
+521,葉,Noun,Nature,leaf,jip6
+522,百合,Noun,Nature,lily,baak3hap6
+523,花瓣,Noun,Nature,petal,faa1faan2
+524,根,Noun,Nature,root,gan1
+525,玫瑰,Noun,Nature,rose,mui4gwai3
+526,向日葵,Noun,Nature,sunflower,hoeng3jat6kwai4
+527,零,Number,Number,zero,leng4
+528,一,Number,Number,one,jat1
+529,二,Number,Number,two (for counting),ji6
+530,三,Number,Number,three,saam1
+531,四,Number,Number,four,sei3
+532,六,Number,Number,six,luk6
+533,八,Number,Number,eight,baat3
+534,十,Number,Number,ten,sap6
+535,十一,Number,Number,eleven,sap6jat1
+536,一百,Number,Number,one hundred,jat1baak3
+537,一萬 ,Number,Number,ten thousand,jat1maan6
+538,第,Affix,Numeral Prefix,for ordinal number,dai6
+539,明星,Noun,Occupation,celebrity,ming4sing1
+540,歌手,Noun,Occupation,singer,go1sau2
+541,職業,Noun,Occupation,occupation,zik1jip6
+542,商人,Noun,Occupation,businessperson,soeng1jan4
+543,公務員,Noun,Occupation,civil servant,gung1mou6jyun4
+544,牙醫,Noun,Occupation,dentist,ngaa4ji1
+545,工程師,Noun,Occupation,engineer,gung1cing4si1
+546,農民,Noun,Occupation,farmer,nung4man4
+547,漁夫,Noun,Occupation,fisherman,jyu4fu1
+548,記者,Noun,Occupation,journalist,gei3ze2
+549,律師,Noun,Occupation,lawyer,leot6si1
+550,搵工,Verb,Occupation,to look for a job,wan2gung1
+551,經理,Noun,Occupation,manager,ging1lei5
+552,打工仔,Noun,Occupation,worker (i.e. anyone one working but not being the boss),daa2gung1zai2
+553,藥劑師,Noun,Occupation,pharmacist,joek6zai1si1
+554,政客,Noun,Occupation,politician,zing3haak3
+555,前台,Noun,Occupation,receptionist,cin4
+556,言語治療師,Noun,Occupation,speech therapist,jin4jyu5
+557,外科醫生,Noun,Occupation,surgeon,ngoi6fo1ji1saang1
+558,翻譯,Noun,Occupation,translator,faan1jik6
+559,侍應,Noun,Occupation,"waiter, waitress",si6jing3
+560,作家,Noun,Occupation,writer,zok3gaa1
+561,辦公室,Noun,Office and stationery,office,baan6gung1sat1
+562,電腦 ,Noun,Office and stationery,computer ,din6nou5
+563,抬,Noun,Office and stationery,table,toi4
+564,信,Noun,Office and stationery,letter,seon3
+565,紙,Noun,Office and stationery,paper,zi2
+566,訂書機,Noun,Office and stationery,stapler,deng3syu1gei1
+567,郵票,Noun,Office and stationery,stamp,jau4piu3
+568,避孕套,Noun,Personal Items,condom,bei6jan6tou3
+569,親切,Adjective,Personality traits,affectionate,can1cit3
+570,有野心,Adjective,Personality traits,ambitious,jau5
+571,自大,Adjective,Personality traits,arrogant,zi6daai6
+572,勇敢,Adjective,Personality traits,brave,jung5gam2
+573,自信,Adjective,Personality traits,confident,zi6seon3
+574,保守,Adjective,Personality traits,conservative,bou2sau2
+575,黐線,Adjective,Personality traits,"insane, crazy",ci1sin3
+576,癲,Adjective,Personality traits,"insane, crazy",din1
+577,殘忍,Adjective,Personality traits,cruel,caan4jan2
+578,好奇,Adjective,Personality traits,curious,hou3kei4
+579,隨和,Adjective,Personality traits,easy-going,ceoi4wo4
+580,熱情,Adjective,Personality traits,enthusiastic,jit6cing4
+581,外向,Adjective,Personality traits,extraverted,ngoi6hoeng3
+582,搞笑,Adjective,Personality traits,funny,gaau2siu3
+583,大方,Adjective,Personality traits,generous,daai6fong1
+584,貪心,Adjective,Personality traits,greedy,taam1sam1
+585,勤力,Adjective,Personality traits,hard-working,kan4lik6
+586,誠實,Adjective,Personality traits,honest,sing4sat6
+587,無知,Adjective,Personality traits,ignorant,mou4zi1
+588,冇耐性,Adjective,Personality traits,impatient,mou5noi6sing3
+589,冇禮貌,Adjective,Personality traits,impolite,mou5lai5
+590,醒目,Adjective,Personality traits,smart,sing2muk6
+591,聰明,Adjective,Personality traits,smart,cung1ming4
+592,叻,Adjective,Personality traits,"capable, brilliant, good at ...",lek1
+593,激烈,Adjective,Personality traits,intense,gik1lit6
+594,內向,Adjective,Personality traits,introverted,noi6hoeng3
+595,善良,Adjective,Personality traits,kind,sin6loeng4
+596,懶,Adjective,Personality traits,lazy,laan5
+597,嘈,Adjective,Personality traits,loud,cou4
+598,謙虛,Adjective,Personality traits,modest,him1heoi1
+599,八卦,Adjective,Personality traits,nosy,baat3gwaa3
+600,有耐性,Adjective,Personality traits,patient,jau5
+601,有禮貌,Adjective,Personality traits,polite,jau5lai5maau6
+602,靠得住,Adjective,Personality traits,reliable,kaau3
+603,有責任感,Adjective,Personality traits,responsible,jau5zaak3jam6
+604,自私,Adjective,Personality traits,selfish,zi6si1
+605,敏感,Adjective,Personality traits,sensitive,man5gam2
+606,怕醜,Adjective,Personality traits,shy,paa3cau2
+607,儍,Adjective,Personality traits,silly,so4
+608,固執,Adjective,Personality traits,stubborn,gu3zap1
+609,蠢,Adjective,Personality traits,stupid,ceon2
+610,迷信,Adjective,Personality traits,superstitious,mai4seon3
+611,靠唔住,Adjective,Personality traits,unreliable,kaau3
+612,禿頭,Adjective,Physical traits,bald,tuk1tau4
+613,靚,Adjective,Physical traits,"beautiful, pretty",leng3
+614,得意,Adjective,Physical traits,cute,dak1ji3
+615,肥,Adjective,Physical traits,fat,fei4
+616,瘦,Adjective,Physical traits,"skinny, lean, thin",sau3
+617,老,Adjective,Physical traits,old,lou5
+618,蒼白,Adjective,Physical traits,pale,cong1baak6
+619,性感,Adjective,Physical traits,sexy,sing3gam2
+620,矮,Adjective,Physical traits,short,ai2
+621,苗條,Adjective,Physical traits,slim,miu4tiu5
+622,强壯,Adjective,Physical traits,strong,goeng6
+623,高,Adjective,Physical traits,tall,gou1
+624,醜樣,Adjective,Physical traits,ugly,cau2joeng2
+625,年輕,Adjective,Physical traits,young,nin4heng1
+626,啲,Affix,Prefix,for plural people/things,di1
+627,餐廳,Noun,Restaurant,restaurant,caan1teng1
+628,收據,Noun,Restaurant,"receipt, bill",sau1geoi3
+629,客人,Noun,Restaurant,guest,haak3jan4
+630,餐牌,Noun,Restaurant,menu,caan1paai2
+631,貼士,Noun,Restaurant,tip,tip1si2
+632,洗手間,Noun,Restaurant,"toilet, bathroom, washroom",sai2sau2gaan1
+633,唔該埋單,Phrase,Restaurant,"bill, please!",m4goi1
+634,呢度,Adverb,Spatial terms,here,ni1dou6
+635,嗰度,Adverb,Spatial terms,there,go2dou6
+636,近,Adverb,Spatial terms,near,gan6
+637,遠,Adverb,Spatial terms,far,jyun5
+638,方向,Noun,Spatial terms,direction,fong1hoeng3
+639,左,Adverb,Spatial terms,left,zo2
+640,右 ,Adverb,Spatial terms,right,jau6
+641,上,Adverb,Spatial terms,up,soeng5
+642,下,Adverb,Spatial terms,down,haa5
+643,裏面,Noun,Spatial terms,inside,leoi5min6
+644,出面,Noun,Spatial terms,outside,ceot1min2
+645,北,Noun,Spatial terms,north,bak1
+646,南,Noun,Spatial terms,south,naam4
+647,東,Noun,Spatial terms,east,dung1
+648,西,Noun,Spatial terms,west,sai1
+649,游水,Verb,Sports,to swim,jau4seoi2
+650,熟,Adjective,Temperature,cooked,suk6
+651,暖,Adjective,Temperature,warm,nyun5
+652,機場,Noun,Transportation,airport,gei1coeng4
+653,單車,Noun,Transportation,bike,daan1ce1
+654,巴士,Noun,Transportation,bus,baa1si2
+655,站,Noun,Transportation,"station, stop",zaam6
+656,總站,Noun,Transportation,terminal,zung2zaam6
+657,船,Noun,Transportation,boat,syun4
+658,車,Noun,Transportation,car,ce1
+659,公里,Noun,Transportation,kilometer,gung1lei5
+660,電單車,Noun,Transportation,motorcycle,din6daan1ce1
+661,飛機,Noun,Transportation,plane,fei1gei1
+662,地鐵,Noun,Transportation,"subway, MTR",dei6tit3
+663,機票,Noun,Transportation,plane ticket,gei1piu3
+664,火車,Noun,Transportation,train,fo2ce1
+665,紅綠燈,Noun,Transportation,traffic lights,hung4luk6dang1
+666,電車,Noun,Transportation,tram,din6ce1
+667,雲,Noun,Weather and Astronomy,cloud,wan4
+668,月亮,Noun,Weather and Astronomy,moon,jyut6loeng6
+669,天空,Noun,Weather and Astronomy,sky,tin1hung1
+670,太陽,Noun,Weather and Astronomy,sun,taai3joeng4
+671,偶像,Noun,Occupation,idol,ngau5zoeng6
+672,凍,Adjective,Temperature,cold,dung3
+673,呀,Grammatical Particle,Final Particle,softener,aa3
+674,呀,Grammatical Particle,Exclamation,"ah, oh (expressing surprise)",aa1
+675,學生,Noun,Occupation,student,hok6saang1
+676,廚師,Noun,Occupation,chef,ceoi4si1
+677,怪,Adjective,Personality traits,"odd, weird, strange",gwaai3
+678,擔心,Verb,Feelings,to worry,daam1sam1
+679,書,Noun,Daily Objects,book,syu1
+680,枱,Noun,Daily Objects,table,toi2
+681,森林,Noun,Nature,forest,sam1lam4
+682,植物,Noun,Nature,plant,zik6mat6
+683,樹,Noun,Nature,tree,syu6
+684,櫈,Noun,Daily Objects,chair,dang3
+685,水,Noun,Food and drink,water,seoi2
+686,演員,Noun,Occupation,actor,jin2jyun4
+687,熱,Adjective,Temperature,hot,jit6
+688,碟,Noun,Kitchenware,"dishes, plate",dip2
+689,老師,Noun,Occupation,teacher,lou5si1
+690,護士,Noun,Occupation,nurse,wu6si6
+691,醫生,Noun,Occupation,doctor,ji1sang1
+692,開心,Adjective,Feelings,"happy, glad",hoi1sam1
+693,雞,Noun,Animals,chicken,gai1
+694,雞,Noun,Food and drink,chicken,gai1
+695,電視,Noun,Daily Objects,TV,din6si6
+696,飛,Noun,"Movies, TV, and Radio",ticket,fei1
+697,魚,Noun,Animals,fish,jyu2
