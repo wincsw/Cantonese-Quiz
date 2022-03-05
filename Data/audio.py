@@ -2,8 +2,8 @@ import requests
 import time
 import os
 
-subscription_key = "30f36cae2d1144d48a2655dd33184124"
-location = "eastasia"
+subscription_key = "YOUR_SUBSCRIPTION_KEY"
+location = "YOUR_REGION"
 input_file = "sentences.txt"
 output_folder = "Audio"
 
