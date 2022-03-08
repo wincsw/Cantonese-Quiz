@@ -17,7 +17,7 @@ Cantonese,Part of Speech,Group,English,Pronunciation
 學位,Noun,Academics,degree,hok6wai2
 文憑,Noun,Academics,diploma,man4pang4
 證書,Noun,Academics,certificate,zing3syu1
-中學文憑,Noun,Academics,high school diploma,zung1hok6man4pang4
+中學文憑,Noun,Academics,high school diploma,zung1hok6
 學士,Noun,Academics,Bachelor's Degree ,hok6si6
 碩士 ,Noun,Academics,Master's Degree ,sek6si6
 博士,Noun,Academics,Doctorate (PhD),bok3si6
@@ -39,14 +39,14 @@ Cantonese,Part of Speech,Group,English,Pronunciation
 語言學,Noun,Academics,lingustics,jyu5jin4hok6
 字典,Noun,Academics,dictionary,zi6din2
 好,Adjective,Adjective,good,hou2
-唔好,Adjective,Adjective,not good,m4hou2
+唔好,Adjective,Adjective,not good,m4 hou2
 先,Adjective,Adjective,early,sin1
-下,Adjective,Adjective,next,haa5
+下,Adjective,Adjective,next,haa6
 都,Adverb,Adverb,"also, too, even, already",dou1
 就,Adverb,Adverb,almost,zau6
 又,Adverb,Adverb,"(once) again, also ",jau6
-真係,Adverb,Adverb,really,zan1hai6
-已經,Adverb,Adverb,already,ji5ging1
+真係,Adverb,Adverb,really,zan1 hai6
+已經,Adverb,Adverb,already,ji5 ging1
 就係,Adverb,Adverb,exactly,zau6hai6
 再,Adverb,Adverb,"again, repeated",zoi3
 其實,Adverb,Adverb,"actually, in fact",kei4sat6
@@ -87,9 +87,9 @@ Cantonese,Part of Speech,Group,English,Pronunciation
 雞,Noun,Animals,chicken,gai1
 魚,Noun,Animals,fish,jyu2
 一個,Article,Article,"a, an, the, one,",jat1go3
-一個,Article,Article,"a, an, the, one,",jat1go3
-嗰,Article,Article,that,go2
-嗰啲,Article,Article,those,go2di1
+一個,Article,Article,"a, an, the, one,",jat1 go3
+嗰,Article,Article,that,gwo2
+嗰啲,Article,Article,those,gwo2 di1
 到,Grammatical Particle,Aspect Particle,for indicating completion or potential,dou2
 咗,Grammatical Particle,Aspect Particle,a perfective particle (finish/have done sth),zo2
 到,Grammatical Particle,Aspectual Particle,for indicating completion or potential,dou2
@@ -115,7 +115,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 洗手盤,Noun,Bathroom and toiletries,sink,sai2sau2pun4
 番梘,Noun,Bathroom and toiletries,bar soap,faan1gaan2
 梘液,Noun,Bathroom and toiletries,liquid soap,gaan2jik6
-沖涼液,Noun,Bathroom and toiletries,bodywash,cung1loeng4jik6
+沖涼液,Noun,Bathroom and toiletries,bodywash,cung1loeng4
 棉條,Noun,Bathroom and toiletries,tampon,min4tiu2
 廁所,Noun,Bathroom and toiletries,"toilet, bathroom, washroom",ci3so2
 沖廁,Verb,Bathroom and toiletries,to flush,cung1ci3
@@ -125,7 +125,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 牙膏,Noun,Bathroom and toiletries,toothpaste,ngaa4gou1
 凡士林,Noun,Bathroom and toiletries,vaseline,faan4si6lam4
 床,Noun,Bedroom,bed,cong4
-床單,Noun,Bedroom,sheets,cong4daan1
+床單,Noun,Bedroom,sheets,cong4
 枕頭,Noun,Bedroom,pillow,zam2tau4
 手臂,Noun,Body,arm,sau2bei3
 背脊,Noun,Body,back,bui3zek3
@@ -159,7 +159,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 頸,Noun,Body,neck,geng2
 鼻,Noun,Body,nose,bei6
 器官,Noun,Body,organ,hei3gun1
-病咗,Adjective,Body,sick,beng6zo2
+病咗,Adjective,Body,sick,beng6
 膊頭,Noun,Body,shoulder,bok3tau4
 皮膚,Noun,Body,skin,pei4fu1
 胃,Noun,Body,stomach,wai6
@@ -201,7 +201,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 呔,Noun,Clothing,necktie,taai1
 底衫,Noun,Clothing,underwear,dai2saam1
 制服,Noun,Clothing,uniform,zai3fuk6
-拉拉鏈,Verb,Clothing,to zip zipper,laai1laai1lin2
+拉拉鏈,Verb,Clothing,to zip zipper,laai1laai1
 拉鏈,Noun,Clothing,zipper,laai1lin2
 顏色,Noun,Color,color,ngaan4sik1
 米色,Noun,Color,beige,mai5sik1
@@ -221,23 +221,23 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 透明,Adjective,Color,transparent,tau3ming4
 白色,Noun,Color,white,baak6sik1
 黃色,Noun,Color,yellow,wong4sik1
-頭先,Phrase,Common Phrase,just now,tau4sin1
+頭先,Phrase,Common Phrase,just now,sin1
 都係,Phrase,Common Phrase,also is,dou1hai6
-唔使客氣,Phrase,Common phrases,you're welcome,m4sai2haak3hei3
-你好嗎,Phrase,Common phrases,how are you,nei5hou2maa3
-你食咗飯未,Phrase,Common phrases,have you eaten yet?,nei5sik6zo2faan6mei6
-你最近點啊,Phrase,Common phrases,how have you been lately?,nei5zeoi3gan6dim2aa3
+唔使客氣,Phrase,Common phrases,you're welcome,m4sai2
+你好嗎,Phrase,Common phrases,how are you,nei5
+你食咗飯未,Phrase,Common phrases,have you eaten yet?,nei5
+你最近點啊,Phrase,Common phrases,how have you been lately?,nei5
 食飯,Phrase,Common phrases,bon appétit!,sik6faan6
-聽日見,Phrase,Common phrases,see you tomorrow!,ting1jat6gin3
+聽日見,Phrase,Common phrases,see you tomorrow!,ting1jat6
 早晨,Phrase,Common phrases,good morning,zou2san4
-你好,Phrase,Common phrases,hello,nei5hou2
+你好,Phrase,Common phrases,hello,nei5
 同,Conjunction,Conjunction,"and, with",tung4
-之後,Conjunction,Conjunction,after,zi1hau6
+之後,Conjunction,Conjunction,after,zi1 hau6
 但,Conjunction,Conjunction,"but, however",daan6
 不過,Conjunction,Conjunction,"but, however",bat1gwo3
-如果,Conjunction,Conjunction,if,jyu4gu2
+如果,Conjunction,Conjunction,if,jyu4gwo2
 因為,Conjunction,Conjunction,"because, due to",jan1wai6
-所以,Conjunction,Conjunction,"so, therefore, hence, thus",so2ji5
+所以,Conjunction,Conjunction,"so, therefore, hence, thus",so2 ji5
 但係,Conjunction,Conjunction,"but, however",daan6hai6
 住,Grammatical Particle,Continous Particle,"""verb-ing"" in an english context ",zyu6
 傾偈,Verb,Daily Activity,chat,keng1gai2
@@ -251,8 +251,8 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 啲,Grammatical Particle,Degree Particle,"""adj-er"" in an english context, more",di1
 喂,Grammatical Particle,Exclamation,hey,wai3
 哇,Grammatical Particle,Exclamation,wow,waa1
-呀,Grammatical Particle,Exclamation,"ah, oh (expressing surprise)",aa4
-呀,Grammatical Particle,Exclamation,"ah, oh (expressing surprise)",aa4
+呀,Grammatical Particle,Exclamation,"ah, oh (expressing surprise)",aa1
+呀,Grammatical Particle,Exclamation,"ah, oh (expressing surprise)",aa1
 覺得,Verb,Feelings,to feel,gok3dak1
 感覺,Noun,Feelings,feelings,gam2gok3
 抱怨,Verb,Feelings,to complain,pou5jyun3
@@ -277,7 +277,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 感激,Adjective,Feelings,grateful,gam2gik1
 內疚,Adjective,Feelings,guilty,noi6gau3
 絕望,Adjective,Feelings,hopeless,zyut6mong6
-心情唔好,Adjective,Feelings,in a bad mood,sam1cing4m4hou2
+心情唔好,Adjective,Feelings,in a bad mood,sam1cing4
 冷漠,Adjective,Feelings,indifferent,laang5mok6
 妒忌,Verb,Feelings,to jealous,dou3gei6
 緊張,Adjective,Feelings,nervous,gan2zoeng1
@@ -288,20 +288,20 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 驚訝,Adjective,Feelings,surprised,ging1ngaa6
 攰,Adjective,Feelings,tired,gui6
 難受,Adjective,Feelings,uncomfortable,naan4sau6
-我愛你,Phrase,Feelings,I love you,ngo5oi3nei5
+我愛你,Phrase,Feelings,I love you,ngo5
 擔心,Verb,Feelings,to worry,daam1sam1
 開心,Adjective,Feelings,"happy, glad",hoi1sam1
-嘅,Grammatical Particle,Final Particle,asserting doubt,ge3
-啦,Grammatical Particle,Final Particle,for request or reluctant acceptance,la1
-喇,Grammatical Particle,Final Particle,"now, already (for changing situation)",laa1
-呀,Grammatical Particle,Final Particle,softener,aa4
-嘅,Grammatical Particle,Final Particle,asserting doubt,ge3
-呀,Grammatical Particle,Final Particle,softener,aa4
+嘅,Grammatical Particle,Final Particle,asserting doubt,ge2
+啦,Grammatical Particle,Final Particle,for request or reluctant acceptance,laa1
+喇,Grammatical Particle,Final Particle,"now, already (for changing situation)",laa3
+呀,Grammatical Particle,Final Particle,softener,aa3
+嘅,Grammatical Particle,Final Particle,asserting doubt,ge2
+呀,Grammatical Particle,Final Particle,softener,aa3
 呢,Grammatical Particle,Final Particle,"for questions, ""how about""",ne1
-啦,Grammatical Particle,Final Particle,for request or reluctant acceptance,la1
-喇,Grammatical Particle,Final Particle,"now, already (for changing situation)",laa1
+啦,Grammatical Particle,Final Particle,for request or reluctant acceptance,laa1
+喇,Grammatical Particle,Final Particle,"now, already (for changing situation)",laa3
 咩,Grammatical Particle,Final Particle,a general question participle,me1
-喎,Grammatical Particle,Final Particle,for purpose of reminding,wo3
+喎,Grammatical Particle,Final Particle,for purpose of reminding,wo3wo4
 囉,Grammatical Particle,Final Particle,for disagreement or changed mood.,lo1
 飲,Verb,Food and drink,drink,jam2
 食,Verb,Food and drink,eat,sik6
@@ -313,7 +313,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 新鮮,Adjective,Food and drink,fresh,san1sin1
 變壞,Adjective,Food and drink,"rotten, have gone bad",bin3waai6
 好,Adjective,Food and drink,good,hou2
-見到都流口水,Phrase,Food and drink,mouthwatering,gin3dou2dou1lau4hau2seoi2
+見到都流口水,Phrase,Food and drink,mouthwatering,gin3dou2
 生,Adjective,Food and drink,raw,saang1
 香,Adjective,Food and drink,smells good,hoeng1
 好味,Adjective,Food and drink,"tasty, delicious, yummy",hou2mei6
@@ -349,7 +349,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 晚餐,Noun,Food and drink,"dinner, supper",maan5caan1
 宵夜,Noun,Food and drink,"late night meal, bedtime snacks",siu1je2
 午餐,Noun,Food and drink,lunch,ng5caan1
-食午餐,Verb,Food and drink,to have lunch,sik6ng5caan1
+食午餐,Verb,Food and drink,to have lunch,sik6
 點心,Noun,Food and drink,dim sum,dim2sam1
 沙律,Noun,Food and drink,salad,saa1leot2
 湯,Noun,Food and drink,soup,soeng1
@@ -375,7 +375,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 桃,Noun,Food and drink,peach,tou4
 梨,Noun,Food and drink,pear,lei2
 菠蘿,Noun,Food and drink,pineapple,bo1lo4
-士多啤厘,Noun,Food and drink,strawberry,si6do1be1lei4
+士多啤厘,Noun,Food and drink,strawberry,si6do1
 西瓜,Noun,Food and drink,watermelon,sai1gwaa1
 菜,Noun,Food and drink,vegetable,coi3
 蘆筍,Noun,Food and drink,asparagus,lou4seon2
@@ -406,9 +406,9 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 飯,Noun,Food and drink,rice (cooked),faan6
 炒飯,Noun,Food and drink,fried rice,caau2faan6
 麵包,Noun,Food and drink,bread,min6baau1
-麵粉,Noun,Food and drink,flour,min6fan2
+麵粉,Noun,Food and drink,flour,min6
 麵,Noun,Food and drink,noodles,min6
-炒麵,Noun,Food and drink,fried noodles,caau2min6
+炒麵,Noun,Food and drink,fried noodles,caau2
 公仔麵,Noun,Food and drink,instant noodles,gung1zai2min6
 米粉,Noun,Food and drink,rice noodles,mai5fan2
 饅頭,Noun,Food and drink,steamed bun,maan4tau4
@@ -441,15 +441,14 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 微波,Verb,Food and drink,to microwave,mei4bo1
 焗,Verb,Food and drink,"to roast, to bake",guk6
 煨,Verb,Food and drink,to simmer,wui1
-煙薰,Verb,Food and drink,to smoke (cooking),jin1fan1
+煙薰,Verb,Food and drink,to smoke (cooking),jin1
 燉 ,Verb,Food and drink,to stew,dan6
 煎,Verb,Food and drink,to pan-fry,zin1
 水,Noun,Food and drink,water,seoi2
 雞,Noun,Food and drink,chicken,gai1
-熟,Adjective,Food and drink,cooked,suk6
 健康,Noun,Health and illness,health,gin6hong1
 健康,Adjective,Health and illness,healthy,gin6hong1
-病咗,Verb,Health and illness,to get sick,beng6zo2
+病咗,Verb,Health and illness,to get sick,beng6
 中醫,Noun,Health and illness,Chinese medicine,zung1ji1
 診所,Noun,Health and illness,clinic,can2so2
 醫院,Noun,Health and illness,hospital,ji1jyun2
@@ -463,11 +462,11 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 焦慮,Noun,Health and illness,anxiety,ziu1leoi6
 哮喘,Noun,Health and illness,asthma,haau1cyun2
 骨折,Noun,Health and illness,broken bone,gwat1zit3
-瘀咗,Noun,Health and illness,bruise,jyu2zo2
+瘀咗,Noun,Health and illness,bruise,jyu2
 流血,Verb,Health and illness,to bleed,lau4hyut3
 癌症,Noun,Health and illness,cancer,ngaam4zing3
 感冒,Noun,Health and illness,cold,gam2mou6
-便秘,Adjective,Health and illness,constipated,bin6bei3
+便秘,Adjective,Health and illness,constipated,bin6
 抽筋,Noun,Health and illness,cramps,cau1gan1
 抑鬱症,Noun,Health and illness,depression,jik1wat1zing3
 糖尿病,Noun,Health and illness,diabetes,tong4niu6beng6
@@ -478,11 +477,11 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 發燒,Noun,Health and illness,fever,faat3siu1
 流感,Noun,Health and illness,flu,lau4gam2
 頭痛,Noun,Health and illness,headache,tau4tung3
-心臟病發作,Verb,Health and illness,to have a heart attack,sam1zong6beng6faat3zok3
+心臟病發作,Verb,Health and illness,to have a heart attack,sam1zong6beng6faat3
 消化不良,Adjective,Health and illness,indigestion,siu1faa3bat1loeng4
 失眠,Noun,Health and illness,insomnia,sat1min4
 乳糖不耐症,Noun,Health and illness,lactose intolerant,jyu5tong4bat1noi6zing3
-扭親,Verb,Health and illness,sprain,nau2can1
+扭親,Verb,Health and illness,sprain,nau2
 性病,Noun,Health and illness,STD,sing3beng6
 中風,Verb,Health and illness,to have a stroke,zung3fung1
 腫,Adjective,Health and illness,swollen,zung2
@@ -508,7 +507,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 餐巾,Noun,Kitchenware,napkin,caan1gan1
 雪櫃,Noun,Kitchenware,refridgerator,syut3gwai6
 匙羹,Noun,Kitchenware,spoon,ci4gang1
-枱布,Noun,Kitchenware,table cloth,toi2bou3
+枱布,Noun,Kitchenware,table cloth,toi2
 茶壺,Noun,Kitchenware,teapot,caa4wu2
 鑊,Noun,Kitchenware,wok,wok6
 碟,Noun,Kitchenware,"dishes, plate",dip2
@@ -522,13 +521,13 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 遙控,Noun,Living room,remote control,jiu4hung3
 可以,Modal Verb,Modal Verb,"can, may, be allowed to",ho2ji5
 會,Modal Verb,Modal Verb,will (do something),wui5
-可以,Modal Verb,Modal Verb,"can, may, be allowed to",ho2ji5
+可以,Modal Verb,Modal Verb,"can, may, be allowed to",ho2 ji5
 會,Modal Verb,Modal Verb,will (do something),wui5
 得,Modal Verb,Modal Verb,can,dak1
 唔會,Modal Verb,Modal Verb,will not (do something),m4wui5
 應該,Modal Verb,Modal Verb,should,jing1goi1
 錢,Noun,Money,money,cin2
-幾錢,Question,Money,how much it cost,gei2cin2
+幾錢,Question,Money,how much it cost,gei2
 買,Verb,Money,to buy,maai5
 散紙,Noun,Money,change (money),saan2zi2
 平,Adjective,Money,cheap,peng4
@@ -554,7 +553,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 鋼琴,Noun,Music,piano,gong3kam4
 彈琴,Verb,Music,to play piano,taan4kam4
 小提琴,Noun,Music,violin,siu2tai4kam4
-拉小提琴,Verb,Music,to play violin,laai1siu2tai4kam4
+拉小提琴,Verb,Music,to play violin,laai1
 歌迷,Noun,Music,fan of a singer,go1mai4
 海灘,Noun,Nature,beach,hoi2taan1
 叢林,Noun,Nature,jungle,cung4lam4
@@ -582,10 +581,10 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 樹,Noun,Nature,tree,syu6
 唔,Adverb,Negation,"no, not",m4
 冇,Verb,Negation,"not to have, there is no",mou5
-唔好,Verb,Negation,do not,m4hou2
-話,Noun,Noun,"talk, speech, language",waa6
-會,Noun,Noun,meeting,wui5
-架,Noun,Noun,"frame, rack",gaa3
+唔好,Verb,Negation,do not,m4 hou2
+話,Noun,Noun,"talk, speech, language",waa2
+會,Noun,Noun,meeting,wui2
+架,Noun,Noun,"frame, rack",gaa2
 嘢,Noun,Noun,thing,je5
 人,Noun,Noun,"person, people, human",jan4
 事,Noun,Noun,"matter, thing",si6
@@ -618,8 +617,8 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 打工仔,Noun,Occupation,worker (i.e. anyone one working but not being the boss),daa2gung1zai2
 藥劑師,Noun,Occupation,pharmacist,joek6zai1si1
 政客,Noun,Occupation,politician,zing3haak3
-前台,Noun,Occupation,receptionist,cin4toi4
-言語治療師,Noun,Occupation,speech therapist,jin4jyu5zi6liu4si1
+前台,Noun,Occupation,receptionist,cin4
+言語治療師,Noun,Occupation,speech therapist,jin4jyu5
 外科醫生,Noun,Occupation,surgeon,ngoi6fo1ji1saang1
 翻譯,Noun,Occupation,translator,faan1jik6
 侍應,Noun,Occupation,"waiter, waitress",si6jing3
@@ -641,7 +640,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 先,Number,Ordinal Number,first,sin1
 避孕套,Noun,Personal Items,condom,bei6jan6tou3
 親切,Adjective,Personality traits,affectionate,can1cit3
-有野心,Adjective,Personality traits,ambitious,jau5je5sam1
+有野心,Adjective,Personality traits,ambitious,jau5
 自大,Adjective,Personality traits,arrogant,zi6daai6
 勇敢,Adjective,Personality traits,brave,jung5gam2
 自信,Adjective,Personality traits,confident,zi6seon3
@@ -660,7 +659,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 誠實,Adjective,Personality traits,honest,sing4sat6
 無知,Adjective,Personality traits,ignorant,mou4zi1
 冇耐性,Adjective,Personality traits,impatient,mou5noi6sing3
-冇禮貌,Adjective,Personality traits,impolite,mou5lai5maau6
+冇禮貌,Adjective,Personality traits,impolite,mou5lai5
 醒目,Adjective,Personality traits,smart,sing2muk6
 聰明,Adjective,Personality traits,smart,cung1ming4
 叻,Adjective,Personality traits,"capable, brilliant, good at ...",lek1
@@ -671,10 +670,10 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 嘈,Adjective,Personality traits,loud,cou4
 謙虛,Adjective,Personality traits,modest,him1heoi1
 八卦,Adjective,Personality traits,nosy,baat3gwaa3
-有耐性,Adjective,Personality traits,patient,jau5noi6sing3
+有耐性,Adjective,Personality traits,patient,jau5
 有禮貌,Adjective,Personality traits,polite,jau5lai5maau6
-靠得住,Adjective,Personality traits,reliable,kaau3dak1zyu6
-有責任感,Adjective,Personality traits,responsible,jau5zaak3jam6gam2
+靠得住,Adjective,Personality traits,reliable,kaau3
+有責任感,Adjective,Personality traits,responsible,jau5zaak3jam6
 自私,Adjective,Personality traits,selfish,zi6si1
 敏感,Adjective,Personality traits,sensitive,man5gam2
 怕醜,Adjective,Personality traits,shy,paa3cau2
@@ -682,7 +681,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 固執,Adjective,Personality traits,stubborn,gu3zap1
 蠢,Adjective,Personality traits,stupid,ceon2
 迷信,Adjective,Personality traits,superstitious,mai4seon3
-靠唔住,Adjective,Personality traits,unreliable,kaau3m4zyu6
+靠唔住,Adjective,Personality traits,unreliable,kaau3
 怪,Adjective,Personality traits,"odd, weird, strange",gwaai3
 禿頭,Adjective,Physical traits,bald,tuk1tau4
 靚,Adjective,Physical traits,"beautiful, pretty",leng3
@@ -694,7 +693,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 性感,Adjective,Physical traits,sexy,sing3gam2
 矮,Adjective,Physical traits,short,ai2
 苗條,Adjective,Physical traits,slim,miu4tiu5
-强壯,Adjective,Physical traits,strong,goeng6zong3
+强壯,Adjective,Physical traits,strong,goeng6
 高,Adjective,Physical traits,tall,gou1
 醜樣,Adjective,Physical traits,ugly,cau2joeng2
 年輕,Adjective,Physical traits,young,nin4heng1
@@ -704,19 +703,19 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 啲,Affix,Prefix,for plural people/things,di1
 阿,Prefix,Prefix,an informal prefix for names,aa3
 喺,Preposition,Preposition,"a general preposition (i.e. in, on, at)",hai2
-過,Preposition,Preposition,over ,gwo3
-下,Adverb,Preposition,down,haa5
-下面,Noun,Preposition,"underneath, under",haa6min6
+過,Preposition,Preposition,over ,bat1gwo3
+下,Adverb,Preposition,down,haa6 
+下面,Noun,Preposition,"underneath, under",haa6 
 走,Preposition,Preposition,without,zau2
 我,Pronoun,Pronoun,"I, me",ngo5
 你,Pronoun,Pronoun,you ,nei5
 佢,Pronoun,Pronoun,"he, she",keoi5
-咁,Pronoun,Pronoun,"referring to person or thing (i.e. this, that, it)",gam3
-呢,Pronoun,Pronoun,this,ne1
-呢個,Pronoun,Pronoun,this,ni1go3
-呢啲,Pronoun,Pronoun,these,ni1di1
-自己,Pronoun,Pronoun,"oneself, self",zi6gei2
-我哋,Pronoun,Pronoun,we,ngo5dei6
+咁,Pronoun,Pronoun,"referring to person or thing (i.e. this, that, it)",gam2
+呢,Pronoun,Pronoun,this,ni1
+呢個,Pronoun,Pronoun,this,ni1 go3
+呢啲,Pronoun,Pronoun,these,ni1 di1
+自己,Pronoun,Pronoun,"oneself, self",zi6 gei2
+我哋,Pronoun,Pronoun,we,ngo5 dei6
 噉,Pronoun,Pronoun,"in this way, like this",gam2
 我地,Pronoun,Pronoun,we,ngo5dei6
 佢哋,Pronoun,Pronoun,"they, them",keoi5dei6
@@ -744,7 +743,7 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 餐牌,Noun,Restaurant,menu,caan1paai2
 貼士,Noun,Restaurant,tip,tip1si2
 洗手間,Noun,Restaurant,"toilet, bathroom, washroom",sai2sau2gaan1
-唔該埋單,Phrase,Restaurant,"bill, please!",m4goi1maai4daan1
+唔該埋單,Phrase,Restaurant,"bill, please!",m4goi1
 呢度,Adverb,Spatial terms,here,ni1dou6
 嗰度,Adverb,Spatial terms,there,go2dou6
 近,Adverb,Spatial terms,near,gan6
@@ -761,12 +760,13 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 東,Noun,Spatial terms,east,dung1
 西,Noun,Spatial terms,west,sai1
 游水,Verb,Sports,to swim,jau4seoi2
+熟,Adjective,Temperature,cooked,suk6
 暖,Adjective,Temperature,warm,nyun5
 凍,Adjective,Temperature,cold,dung3
 熱,Adjective,Temperature,hot,jit6
-而家,Noun,Time and Date,"now, this moment",ji4gaa1
-之後,Noun,Time and Date,afterwards,zi1hau6
-即刻,Adverb,Time and Date,immediately,zik1haak1
+而家,Noun,Time and Date,"now, this moment",ji4 gaa1
+之後,Noun,Time and Date,afterwards,zi1 hau6
+即刻,Adverb,Time and Date,immediately,zik1
 今日,Noun,Time and Date,today,gam1jat6
 尋日,Noun,Time and Date,yesterday,cam4jat6
 聽日,Noun,Time and Date,tomorrow,ting1jat6
@@ -792,26 +792,26 @@ M巾,Noun,Bathroom and toiletries,menstrual pad,em1gan1
 電車,Noun,Transportation,tram,din6ce1
 就,Verb,Verb,"to compromise, to give in to someone's demands",zau6
 係,Verb,Verb,"to be (i.e. am, is, are) ",hai6
-好,Verb,Verb,"to be fond of, to like",hou2
+好,Verb,Verb,"to be fond of, to like",hou3
 去,Verb,Verb,"to go, to leave",heoi3
 有,Verb,Verb,to have,jau5
-到,Verb,Verb,"to arrive, to reach",dou2
+到,Verb,Verb,"to arrive, to reach",dou3
 講,Verb,Verb,"to speak, to explain",gong2
 要,Verb,Verb,"to need, to want",jiu3
 話,Verb,Verb,"to say, to state, to speak",waa6
-會,Verb,Verb,to meet,wui5
-唔係,Verb,Verb,"to not be (i.e. am not, isn't, aren't)",m4hai6
+會,Verb,Verb,to meet,wui6
+唔係,Verb,Verb,"to not be (i.e. am not, isn't, aren't)",m4 hai6
 想,Verb,Verb,"to want, to hope, to expect",soeng2
-嚟,Verb,Verb,to come,lei4
+嚟,Verb,Verb,to come,lai4
 做,Verb,Verb,to do ,zou6
 得,Verb,Verb,to get,dak1
 返,Verb,Verb,"to go back, to come back, to return to",faan1
-搵,Verb,Verb,"to search, to find ",wan2
+搵,Verb,Verb,"to search, to find ",wan2 
 過,Verb,Verb,"to cross, to pass ",gwo3
 叫,Verb,Verb,"to call, to shout, to tell",giu3
-唔知,Verb,Verb,do not know,m4zi1
+唔知,Verb,Verb,do not know,m4 zi1
 住,Verb,Verb,"to live, to stay, to reside",zyu6
-睇,Verb,Verb,to watch,tai2
+睇,Verb,Verb,to watch, read
 覺得,Verb,Verb,"to feel, to think",gok3dak1
 俾,Verb,Verb,to give,bei2
 點,Verb,Verb,to dip,dim2
